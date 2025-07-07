@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -16,1060 +14,440 @@
   </Tags>
   
   <Layout>
-    <Page WIDTH="5901"
-          HEIGHT="9240"
-          PHYSICAL_IMG_NR="129"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="5901"
-                  HEIGHT="9240">
+    <Page WIDTH="5901" HEIGHT="9240" PHYSICAL_IMG_NR="129" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="5901" HEIGHT="9240">
         
-        <TextBlock HPOS="33.0"
-                   VPOS="182.0"
-                   WIDTH="5509.0"
-                   HEIGHT="8554.0"
-                   ID="69034120-7fa7-471b-afb0-d3bc1f88a6bc"
-                   TAGREFS="BT19261">
+        <TextBlock HPOS="33.0" VPOS="182.0" WIDTH="5509.0" HEIGHT="8554.0" ID="textblock_00001" TAGREFS="BT19261">
           <Shape><Polygon POINTS="5542 182 5542 8736 33 8736 33 182"/></Shape>
           
           
-          <TextLine ID="eSc_line_046fa5f2"
-                    TAGREFS="LT6926"
-                    BASELINE="1445 269 5263 290" 
-                    HPOS="1432"
-                    VPOS="184"
-                    WIDTH="3829"
-                    HEIGHT="177">
+          <TextLine ID="textline_00001" TAGREFS="LT6926" BASELINE="1445 269 5263 290" HPOS="1432" VPOS="184" WIDTH="3829" HEIGHT="177">
             <Shape><Polygon POINTS="5207 184 5130 184 5053 184 4976 184 4899 184 4822 184 4745 184 4668 184 4591 184 4514 184 4437 184 4360 184 4283 184 4206 184 4129 184 4052 184 3975 184 3898 184 3821 184 3743 184 3666 184 3589 184 3512 184 3435 184 3358 184 3281 184 3204 184 3127 184 3050 184 2973 184 2896 184 2819 184 2742 184 2665 184 2588 184 2511 184 2434 184 2357 184 2280 184 2203 184 2126 184 2049 184 1972 184 1895 184 1818 184 1741 184 1663 184 1586 184 1509 184 1440 184 1440 261 1432 338 1571 338 1586 338 1663 338 1741 338 1818 338 1895 338 1972 338 2049 338 2126 338 2195 338 2241 346 2249 346 2257 346 2295 338 2411 308 2549 338 2619 346 2626 346 2996 331 3443 315 3474 331 3512 354 3520 354 3528 354 3535 354 3728 331 3790 323 3951 331 4776 361 4783 361 5253 315 5261 284 5246 184 5207 184"/></Shape>
-	    <String CONTENT="3^e Question: Le sieur Josse Jean, cultivateur, domicilié à"
-                    HPOS="1432"
-                    VPOS="184"
-                    WIDTH="3829"
-                    HEIGHT="177"></String>
+	    <String CONTENT="3^e Question: Le sieur Josse Jean, cultivateur, domicilié à" HPOS="1432" VPOS="184" WIDTH="3829" HEIGHT="177"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_767a7bbd"
-                    TAGREFS="LT6926"
-                    BASELINE="252 379 1951 354 5467 456" 
-                    HPOS="238"
-                    VPOS="184"
-                    WIDTH="5223"
-                    HEIGHT="331">
+          <TextLine ID="textline_00002" TAGREFS="LT6926" BASELINE="252 379 1951 354 5467 456" HPOS="238" VPOS="184" WIDTH="5223" HEIGHT="331">
             <Shape><Polygon POINTS="2858 261 2781 261 2703 261 2626 261 2549 261 2472 261 2395 261 2318 261 2241 261 2164 261 2087 261 2010 261 1933 261 1856 261 1779 261 1702 261 1625 261 1548 261 1471 261 1425 215 246 184 246 377 238 408 962 423 970 423 978 423 1055 385 1810 446 1879 446 1887 446 1918 446 2218 408 2280 446 2287 446 2295 446 2303 446 3651 438 3967 485 3975 485 4360 462 4421 500 4429 500 4437 500 4445 500 4514 500 5092 469 5446 515 5461 454 5446 284 5130 323 5099 284 5092 284 5092 277 5084 277 5076 277 5069 277 4768 315 2865 254 2858 261"/></Shape>
-	    <String CONTENT="Cheriennes (Pas-de-Calais), est-il coupable d&#x27;avoir, le 2 février 1915, à Cheriennes"
-                    HPOS="238"
-                    VPOS="184"
-                    WIDTH="5223"
-                    HEIGHT="331"></String>
+	    <String CONTENT="Cheriennes (Pas-de-Calais), est-il coupable d'avoir, le 2 février 1915, à Cheriennes" HPOS="238" VPOS="184" WIDTH="5223" HEIGHT="331"/>
           </TextLine>
 
           
           
-          <TextLine ID="22179784-30d9-4fef-82f3-41e942935875"
-                    TAGREFS="LT6926"
-                    BASELINE="261 502 2683 492 2688 492 5074 537" 
-                    HPOS="246"
-                    VPOS="385"
-                    WIDTH="4823"
-                    HEIGHT="192">
+          <TextLine ID="textline_00003" TAGREFS="LT6926" BASELINE="261 502 2683 492 2688 492 5074 537" HPOS="246" VPOS="385" WIDTH="4823" HEIGHT="192">
             <Shape><Polygon POINTS="5022 438 4945 431 4868 431 4791 423 4714 423 4637 415 4560 415 4483 408 4406 408 4367 400 254 385 254 500 246 554 5053 577 5069 531 5061 438 5022 438"/></Shape>
-	    <String CONTENT="refusé d&#x27;obéir à une réquisition militaire à lui ordonnée par Monsieur"
-                    HPOS="246"
-                    VPOS="385"
-                    WIDTH="4823"
-                    HEIGHT="192"></String>
+	    <String CONTENT="refusé d'obéir à une réquisition militaire à lui ordonnée par Monsieur" HPOS="246" VPOS="385" WIDTH="4823" HEIGHT="192"/>
           </TextLine>
 
           
           
-          <TextLine ID="85e51a46-d15b-4f14-8359-57d4e4459d5b"
-                    TAGREFS="LT6926"
-                    BASELINE="305 629 2311 614 5121 641" 
-                    HPOS="292"
-                    VPOS="500"
-                    WIDTH="4823"
-                    HEIGHT="185">
+          <TextLine ID="textline_00004" TAGREFS="LT6926" BASELINE="305 629 2311 614 5121 641" HPOS="292" VPOS="500" WIDTH="4823" HEIGHT="185">
             <Shape><Polygon POINTS="300 623 292 669 5099 685 5115 639 5107 523 300 500 300 623"/></Shape>
-	    <String CONTENT="Séré maire de la localité qui lui prescrivait de fournir 100 bottes de"
-                    HPOS="292"
-                    VPOS="500"
-                    WIDTH="4823"
-                    HEIGHT="185"></String>
+	    <String CONTENT="Séré maire de la localité qui lui prescrivait de fournir 100 bottes de" HPOS="292" VPOS="500" WIDTH="4823" HEIGHT="185"/>
           </TextLine>
 
           
           
-          <TextLine ID="e2a8fefe-587e-4955-9d93-aa7e9013f97c"
-                    TAGREFS="LT6926"
-                    BASELINE="283 758 1562 725 1562 725 3177 754 4366 752" 
-                    HPOS="269"
-                    VPOS="569"
-                    WIDTH="4091"
-                    HEIGHT="254">
+          <TextLine ID="textline_00005" TAGREFS="LT6926" BASELINE="283 758 1562 725 1562 725 3177 754 4366 752" HPOS="269" VPOS="569" WIDTH="4091" HEIGHT="254">
             <Shape><Polygon POINTS="3505 585 3428 585 3366 577 3327 623 2341 623 2287 569 2280 569 2272 569 2195 569 2118 569 2041 569 1964 577 1887 577 1810 577 1733 585 1656 585 1579 585 1502 592 1425 592 1348 592 1317 592 1240 592 1194 600 1117 600 1109 600 993 600 962 608 893 608 754 608 731 616 685 616 516 616 500 623 469 623 269 623 277 754 277 823 862 777 4344 808 4360 746 4352 623 3551 585 3505 585"/></Shape>
-	    <String CONTENT="paille pour le service de l&#x27;Intendance militaire de la X^e Armée?"
-                    HPOS="269"
-                    VPOS="569"
-                    WIDTH="4091"
-                    HEIGHT="254"></String>
+	    <String CONTENT="paille pour le service de l'Intendance militaire de la X^e Armée?" HPOS="269" VPOS="569" WIDTH="4091" HEIGHT="254"/>
           </TextLine>
 
           
           
-          <TextLine ID="92e178f3-2630-409f-a6d9-b5187d5d1a19"
-                    TAGREFS="LT6926"
-                    BASELINE="1335 878 5368 898" 
-                    HPOS="1325"
-                    VPOS="762"
-                    WIDTH="4036"
-                    HEIGHT="231">
+          <TextLine ID="textline_00006" TAGREFS="LT6926" BASELINE="1335 878 5368 898" HPOS="1325" VPOS="762" WIDTH="4036" HEIGHT="231">
             <Shape><Polygon POINTS="1332 877 1325 962 3335 939 3659 985 3736 993 3743 993 3751 993 3782 985 3898 947 4575 985 4583 985 4591 985 4599 985 4760 947 4999 993 5030 993 5038 993 5061 993 5261 947 5330 993 5361 893 5354 770 1332 762 1332 877"/></Shape>
-	    <String CONTENT="4^e question: Le même, est-il coupable d&#x27;avoir. le 7 février"
-                    HPOS="1325"
-                    VPOS="762"
-                    WIDTH="4036"
-                    HEIGHT="231"></String>
+	    <String CONTENT="4^e question: Le même, est-il coupable d'avoir. le 7 février" HPOS="1325" VPOS="762" WIDTH="4036" HEIGHT="231"/>
           </TextLine>
 
           
           
-          <TextLine ID="c316a717-5ba2-4024-9177-93954d0cf726"
-                    TAGREFS="LT6926"
-                    BASELINE="250 1064 1249 1031 5338 1061" 
-                    HPOS="238"
-                    VPOS="900"
-                    WIDTH="5092"
-                    HEIGHT="224">
+          <TextLine ID="textline_00007" TAGREFS="LT6926" BASELINE="250 1064 1249 1031 5338 1061" HPOS="238" VPOS="900" WIDTH="5092" HEIGHT="224">
             <Shape><Polygon POINTS="246 1062 238 1108 5315 1124 5330 1054 5323 947 246 900 246 1062"/></Shape>
-	    <String CONTENT="1915, à Cheriennes, à son domicile, où l&#x27;autorité s&#x27;était transportée pour"
-                    HPOS="238"
-                    VPOS="900"
-                    WIDTH="5092"
-                    HEIGHT="224"></String>
+	    <String CONTENT="1915, à Cheriennes, à son domicile, où l'autorité s'était transportée pour" HPOS="238" VPOS="900" WIDTH="5092" HEIGHT="224"/>
           </TextLine>
 
           
           
-          <TextLine ID="d4959679-bbb3-481b-aadd-d1a984b4ae93"
-                    TAGREFS="LT6926"
-                    BASELINE="237 1215 5263 1186" 
-                    HPOS="223"
-                    VPOS="1039"
-                    WIDTH="5038"
-                    HEIGHT="246">
+          <TextLine ID="textline_00008" TAGREFS="LT6926" BASELINE="237 1215 5263 1186" HPOS="223" VPOS="1039" WIDTH="5038" HEIGHT="246">
             <Shape><Polygon POINTS="454 1054 223 1093 231 1208 231 1285 5253 1239 5261 1185 5238 1054 4129 1078 4021 1062 3867 1039 3859 1039 3659 1062 3505 1085 3397 1070 3274 1047 3266 1047 3258 1047 3189 1070 3143 1085 3089 1070 3019 1047 3012 1047 3004 1047 2996 1047 2989 1047 2958 1070 2935 1093 2557 1093 2526 1078 2449 1047 2442 1047 2434 1047 2056 1078 1895 1093 1810 1085 1625 1054 1617 1054 1610 1054 1548 1085 1540 1093 1540 1085 1509 1062 1509 1054 1502 1054 1494 1054 1101 1054 1093 1054 831 1093 801 1093 770 1093 462 1054 454 1054"/></Shape>
-	    <String CONTENT="vérifier ses allégations, outragé pas paroles Monsieur Séré maire de ladite"
-                    HPOS="223"
-                    VPOS="1039"
-                    WIDTH="5038"
-                    HEIGHT="246"></String>
+	    <String CONTENT="vérifier ses allégations, outragé pas paroles Monsieur Séré maire de ladite" HPOS="223" VPOS="1039" WIDTH="5038" HEIGHT="246"/>
           </TextLine>
 
           
           
-          <TextLine ID="09384f04-e5ce-4a33-af13-06fff16868c4"
-                    TAGREFS="LT6926"
-                    BASELINE="243 1359 1420 1331 3031 1367 5289 1373" 
-                    HPOS="238"
-                    VPOS="1193"
-                    WIDTH="5046"
-                    HEIGHT="231">
+          <TextLine ID="textline_00009" TAGREFS="LT6926" BASELINE="243 1359 1420 1331 3031 1367 5289 1373" HPOS="238" VPOS="1193" WIDTH="5046" HEIGHT="231">
             <Shape><Polygon POINTS="2311 1193 2303 1193 2110 1224 2049 1232 2033 1224 1995 1193 1925 1193 1848 1193 1771 1193 1694 1193 1617 1201 1540 1201 1463 1201 1386 1201 1309 1201 1263 1201 924 1201 924 1208 916 1208 238 1216 238 1355 238 1424 5277 1409 5284 1370 5269 1232 3882 1239 3705 1224 3351 1193 3343 1193 3335 1193 3243 1224 3220 1232 3212 1224 3173 1193 3166 1193 3158 1193 2804 1193 2796 1193 2526 1224 2442 1232 2411 1224 2318 1193 2311 1193"/></Shape>
-	    <String CONTENT="commune chargé d&#x27;un service de ministère public (réquisitions militaires)"
-                    HPOS="238"
-                    VPOS="1193"
-                    WIDTH="5046"
-                    HEIGHT="231"></String>
+	    <String CONTENT="commune chargé d'un service de ministère public (réquisitions militaires)" HPOS="238" VPOS="1193" WIDTH="5046" HEIGHT="231"/>
           </TextLine>
 
           
           
-          <TextLine ID="e251ccd7-1cf1-4dc7-bcf5-ddf42364d215"
-                    TAGREFS="LT6926"
-                    BASELINE="274 1497 1860 1480 5369 1544" 
-                    HPOS="261"
-                    VPOS="1355"
-                    WIDTH="5100"
-                    HEIGHT="262">
+          <TextLine ID="textline_00010" TAGREFS="LT6926" BASELINE="274 1497 1860 1480 5369 1544" HPOS="261" VPOS="1355" WIDTH="5100" HEIGHT="262">
             <Shape><Polygon POINTS="2688 1355 2472 1386 2395 1393 2380 1386 2349 1355 2341 1355 2334 1355 2326 1355 2095 1378 2041 1386 2033 1378 2002 1355 1964 1355 1941 1355 1871 1378 1841 1386 1779 1378 1625 1355 1579 1355 1502 1355 1432 1355 1309 1378 1278 1378 1271 1378 1240 1355 1194 1355 1124 1355 1086 1370 1078 1370 847 1355 808 1355 731 1355 654 1355 577 1355 500 1355 423 1355 346 1355 269 1362 269 1493 261 1555 5346 1617 5361 1540 5354 1409 3582 1409 3489 1393 3351 1362 3343 1362 3112 1386 2989 1401 2888 1386 2696 1355 2688 1355"/></Shape>
-	    <String CONTENT="à l&#x27;occasion de l&#x27;exercice de ses fonctions, en lui disant: « Bande de canaille »"
-                    HPOS="261"
-                    VPOS="1355"
-                    WIDTH="5100"
-                    HEIGHT="262"></String>
+	    <String CONTENT="à l'occasion de l'exercice de ses fonctions, en lui disant: « Bande de canaille »" HPOS="261" VPOS="1355" WIDTH="5100" HEIGHT="262"/>
           </TextLine>
 
           
           
-          <TextLine ID="5e355cb1-206d-47c2-8671-67762539d6ee"
-                    TAGREFS="LT6926"
-                    BASELINE="258 1628 1489 1601 5239 1713" 
-                    HPOS="246"
-                    VPOS="1478"
-                    WIDTH="4992"
-                    HEIGHT="370">
+          <TextLine ID="textline_00011" TAGREFS="LT6926" BASELINE="258 1628 1489 1601 5239 1713" HPOS="246" VPOS="1478" WIDTH="4992" HEIGHT="370">
             <Shape><Polygon POINTS="2180 1493 2103 1493 2095 1493 2041 1509 1987 1524 1779 1509 1625 1493 1563 1493 1486 1493 1409 1493 1332 1493 1255 1493 1178 1493 1101 1493 1024 1493 947 1493 870 1493 793 1493 716 1493 639 1493 562 1493 485 1493 408 1493 331 1493 323 1478 254 1478 254 1624 246 1694 2257 1794 2264 1794 2650 1747 2688 1747 2734 1747 3112 1817 3119 1817 3705 1778 3828 1832 3836 1832 3844 1832 3851 1832 3990 1794 4383 1848 4391 1848 4398 1848 4406 1848 4491 1801 5223 1801 5238 1709 5230 1563 4938 1601 4583 1547 4545 1547 4537 1547 4514 1547 4344 1586 3127 1555 3073 1524 3035 1509 3027 1509 3019 1509 2888 1524 2742 1540 2480 1516 2226 1493 2180 1493"/></Shape>
-	    <String CONTENT="« Nous sommes sous le régime de la terreur » «  Heureusement que ça ne durera pas» etc"
-                    HPOS="246"
-                    VPOS="1478"
-                    WIDTH="4992"
-                    HEIGHT="370"></String>
+	    <String CONTENT="« Nous sommes sous le régime de la terreur » «  Heureusement que ça ne durera pas» etc" HPOS="246" VPOS="1478" WIDTH="4992" HEIGHT="370"/>
           </TextLine>
 
           
           
-          <TextLine ID="231fb7b5-da6c-4946-8321-eb908d7cf399"
-                    TAGREFS="LT6926"
-                    BASELINE="412 2190 4894 2161" 
-                    HPOS="400"
-                    VPOS="2048"
-                    WIDTH="4491"
-                    HEIGHT="200">
+          <TextLine ID="textline_00012" TAGREFS="LT6926" BASELINE="412 2190 4894 2161" HPOS="400" VPOS="2048" WIDTH="4491" HEIGHT="200">
             <Shape><Polygon POINTS="408 2186 408 2248 2950 2248 3027 2248 3104 2248 3181 2248 3258 2248 4891 2248 4891 2156 4876 2048 400 2048 408 2186"/></Shape>
-	    <String CONTENT="Les voix recueillies séparément, conformément à l&#x27;article 131 du Code de justice militaire, ou commençant par le grade inférieur"
-                    HPOS="400"
-                    VPOS="2048"
-                    WIDTH="4491"
-                    HEIGHT="200"></String>
+	    <String CONTENT="Les voix recueillies séparément, conformément à l'article 131 du Code de justice militaire, ou commençant par le grade inférieur" HPOS="400" VPOS="2048" WIDTH="4491" HEIGHT="200"/>
           </TextLine>
 
           
           
-          <TextLine ID="cca915e5-a9f9-4f0b-92b0-0f880e99de2e"
-                    TAGREFS="LT6926"
-                    BASELINE="323 2319 1273 2295 1273 2295 3307 2312" 
-                    HPOS="308"
-                    VPOS="2194"
-                    WIDTH="2996"
-                    HEIGHT="177">
+          <TextLine ID="textline_00013" TAGREFS="LT6926" BASELINE="323 2319 1273 2295 1273 2295 3307 2312" HPOS="308" VPOS="2194" WIDTH="2996" HEIGHT="177">
             <Shape><Polygon POINTS="315 2317 308 2371 3297 2348 3304 2310 3297 2194 315 2194 315 2317"/></Shape>
-	    <String CONTENT="le Président ayant émis son opinion le dernier, le Conseil de guerre permanent déclare"
-                    HPOS="308"
-                    VPOS="2194"
-                    WIDTH="2996"
-                    HEIGHT="177"
-                    WC="0.976108719443166"></String>
+	    <String CONTENT="le Président ayant émis son opinion le dernier, le Conseil de guerre permanent déclare" HPOS="308" VPOS="2194" WIDTH="2996" HEIGHT="177" WC="0.976108719443166"/>
           </TextLine>
 
           
           
-          <TextLine ID="d6824dd5-e4e0-45ec-b832-d44503aa9769"
-                    TAGREFS="LT6926"
-                    BASELINE="273 2744 4728 2704" 
-                    HPOS="261"
-                    VPOS="2502"
-                    WIDTH="4461"
-                    HEIGHT="323">
+          <TextLine ID="textline_00014" TAGREFS="LT6926" BASELINE="273 2744 4728 2704" HPOS="261" VPOS="2502" WIDTH="4461" HEIGHT="323">
             <Shape><Polygon POINTS="269 2741 269 2825 1109 2818 1117 2818 1348 2772 4706 2772 4722 2702 4683 2517 4614 2579 4067 2579 3998 2541 3990 2541 3982 2541 3975 2541 3774 2579 3697 2525 3659 2502 3651 2502 3643 2502 3636 2502 3628 2502 3574 2525 3520 2556 3482 2525 3443 2502 3435 2502 3428 2502 3204 2502 3197 2502 3189 2502 3096 2533 2904 2594 2557 2533 2480 2525 2472 2525 2465 2525 2457 2525 2442 2533 2372 2587 2234 2541 2226 2541 2218 2541 2210 2541 1910 2602 1848 2541 1825 2525 1825 2517 1818 2517 1810 2517 1640 2517 1633 2517 1625 2517 1617 2517 1586 2541 1533 2587 1486 2541 1479 2541 1479 2533 1471 2533 1463 2533 1455 2533 1394 2541 1132 2610 1086 2571 1078 2571 1070 2571 1063 2571 770 2602 693 2548 670 2525 662 2525 654 2525 647 2525 261 2548 269 2741"/></Shape>
-	    <String CONTENT="Sur la 1^e question: A l&#x27;unanimité l&#x27;accusé Lagache est coupable"
-                    HPOS="261"
-                    VPOS="2502"
-                    WIDTH="4461"
-                    HEIGHT="323"></String>
+	    <String CONTENT="Sur la 1^e question: A l'unanimité l'accusé Lagache est coupable" HPOS="261" VPOS="2502" WIDTH="4461" HEIGHT="323"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_8525011f"
-                    TAGREFS="LT6926"
-                    BASELINE="254 2888 5360 2838" 
-                    HPOS="238"
-                    VPOS="2679"
-                    WIDTH="5116"
-                    HEIGHT="277">
+          <TextLine ID="textline_00015" TAGREFS="LT6926" BASELINE="254 2888 5360 2838" HPOS="238" VPOS="2679" WIDTH="5116" HEIGHT="277">
             <Shape><Polygon POINTS="4398 2710 4321 2710 4244 2710 4167 2710 4090 2710 4013 2710 3944 2710 3859 2741 3774 2718 3705 2718 3628 2718 3605 2718 3466 2741 3289 2718 3243 2718 3166 2718 3135 2718 3104 2748 2734 2725 2703 2725 2626 2725 2549 2725 2472 2725 2395 2725 2365 2725 2349 2733 2295 2756 2041 2741 1925 2733 1856 2733 1779 2733 1702 2733 1625 2733 1548 2733 1471 2733 1394 2733 1325 2733 238 2772 246 2887 246 2956 970 2910 5354 2910 5354 2833 5323 2679 5161 2725 4437 2710 4398 2710"/></Shape>
-	    <String CONTENT="Sur la 2^e question: A la majorité de trois voix contre deux le même n&#x27;est pas coupable"
-                    HPOS="238"
-                    VPOS="2679"
-                    WIDTH="5116"
-                    HEIGHT="277"></String>
+	    <String CONTENT="Sur la 2^e question: A la majorité de trois voix contre deux le même n'est pas coupable" HPOS="238" VPOS="2679" WIDTH="5116" HEIGHT="277"/>
           </TextLine>
 
           
           
-          <TextLine ID="f1bb7727-703d-4402-9a08-c486aa5579aa"
-                    TAGREFS="LT6926"
-                    BASELINE="257 3037 4826 2973" 
-                    HPOS="246"
-                    VPOS="2849"
-                    WIDTH="4576"
-                    HEIGHT="261">
+          <TextLine ID="textline_00016" TAGREFS="LT6926" BASELINE="257 3037 4826 2973" HPOS="246" VPOS="2849" WIDTH="4576" HEIGHT="261">
             <Shape><Polygon POINTS="3944 2849 3867 2856 3790 2856 3713 2856 3636 2856 3559 2856 3482 2856 3405 2856 3327 2856 3250 2856 3173 2856 3096 2864 3042 2864 3035 2872 3012 2879 2911 2872 2819 2864 2788 2864 2711 2864 2634 2864 2557 2864 2549 2864 2457 2879 2388 2887 2372 2879 2357 2872 2326 2872 2249 2872 2172 2872 2095 2872 2026 2872 1964 2879 1833 2895 1802 2879 1779 2872 1710 2872 1648 2872 1640 2887 1633 2887 1610 2887 1563 2879 1556 2879 1479 2879 1402 2879 1325 2879 1317 2879 1309 2887 1301 2887 1278 2887 1163 2879 1093 2879 1016 2879 939 2887 862 2887 785 2887 708 2887 631 2887 554 2887 477 2887 423 2887 246 2895 254 3033 254 3110 1394 3056 4814 3056 4822 2972 4807 2856 3951 2849 3944 2849"/></Shape>
-	    <String CONTENT="Sur la 3^e question: A l&#x27;unanimité, l&#x27;accusé Josse est coupable"
-                    HPOS="246"
-                    VPOS="2849"
-                    WIDTH="4576"
-                    HEIGHT="261"></String>
+	    <String CONTENT="Sur la 3^e question: A l'unanimité, l'accusé Josse est coupable" HPOS="246" VPOS="2849" WIDTH="4576" HEIGHT="261"/>
           </TextLine>
 
           
           
-          <TextLine ID="9e14f6a5-3466-4b02-aaa7-f9dc12a3f866"
-                    TAGREFS="LT6926"
-                    BASELINE="251 3157 4020 3121" 
-                    HPOS="238"
-                    VPOS="2987"
-                    WIDTH="3775"
-                    HEIGHT="216">
+          <TextLine ID="textline_00017" TAGREFS="LT6926" BASELINE="251 3157 4020 3121" HPOS="238" VPOS="2987" WIDTH="3775" HEIGHT="216">
             <Shape><Polygon POINTS="3628 2995 3551 2995 3474 2995 3397 2995 3358 2995 3135 2995 3089 3003 3012 3003 2935 3003 2858 3003 2781 3003 2734 3003 2519 3003 2472 3010 2395 3010 2318 3010 2241 3010 2164 3010 2110 3010 1995 3010 1933 3018 1856 3018 1779 3018 1702 3018 1625 3018 1548 3018 1479 3018 1378 3018 1317 3026 1240 3026 1163 3026 1086 3026 1009 3026 932 3026 855 3026 847 3026 778 3033 701 3033 623 3033 546 3033 469 3033 392 3033 315 3033 308 3026 238 3026 246 3149 246 3203 4005 3172 4013 3118 3990 2987 3659 2987 3628 2995"/></Shape>
-	    <String CONTENT="Sur la 4^e question: A l&#x27;unanimité, le même est coupable"
-                    HPOS="238"
-                    VPOS="2987"
-                    WIDTH="3775"
-                    HEIGHT="216"></String>
+	    <String CONTENT="Sur la 4^e question: A l'unanimité, le même est coupable" HPOS="238" VPOS="2987" WIDTH="3775" HEIGHT="216"/>
           </TextLine>
 
           
           
-          <TextLine ID="f305714e-475b-49c6-baf6-6cc5b9aba663"
-                    TAGREFS="LT6926"
-                    BASELINE="234 3285 4899 3255" 
-                    HPOS="223"
-                    VPOS="3141"
-                    WIDTH="4668"
-                    HEIGHT="262">
+          <TextLine ID="textline_00018" TAGREFS="LT6926" BASELINE="234 3285 4899 3255" HPOS="223" VPOS="3141" WIDTH="4668" HEIGHT="262">
             <Shape><Polygon POINTS="1147 3149 1070 3149 993 3149 916 3149 839 3149 762 3149 685 3149 608 3149 531 3149 454 3149 377 3149 300 3149 292 3141 223 3141 231 3280 238 3403 338 3349 623 3403 654 3403 662 3403 670 3403 677 3403 747 3341 1402 3341 1879 3341 1956 3388 1964 3388 1972 3388 1979 3388 1987 3388 2095 3341 2642 3341 2727 3388 2734 3388 2742 3388 2750 3388 4676 3349 4876 3380 4891 3249 4876 3149 1201 3141 1147 3149"/></Shape>
-	    <String CONTENT="A la majorité il existe des circonstances atténuante en faveur de Josse"
-                    HPOS="223"
-                    VPOS="3141"
-                    WIDTH="4668"
-                    HEIGHT="262"></String>
+	    <String CONTENT="A la majorité il existe des circonstances atténuante en faveur de Josse" HPOS="223" VPOS="3141" WIDTH="4668" HEIGHT="262"/>
           </TextLine>
 
           
           
-          <TextLine ID="17958d1e-7a29-42eb-ba4c-ffccb5b9eaac"
-                    TAGREFS="LT6926"
-                    BASELINE="417 4106 4931 4090" 
-                    HPOS="408"
-                    VPOS="3942"
-                    WIDTH="4522"
-                    HEIGHT="216">
+          <TextLine ID="textline_00019" TAGREFS="LT6926" BASELINE="417 4106 4931 4090" HPOS="408" VPOS="3942" WIDTH="4522" HEIGHT="216">
             <Shape><Polygon POINTS="415 4104 415 4158 4922 4158 4930 4088 4907 3942 408 3950 415 4104"/></Shape>
-	    <String CONTENT="Sur quoi, et attendu les conclusions prises par le Commissaire du Gouvernement dans ses réquisitions, le Président a lu le texte"
-                    HPOS="408"
-                    VPOS="3942"
-                    WIDTH="4522"
-                    HEIGHT="216"></String>
+	    <String CONTENT="Sur quoi, et attendu les conclusions prises par le Commissaire du Gouvernement dans ses réquisitions, le Président a lu le texte" HPOS="408" VPOS="3942" WIDTH="4522" HEIGHT="216"/>
           </TextLine>
 
           
           
-          <TextLine ID="960db6ee-6165-4d1d-88aa-0d8e9b2978ac"
-                    TAGREFS="LT6926"
-                    BASELINE="325 4215 4909 4203" 
-                    HPOS="315"
-                    VPOS="4096"
-                    WIDTH="4592"
-                    HEIGHT="239">
+          <TextLine ID="textline_00020" TAGREFS="LT6926" BASELINE="325 4215 4909 4203" HPOS="315" VPOS="4096" WIDTH="4592" HEIGHT="239">
             <Shape><Polygon POINTS="323 4211 323 4281 1856 4258 1918 4273 2103 4327 2110 4327 2118 4335 2603 4335 2603 4327 3405 4265 3582 4250 3659 4258 4021 4319 4029 4319 4036 4319 4044 4319 4129 4258 4136 4258 4321 4288 4329 4288 4622 4250 4660 4250 4668 4250 4745 4312 4753 4312 4760 4312 4768 4312 4776 4312 4907 4250 4907 4196 4884 4096 315 4111 323 4211"/></Shape>
-	    <String CONTENT="de la loi, recueilli de nouveau les voix dans la forme prescrite par les articles 131 et 234 du Code de justice militaire pour l&#x27;appli-"
-                    HPOS="315"
-                    VPOS="4096"
-                    WIDTH="4592"
-                    HEIGHT="239"></String>
+	    <String CONTENT="de la loi, recueilli de nouveau les voix dans la forme prescrite par les articles 131 et 234 du Code de justice militaire pour l'appli-" HPOS="315" VPOS="4096" WIDTH="4592" HEIGHT="239"/>
           </TextLine>
 
           
           
-          <TextLine ID="277e8d25-ec65-4b5d-acb0-4de18570ad9f"
-                    TAGREFS="LT6926"
-                    BASELINE="316 4337 962 4336" 
-                    HPOS="315"
-                    VPOS="4211"
-                    WIDTH="640"
-                    HEIGHT="178">
+          <TextLine ID="textline_00021" TAGREFS="LT6926" BASELINE="316 4337 962 4336" HPOS="315" VPOS="4211" WIDTH="640" HEIGHT="178">
             <Shape><Polygon POINTS="315 4335 315 4381 947 4389 955 4335 947 4211 315 4211 315 4335"/></Shape>
-	    <String CONTENT="cation de la peine."
-                    HPOS="315"
-                    VPOS="4211"
-                    WIDTH="640"
-                    HEIGHT="178"
-                    WC="0.9819545651737013"></String>
+	    <String CONTENT="cation de la peine." HPOS="315" VPOS="4211" WIDTH="640" HEIGHT="178" WC="0.9819545651737013"/>
           </TextLine>
 
           
           
-          <TextLine ID="2769d275-4d17-4143-8abc-07dfbc24ee2c"
-                    TAGREFS="LT6926"
-                    BASELINE="429 4445 4159 4425" 
-                    HPOS="415"
-                    VPOS="4319"
-                    WIDTH="3737"
-                    HEIGHT="177">
+          <TextLine ID="textline_00022" TAGREFS="LT6926" BASELINE="429 4445 4159 4425" HPOS="415" VPOS="4319" WIDTH="3737" HEIGHT="177">
             <Shape><Polygon POINTS="878 4342 801 4342 724 4342 647 4342 570 4342 493 4342 415 4342 423 4442 423 4496 4144 4466 4152 4419 4129 4319 909 4335 878 4342"/></Shape>
-	    <String CONTENT="Le Conseil est rentré en séance publique, le Président a lu les motifs qui précédent et le dispositif ci-dessous"
-                    HPOS="415"
-                    VPOS="4319"
-                    WIDTH="3737"
-                    HEIGHT="177"></String>
+	    <String CONTENT="Le Conseil est rentré en séance publique, le Président a lu les motifs qui précédent et le dispositif ci-dessous" HPOS="415" VPOS="4319" WIDTH="3737" HEIGHT="177"/>
           </TextLine>
 
           
           
-          <TextLine ID="acd2b185-c7b7-40cc-a041-bd793f03efa9"
-                    TAGREFS="LT6926"
-                    BASELINE="422 4553 5296 4547" 
-                    HPOS="408"
-                    VPOS="4350"
-                    WIDTH="4884"
-                    HEIGHT="270">
+          <TextLine ID="textline_00023" TAGREFS="LT6926" BASELINE="422 4553 5296 4547" HPOS="408" VPOS="4350" WIDTH="4884" HEIGHT="270">
             <Shape><Polygon POINTS="4106 4427 4029 4427 4005 4427 3967 4458 3443 4427 3412 4427 3335 4427 3258 4427 3181 4427 3150 4427 2850 4458 2688 4435 2642 4435 2565 4435 2488 4435 2411 4435 2334 4435 2287 4435 2210 4450 2118 4435 2103 4435 2026 4435 1949 4435 1887 4435 1864 4450 1771 4435 1717 4435 1640 4442 1563 4442 1525 4442 1517 4450 1147 4442 1101 4442 1024 4442 947 4442 870 4442 793 4442 716 4442 639 4442 562 4442 485 4442 469 4427 408 4427 415 4550 415 4620 5284 4596 5292 4543 5253 4419 5215 4450 5115 4419 4891 4350 4884 4350 4129 4350 4106 4427"/></Shape>
-	    <String CONTENT="En conséquence, le Conseil (1) A condamne le sieur Lagache Oscar"
-                    HPOS="408"
-                    VPOS="4350"
-                    WIDTH="4884"
-                    HEIGHT="270"></String>
+	    <String CONTENT="En conséquence, le Conseil (1) A condamne le sieur Lagache Oscar" HPOS="408" VPOS="4350" WIDTH="4884" HEIGHT="270"/>
           </TextLine>
 
           
           
-          <TextLine ID="f03a0ba8-2076-4a8b-a14f-fd6468b3f980"
-                    TAGREFS="LT6926"
-                    BASELINE="258 4713 5314 4691" 
-                    HPOS="246"
-                    VPOS="4543"
-                    WIDTH="5061"
-                    HEIGHT="246">
+          <TextLine ID="textline_00024" TAGREFS="LT6926" BASELINE="258 4713 5314 4691" HPOS="246" VPOS="4543" WIDTH="5061" HEIGHT="246">
             <Shape><Polygon POINTS="5253 4550 5215 4550 4953 4581 4244 4550 4175 4550 4098 4550 4021 4550 3944 4550 3882 4550 3559 4589 2827 4566 2326 4550 2318 4550 2311 4550 2303 4550 2280 4573 2241 4596 246 4596 254 4712 254 4789 3666 4727 3944 4766 3951 4766 5161 4727 5284 4766 5307 4689 5284 4543 5253 4543 5253 4550"/></Shape>
-	    <String CONTENT="Daniel Raoul, susqualifié à la majorité de quatre voix contre une, à la"
-                    HPOS="246"
-                    VPOS="4543"
-                    WIDTH="5061"
-                    HEIGHT="246"></String>
+	    <String CONTENT="Daniel Raoul, susqualifié à la majorité de quatre voix contre une, à la" HPOS="246" VPOS="4543" WIDTH="5061" HEIGHT="246"/>
           </TextLine>
 
           
           
-          <TextLine ID="dbf79b47-efc1-45de-bebb-d11654c01341"
-                    TAGREFS="LT6926"
-                    BASELINE="290 4851 5408 4840" 
-                    HPOS="277"
-                    VPOS="4704"
-                    WIDTH="5130"
-                    HEIGHT="231">
+          <TextLine ID="textline_00025" TAGREFS="LT6926" BASELINE="290 4851 5408 4840" HPOS="277" VPOS="4704" WIDTH="5130" HEIGHT="231">
             <Shape><Polygon POINTS="3050 4704 2973 4704 2896 4704 2819 4704 2742 4704 2665 4704 2588 4704 2511 4704 2434 4704 2357 4704 2280 4704 2241 4704 2210 4735 2203 4743 1887 4743 1879 4735 1841 4712 1818 4712 1741 4712 1663 4712 1586 4712 1509 4712 1432 4712 1355 4712 1278 4712 1201 4712 1124 4712 1047 4712 1024 4712 909 4735 870 4712 816 4712 793 4712 762 4743 454 4743 415 4712 354 4712 331 4712 277 4735 285 4843 285 4935 508 4897 5392 4912 5407 4835 5392 4727 3058 4704 3050 4704"/></Shape>
-	    <String CONTENT="peine de Quarante-cinq francs d&#x27;amende pas application"
-                    HPOS="277"
-                    VPOS="4704"
-                    WIDTH="5130"
-                    HEIGHT="231"></String>
+	    <String CONTENT="peine de Quarante-cinq francs d'amende pas application" HPOS="277" VPOS="4704" WIDTH="5130" HEIGHT="231"/>
           </TextLine>
 
           
           
-          <TextLine ID="f86c62a5-d267-4aa7-b077-7d3f431e0f64"
-                    TAGREFS="LT6926"
-                    BASELINE="251 5015 5390 4978" 
-                    HPOS="238"
-                    VPOS="4843"
-                    WIDTH="5146"
-                    HEIGHT="231">
+          <TextLine ID="textline_00026" TAGREFS="LT6926" BASELINE="251 5015 5390 4978" HPOS="238" VPOS="4843" WIDTH="5146" HEIGHT="231">
             <Shape><Polygon POINTS="5323 4843 5315 4843 5269 4866 2434 4851 2403 4851 2395 4851 2388 4851 2280 4889 238 4866 246 5012 246 5074 4375 5020 5369 5051 5384 4974 5354 4843 5323 4843"/></Shape>
-	    <String CONTENT="des articles 21 de la loi du 3 Juillet 1877 sur les réquisitions militaires, 7 et 8 de"
-                    HPOS="238"
-                    VPOS="4843"
-                    WIDTH="5146"
-                    HEIGHT="231"></String>
+	    <String CONTENT="des articles 21 de la loi du 3 Juillet 1877 sur les réquisitions militaires, 7 et 8 de" HPOS="238" VPOS="4843" WIDTH="5146" HEIGHT="231"/>
           </TextLine>
 
           
           
-          <TextLine ID="53558d3e-26b3-4d7f-b94a-2c2c4742060f"
-                    TAGREFS="LT6926"
-                    BASELINE="250 5134 5255 5118" 
-                    HPOS="238"
-                    VPOS="4997"
-                    WIDTH="5015"
-                    HEIGHT="208">
+          <TextLine ID="textline_00027" TAGREFS="LT6926" BASELINE="250 5134 5255 5118" HPOS="238" VPOS="4997" WIDTH="5015" HEIGHT="208">
             <Shape><Polygon POINTS="2241 5005 2164 5005 2087 5005 2010 5005 1933 5005 1856 5005 1779 5005 1702 5005 1625 5005 1548 5005 1471 5005 1394 5005 1317 5005 1240 5012 1163 5012 1086 5012 1009 5012 932 5012 855 5012 778 5012 701 5012 623 5012 546 5012 469 5012 392 5012 315 5012 277 5012 238 5028 246 5128 246 5205 5246 5166 5253 5112 5238 5012 2303 4997 2241 5005"/></Shape>
-	    <String CONTENT="la loi du 9 Août 1849 sur l&#x27;état de siège B condamne le sieur"
-                    HPOS="238"
-                    VPOS="4997"
-                    WIDTH="5015"
-                    HEIGHT="208"></String>
+	    <String CONTENT="la loi du 9 Août 1849 sur l'état de siège B condamne le sieur" HPOS="238" VPOS="4997" WIDTH="5015" HEIGHT="208"/>
           </TextLine>
 
           
           
-          <TextLine ID="a35bf573-4569-4885-aded-75f5902a7be0"
-                    TAGREFS="LT6926"
-                    BASELINE="292 5278 5441 5240" 
-                    HPOS="277"
-                    VPOS="5097"
-                    WIDTH="5161"
-                    HEIGHT="254">
+          <TextLine ID="textline_00028" TAGREFS="LT6926" BASELINE="292 5278 5441 5240" HPOS="277" VPOS="5097" WIDTH="5161" HEIGHT="254">
             <Shape><Polygon POINTS="5207 5120 5130 5120 5053 5120 4976 5120 4899 5120 4822 5120 4745 5120 4668 5120 4591 5120 4514 5120 4506 5120 4406 5151 4059 5151 4013 5120 3975 5120 3898 5120 3821 5120 3743 5120 3720 5120 3297 5151 277 5135 285 5274 285 5351 3874 5297 4059 5328 4082 5328 4090 5328 4129 5328 4406 5289 5431 5313 5438 5236 5423 5097 5215 5097 5207 5120"/></Shape>
-	    <String CONTENT="Josse jean susqualifié, 1^o à l&#x27;unanimité, à la peine de quarante"
-                    HPOS="277"
-                    VPOS="5097"
-                    WIDTH="5161"
-                    HEIGHT="254"></String>
+	    <String CONTENT="Josse jean susqualifié, 1^o à l'unanimité, à la peine de quarante" HPOS="277" VPOS="5097" WIDTH="5161" HEIGHT="254"/>
           </TextLine>
 
           
           
-          <TextLine ID="3e79003d-0e6a-41e6-961e-be8c625b658e"
-                    TAGREFS="LT6926"
-                    BASELINE="287 5419 5351 5368" 
-                    HPOS="277"
-                    VPOS="5251"
-                    WIDTH="5069"
-                    HEIGHT="239">
+          <TextLine ID="textline_00029" TAGREFS="LT6926" BASELINE="287 5419 5351 5368" HPOS="277" VPOS="5251" WIDTH="5069" HEIGHT="239">
             <Shape><Polygon POINTS="2203 5251 2126 5251 2049 5251 1972 5251 1895 5251 1818 5251 1741 5259 1663 5259 1594 5259 1109 5289 724 5274 662 5274 585 5274 508 5274 431 5274 354 5274 292 5274 277 5282 285 5413 285 5490 5346 5413 5346 5366 5330 5251 2280 5251 2203 5251"/></Shape>
-	    <String CONTENT="francs d&#x27;amende par application des articles 21 de la loi du 3 juillet"
-                    HPOS="277"
-                    VPOS="5251"
-                    WIDTH="5069"
-                    HEIGHT="239"></String>
+	    <String CONTENT="francs d'amende par application des articles 21 de la loi du 3 juillet" HPOS="277" VPOS="5251" WIDTH="5069" HEIGHT="239"/>
           </TextLine>
 
           
           
-          <TextLine ID="b3bc2606-b36f-4ad2-b051-9c6034dd7c8e"
-                    TAGREFS="LT6926"
-                    BASELINE="262 5548 5320 5486" 
-                    HPOS="254"
-                    VPOS="5382"
-                    WIDTH="5061"
-                    HEIGHT="208">
+          <TextLine ID="textline_00030" TAGREFS="LT6926" BASELINE="262 5548 5320 5486" HPOS="254" VPOS="5382" WIDTH="5061" HEIGHT="208">
             <Shape><Polygon POINTS="261 5544 261 5590 5315 5559 5315 5482 5292 5382 254 5436 261 5544"/></Shape>
-	    <String CONTENT="1877 sus les réquisitions militaires, 7 et 8 de la loi de 9 Aout 1849 sur l&#x27;état"
-                    HPOS="254"
-                    VPOS="5382"
-                    WIDTH="5061"
-                    HEIGHT="208"></String>
+	    <String CONTENT="1877 sus les réquisitions militaires, 7 et 8 de la loi de 9 Aout 1849 sur l'état" HPOS="254" VPOS="5382" WIDTH="5061" HEIGHT="208"/>
           </TextLine>
 
           
           
-          <TextLine ID="8fde58d2-f384-4791-a9e0-6a5c05e00b05"
-                    TAGREFS="LT6926"
-                    BASELINE="255 5672 5147 5640" 
-                    HPOS="246"
-                    VPOS="5505"
-                    WIDTH="4900"
-                    HEIGHT="262">
+          <TextLine ID="textline_00031" TAGREFS="LT6926" BASELINE="255 5672 5147 5640" HPOS="246" VPOS="5505" WIDTH="4900" HEIGHT="262">
             <Shape><Polygon POINTS="631 5544 554 5544 477 5544 400 5544 323 5544 315 5536 246 5536 254 5667 254 5713 1463 5767 1471 5767 2588 5759 2596 5759 2603 5759 2696 5698 2711 5698 3212 5698 3220 5698 3274 5744 3274 5751 3281 5751 3289 5751 3297 5751 3690 5705 3905 5751 3913 5751 3921 5751 4113 5690 4136 5690 5138 5690 5146 5636 5122 5505 662 5536 631 5544"/></Shape>
-	    <String CONTENT="de siège 2^o à la majorité de trois voix contre deux à la peine de Seize"
-                    HPOS="246"
-                    VPOS="5505"
-                    WIDTH="4900"
-                    HEIGHT="262"></String>
+	    <String CONTENT="de siège 2^o à la majorité de trois voix contre deux à la peine de Seize" HPOS="246" VPOS="5505" WIDTH="4900" HEIGHT="262"/>
           </TextLine>
 
           
           
-          <TextLine ID="91638f9f-12d2-4213-817a-b324a17d1549"
-                    TAGREFS="LT6926"
-                    BASELINE="276 5811 2292 5809 2292 5809 5314 5750" 
-                    HPOS="269"
-                    VPOS="5613"
-                    WIDTH="5038"
-                    HEIGHT="292">
+          <TextLine ID="textline_00032" TAGREFS="LT6926" BASELINE="276 5811 2292 5809 2292 5809 5314 5750" HPOS="269" VPOS="5613" WIDTH="5038" HEIGHT="292">
             <Shape><Polygon POINTS="5307 5744 5277 5613 5161 5651 4961 5613 4930 5613 4922 5613 4884 5613 4606 5659 3651 5636 3643 5636 3636 5636 3528 5674 3058 5636 2996 5636 2989 5636 2542 5644 2534 5644 2434 5698 762 5713 269 5674 269 5805 285 5905 346 5867 1463 5882 1895 5890 1902 5890 1972 5875 2126 5844 2334 5875 2434 5882 2442 5882 2611 5867 2989 5828 3212 5859 3297 5867 3304 5867 5307 5821 5307 5744"/></Shape>
-	    <String CONTENT="francs d&#x27;amende par application des articles 224, 463 du Code"
-                    HPOS="269"
-                    VPOS="5613"
-                    WIDTH="5038"
-                    HEIGHT="292"
-                    WC="0.9734985378922009"></String>
+	    <String CONTENT="francs d'amende par application des articles 224, 463 du Code" HPOS="269" VPOS="5613" WIDTH="5038" HEIGHT="292" WC="0.9734985378922009"/>
           </TextLine>
 
           
           
-          <TextLine ID="c7fd3fe9-9ca7-4c8b-806d-29de7dd06b70"
-                    TAGREFS="LT6926"
-                    BASELINE="286 5925 1807 5930 4780 5903" 
-                    HPOS="277"
-                    VPOS="5790"
-                    WIDTH="4499"
-                    HEIGHT="231">
+          <TextLine ID="textline_00033" TAGREFS="LT6926" BASELINE="286 5925 1807 5930 4780 5903" HPOS="277" VPOS="5790" WIDTH="4499" HEIGHT="231">
             <Shape><Polygon POINTS="285 5921 285 6021 4768 5952 4776 5898 4753 5790 277 5813 285 5921"/></Shape>
-	    <String CONTENT="pénal, 7 et 8 de la loi du 9 Août 1849 sur l&#x27;état de siège"
-                    HPOS="277"
-                    VPOS="5790"
-                    WIDTH="4499"
-                    HEIGHT="231"></String>
+	    <String CONTENT="pénal, 7 et 8 de la loi du 9 Août 1849 sur l'état de siège" HPOS="277" VPOS="5790" WIDTH="4499" HEIGHT="231"/>
           </TextLine>
 
           
           
-          <TextLine ID="fb9a84ba-76bf-4d02-bedb-31ef7d1bb3bb"
-                    TAGREFS="LT6926"
-                    BASELINE="1970 6066 5385 6011" 
-                    HPOS="1956"
-                    VPOS="5882"
-                    WIDTH="3428"
-                    HEIGHT="239">
+          <TextLine ID="textline_00034" TAGREFS="LT6926" BASELINE="1970 6066 5385 6011" HPOS="1956" VPOS="5882" WIDTH="3428" HEIGHT="239">
             <Shape><Polygon POINTS="4730 5905 4653 5905 4575 5905 4498 5905 4421 5905 4344 5905 4337 5905 1956 5952 1964 6059 1964 6121 4776 6121 4776 6113 5384 6052 5384 6006 5361 5882 4730 5890 4730 5905"/></Shape>
-	    <String CONTENT="Le Conseil les condamne, en outre, solidairement"
-                    HPOS="1956"
-                    VPOS="5882"
-                    WIDTH="3428"
-                    HEIGHT="239"
-                    WC="0.9783796655635039"></String>
+	    <String CONTENT="Le Conseil les condamne, en outre, solidairement" HPOS="1956" VPOS="5882" WIDTH="3428" HEIGHT="239" WC="0.9783796655635039"/>
           </TextLine>
 
           
           
-          <TextLine ID="7a6aa69b-c68e-4512-a1c5-c5a96dd8418b"
-                    TAGREFS="LT6926"
-                    BASELINE="246 6180 5321 6180" 
-                    HPOS="238"
-                    VPOS="6013"
-                    WIDTH="5077"
-                    HEIGHT="262">
+          <TextLine ID="textline_00035" TAGREFS="LT6926" BASELINE="246 6180 5321 6180" HPOS="238" VPOS="6013" WIDTH="5077" HEIGHT="262">
             <Shape><Polygon POINTS="4976 6013 4968 6013 4899 6021 4522 6083 3720 6083 3651 6036 3628 6036 3551 6036 3528 6036 3397 6083 1717 6083 1640 6036 1610 6013 1602 6013 1594 6013 1586 6013 238 6036 238 6175 238 6229 338 6275 346 6275 354 6275 362 6275 369 6275 369 6267 400 6237 469 6275 477 6275 485 6275 5315 6252 5315 6175 5300 6021 5115 6075 4999 6021 4984 6013 4976 6013"/></Shape>
-	    <String CONTENT="aux frais envers l&#x27;Etat et fixe au minimum pour chacun d&#x27;eux la durée de la"
-                    HPOS="238"
-                    VPOS="6013"
-                    WIDTH="5077"
-                    HEIGHT="262"></String>
+	    <String CONTENT="aux frais envers l'Etat et fixe au minimum pour chacun d'eux la durée de la" HPOS="238" VPOS="6013" WIDTH="5077" HEIGHT="262"/>
           </TextLine>
 
           
           
-          <TextLine ID="2f50ea21-fb15-412e-910d-b384e97e4535"
-                    TAGREFS="LT6926"
-                    BASELINE="255 6319 5310 6307" 
-                    HPOS="246"
-                    VPOS="6190"
-                    WIDTH="5061"
-                    HEIGHT="177">
+          <TextLine ID="textline_00036" TAGREFS="LT6926" BASELINE="255 6319 5310 6307" HPOS="246" VPOS="6190" WIDTH="5061" HEIGHT="177">
             <Shape><Polygon POINTS="254 6314 254 6367 5300 6360 5307 6306 5284 6190 246 6213 254 6314"/></Shape>
-	    <String CONTENT="contrainte par corps par application des articles 55du Code pénal, 139 des Code"
-                    HPOS="246"
-                    VPOS="6190"
-                    WIDTH="5061"
-                    HEIGHT="177"></String>
+	    <String CONTENT="contrainte par corps par application des articles 55du Code pénal, 139 des Code" HPOS="246" VPOS="6190" WIDTH="5061" HEIGHT="177"/>
           </TextLine>
 
           
           
-          <TextLine ID="2823d151-2fe5-4c04-b020-d7828dc78495"
-                    TAGREFS="LT6926"
-                    BASELINE="240 6443 5369 6446" 
-                    HPOS="238"
-                    VPOS="6298"
-                    WIDTH="5123"
-                    HEIGHT="223">
+          <TextLine ID="textline_00037" TAGREFS="LT6926" BASELINE="240 6443 5369 6446" HPOS="238" VPOS="6298" WIDTH="5123" HEIGHT="223">
             <Shape><Polygon POINTS="5246 6314 5169 6314 5092 6314 5015 6314 4938 6314 4861 6314 4783 6314 4706 6314 4629 6314 4552 6314 4475 6314 4398 6314 4321 6314 4244 6314 4167 6314 4106 6314 385 6337 246 6298 238 6437 238 6521 5354 6521 5361 6444 5346 6306 5246 6306 5246 6314"/></Shape>
-	    <String CONTENT="de Justice Militaire et 9 de la loi du 22 juillet 1867, tous articles visés lus"
-                    HPOS="238"
-                    VPOS="6298"
-                    WIDTH="5123"
-                    HEIGHT="223"></String>
+	    <String CONTENT="de Justice Militaire et 9 de la loi du 22 juillet 1867, tous articles visés lus" HPOS="238" VPOS="6298" WIDTH="5123" HEIGHT="223"/>
           </TextLine>
 
           
           
-          <TextLine ID="37bbec1c-2f2a-4029-8d31-40ce3ff68caf"
-                    TAGREFS="LT6926"
-                    BASELINE="215 6602 5437 6592" 
-                    HPOS="200"
-                    VPOS="6460"
-                    WIDTH="5231"
-                    HEIGHT="239">
+          <TextLine ID="textline_00038" TAGREFS="LT6926" BASELINE="215 6602 5437 6592" HPOS="200" VPOS="6460" WIDTH="5231" HEIGHT="239">
             <Shape><Polygon POINTS="207 6598 223 6699 269 6660 677 6691 793 6699 801 6699 5423 6660 5431 6591 5415 6483 200 6460 207 6598"/></Shape>
-	    <String CONTENT="par le Président en audience publique. Les articles dont la pénalité a été appliquée"
-                    HPOS="200"
-                    VPOS="6460"
-                    WIDTH="5231"
-                    HEIGHT="239"></String>
+	    <String CONTENT="par le Président en audience publique. Les articles dont la pénalité a été appliquée" HPOS="200" VPOS="6460" WIDTH="5231" HEIGHT="239"/>
           </TextLine>
 
           
           
-          <TextLine ID="ca43ca35-aff6-420e-991a-5c88592f2072"
-                    TAGREFS="LT6926"
-                    BASELINE="250 6762 1242 6740" 
-                    HPOS="238"
-                    VPOS="6629"
-                    WIDTH="1002"
-                    HEIGHT="239">
+          <TextLine ID="textline_00039" TAGREFS="LT6926" BASELINE="250 6762 1242 6740" HPOS="238" VPOS="6629" WIDTH="1002" HEIGHT="239">
             <Shape><Polygon POINTS="246 6760 246 6860 693 6829 1224 6868 1240 6737 1217 6629 238 6660 246 6760"/></Shape>
-	    <String CONTENT="sont ainsi conçus"
-                    HPOS="238"
-                    VPOS="6629"
-                    WIDTH="1002"
-                    HEIGHT="239"></String>
+	    <String CONTENT="sont ainsi conçus" HPOS="238" VPOS="6629" WIDTH="1002" HEIGHT="239"/>
           </TextLine>
 
           
           
-          <TextLine ID="d053c1af-e391-4572-889d-f70173c21418"
-                    TAGREFS="LT6926"
-                    BASELINE="242 6931 1077 6949 1077 6949 5418 6914" 
-                    HPOS="231"
-                    VPOS="6776"
-                    WIDTH="5184"
-                    HEIGHT="261">
+          <TextLine ID="textline_00040" TAGREFS="LT6926" BASELINE="242 6931 1077 6949 1077 6949 5418 6914" HPOS="231" VPOS="6776" WIDTH="5184" HEIGHT="261">
             <Shape><Polygon POINTS="238 6930 238 6991 1201 7037 1209 7037 5407 6960 5415 6906 5392 6776 231 6791 238 6930"/></Shape>
-	    <String CONTENT="Article 21 de la loi du 3 Juillet 1877 sur les réquisitions militaire: « .... Si le fait provient du mauvais"
-                    HPOS="231"
-                    VPOS="6776"
-                    WIDTH="5184"
-                    HEIGHT="261"></String>
+	    <String CONTENT="Article 21 de la loi du 3 Juillet 1877 sur les réquisitions militaire: « .... Si le fait provient du mauvais" HPOS="231" VPOS="6776" WIDTH="5184" HEIGHT="261"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_db677e4d"
-                    TAGREFS="LT6926"
-                    BASELINE="245 7026 1131 7065 5398 7023" 
-                    HPOS="231"
-                    VPOS="6914"
-                    WIDTH="5161"
-                    HEIGHT="185">
+          <TextLine ID="textline_00041" TAGREFS="LT6926" BASELINE="245 7026 1131 7065 5398 7023" HPOS="231" VPOS="6914" WIDTH="5161" HEIGHT="185">
             <Shape><Polygon POINTS="4853 6914 4776 6914 4745 6914 4714 6930 4691 6937 3967 6930 3535 6922 3466 6922 3389 6922 3312 6922 3235 6922 3158 6922 3081 6922 3004 6922 2935 6922 2465 6960 2010 6960 1956 6922 1925 6930 1848 6930 1771 6930 1694 6930 1617 6930 1540 6930 1463 6930 1386 6930 1309 6930 1232 6930 1155 6930 1078 6930 1001 6930 924 6930 847 6930 770 6930 693 6930 616 6930 539 6930 462 6930 385 6930 308 6930 231 6930 238 7022 238 7099 5384 7068 5392 7022 5377 6937 4945 6937 4945 6930 4907 6914 4853 6914"/></Shape>
-	    <String CONTENT="vouloir des habitants, le recouvrement des prestations est assuré au besoin par la force; en outre les habitants qui"
-                    HPOS="231"
-                    VPOS="6914"
-                    WIDTH="5161"
-                    HEIGHT="185"></String>
+	    <String CONTENT="vouloir des habitants, le recouvrement des prestations est assuré au besoin par la force; en outre les habitants qui" HPOS="231" VPOS="6914" WIDTH="5161" HEIGHT="185"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_7d52f502"
-                    TAGREFS="LT6926"
-                    BASELINE="240 7131 1174 7167 1175 7167 5409 7131" 
-                    HPOS="231"
-                    VPOS="7014"
-                    WIDTH="5176"
-                    HEIGHT="185">
+          <TextLine ID="textline_00042" TAGREFS="LT6926" BASELINE="240 7131 1174 7167 1175 7167 5409 7131" HPOS="231" VPOS="7014" WIDTH="5176" HEIGHT="185">
             <Shape><Polygon POINTS="238 7130 238 7199 5400 7191 5407 7130 5384 7014 231 7030 238 7130"/></Shape>
-	    <String CONTENT="n&#x27;obtempèrent pas aux ordres de réquisitions sont passibles d&#x27;une amende qui peut s&#x27;élever au double"
-                    HPOS="231"
-                    VPOS="7014"
-                    WIDTH="5176"
-                    HEIGHT="185"></String>
+	    <String CONTENT="n'obtempèrent pas aux ordres de réquisitions sont passibles d'une amende qui peut s'élever au double" HPOS="231" VPOS="7014" WIDTH="5176" HEIGHT="185"/>
           </TextLine>
 
           
           
-          <TextLine ID="1c56520e-c5c5-4fa8-8e75-79ad747baa3f"
-                    TAGREFS="LT6926"
-                    BASELINE="236 7243 1967 7249" 
-                    HPOS="223"
-                    VPOS="7130"
-                    WIDTH="1741"
-                    HEIGHT="177">
+          <TextLine ID="textline_00043" TAGREFS="LT6926" BASELINE="236 7243 1967 7249" HPOS="223" VPOS="7130" WIDTH="1741" HEIGHT="177">
             <Shape><Polygon POINTS="231 7238 223 7299 1949 7307 1964 7245 1956 7145 231 7130 231 7238"/></Shape>
-	    <String CONTENT="de la valeur de la prestation requise"
-                    HPOS="223"
-                    VPOS="7130"
-                    WIDTH="1741"
-                    HEIGHT="177"></String>
+	    <String CONTENT="de la valeur de la prestation requise" HPOS="223" VPOS="7130" WIDTH="1741" HEIGHT="177"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_f89cb2a3"
-                    TAGREFS="LT6926"
-                    BASELINE="220 7333 5428 7315" 
-                    HPOS="207"
-                    VPOS="7153"
-                    WIDTH="5216"
-                    HEIGHT="246">
+          <TextLine ID="textline_00044" TAGREFS="LT6926" BASELINE="220 7333 5428 7315" HPOS="207" VPOS="7153" WIDTH="5216" HEIGHT="246">
             <Shape><Polygon POINTS="1902 7222 1825 7222 1748 7222 1671 7222 1594 7222 1571 7222 1517 7222 1440 7222 1363 7230 1286 7230 1209 7230 1132 7230 1055 7230 978 7230 901 7230 824 7230 747 7238 670 7238 593 7238 516 7238 439 7238 362 7238 285 7238 277 7222 207 7222 215 7330 215 7361 3551 7399 3559 7399 3651 7376 3813 7345 4629 7345 4683 7384 4691 7392 4699 7392 4706 7392 4714 7392 5415 7384 5423 7307 5407 7161 3951 7153 3944 7153 3836 7176 3666 7214 3143 7184 2734 7161 2727 7161 2719 7161 2642 7191 2565 7214 2287 7191 1949 7168 1941 7168 1902 7222"/></Shape>
-	    <String CONTENT="Article 224 du Code pénal : « L&#x27;outrage fait paroles gestes ou menaces ..... à tout citoyen"
-                    HPOS="207"
-                    VPOS="7153"
-                    WIDTH="5216"
-                    HEIGHT="246"></String>
+	    <String CONTENT="Article 224 du Code pénal : « L'outrage fait paroles gestes ou menaces ..... à tout citoyen" HPOS="207" VPOS="7153" WIDTH="5216" HEIGHT="246"/>
           </TextLine>
 
           
           
-          <TextLine ID="ab82845d-cff1-487a-bc64-659ebb339b88"
-                    TAGREFS="LT6926"
-                    BASELINE="243 7421 5409 7423" 
-                    HPOS="231"
-                    VPOS="7307"
-                    WIDTH="5176"
-                    HEIGHT="162">
+          <TextLine ID="textline_00045" TAGREFS="LT6926" BASELINE="243 7421 5409 7423" HPOS="231" VPOS="7307" WIDTH="5176" HEIGHT="162">
             <Shape><Polygon POINTS="3936 7315 3859 7315 3782 7315 3705 7315 3628 7315 3551 7315 3474 7315 3397 7315 3320 7315 3243 7315 3166 7315 3089 7315 3012 7315 2935 7315 2858 7315 2781 7315 2703 7322 2626 7322 2549 7322 2472 7322 2395 7322 2318 7322 2241 7322 2164 7322 2087 7322 2010 7322 1933 7322 1856 7322 1779 7322 1702 7322 1625 7322 1548 7322 1471 7322 1394 7330 1317 7330 1240 7330 1163 7330 1086 7330 1009 7330 932 7330 855 7330 778 7330 701 7330 623 7330 546 7330 469 7330 392 7330 315 7330 238 7330 238 7415 231 7461 5392 7469 5407 7422 5392 7307 3990 7307 3936 7315"/></Shape>
-	    <String CONTENT="chargé d&#x27;un ministère de service public dans l&#x27;exercice ou à l&#x27;occasion de l&#x27;exercice de ses fonctions"
-                    HPOS="231"
-                    VPOS="7307"
-                    WIDTH="5176"
-                    HEIGHT="162"></String>
+	    <String CONTENT="chargé d'un ministère de service public dans l'exercice ou à l'occasion de l'exercice de ses fonctions" HPOS="231" VPOS="7307" WIDTH="5176" HEIGHT="162"/>
           </TextLine>
 
           
           
-          <TextLine ID="7d6adca9-7c76-4416-8d50-cda69e74c365"
-                    TAGREFS="LT6926"
-                    BASELINE="241 7520 1144 7545 1144 7545 2559 7527 5370 7535" 
-                    HPOS="231"
-                    VPOS="7407"
-                    WIDTH="5138"
-                    HEIGHT="216">
+          <TextLine ID="textline_00046" TAGREFS="LT6926" BASELINE="241 7520 1144 7545 1144 7545 2559 7527 5370 7535" HPOS="231" VPOS="7407" WIDTH="5138" HEIGHT="216">
             <Shape><Polygon POINTS="1463 7415 1386 7415 1309 7415 1232 7415 1155 7415 1078 7415 1001 7415 924 7415 847 7415 770 7415 693 7415 616 7415 546 7415 469 7415 392 7415 315 7415 238 7415 238 7515 231 7569 369 7599 385 7599 462 7607 485 7607 654 7576 670 7576 685 7576 916 7615 924 7615 1448 7584 1471 7584 1479 7584 1525 7623 1533 7623 1540 7623 1548 7623 2904 7599 3628 7584 5354 7615 5369 7530 5361 7415 1517 7407 1463 7415"/></Shape>
-	    <String CONTENT="sera punis d&#x27;un emprisonnement de six jours ç un mois et d&#x27;une amende de seize francs a deux cents"
-                    HPOS="231"
-                    VPOS="7407"
-                    WIDTH="5138"
-                    HEIGHT="216"></String>
+	    <String CONTENT="sera punis d'un emprisonnement de six jours ç un mois et d'une amende de seize francs a deux cents" HPOS="231" VPOS="7407" WIDTH="5138" HEIGHT="216"/>
           </TextLine>
 
           
           
-          <TextLine ID="7c0e4cbc-01cc-4aa1-b72d-98f422fd0b99"
-                    TAGREFS="LT6926"
-                    BASELINE="247 7615 1162 7652 1162 7652 2553 7638" 
-                    HPOS="238"
-                    VPOS="7515"
-                    WIDTH="2311"
-                    HEIGHT="169">
+          <TextLine ID="textline_00047" TAGREFS="LT6926" BASELINE="247 7615 1162 7652 1162 7652 2553 7638" HPOS="238" VPOS="7515" WIDTH="2311" HEIGHT="169">
             <Shape><Polygon POINTS="246 7607 238 7684 2542 7684 2549 7630 2534 7522 246 7515 246 7607"/></Shape>
-	    <String CONTENT="francs ou de l&#x27;une de ces deux peines seulement"
-                    HPOS="238"
-                    VPOS="7515"
-                    WIDTH="2311"
-                    HEIGHT="169"></String>
+	    <String CONTENT="francs ou de l'une de ces deux peines seulement" HPOS="238" VPOS="7515" WIDTH="2311" HEIGHT="169"/>
           </TextLine>
 
           
           
-          <TextLine ID="0784b01b-ec5e-414a-80de-551a515181f5"
-                    TAGREFS="LT6926"
-                    BASELINE="231 7732 1558 7745 1558 7745 5447 7718" 
-                    HPOS="215"
-                    VPOS="7546"
-                    WIDTH="5231"
-                    HEIGHT="238">
+          <TextLine ID="textline_00048" TAGREFS="LT6926" BASELINE="231 7732 1558 7745 1558 7745 5447 7718" HPOS="215" VPOS="7546" WIDTH="5231" HEIGHT="238">
             <Shape><Polygon POINTS="2526 7630 2449 7630 2372 7630 2295 7630 2218 7630 2141 7630 2064 7630 1987 7630 1910 7630 1833 7630 1756 7630 1679 7630 1602 7630 1525 7630 1479 7630 1448 7630 1371 7630 1294 7630 731 7630 693 7615 677 7615 600 7615 523 7615 446 7615 369 7615 292 7615 285 7607 215 7615 223 7730 223 7784 5438 7784 5446 7715 5431 7584 5153 7546 5146 7546 4622 7584 4337 7607 4175 7592 3874 7553 3867 7553 2657 7561 2650 7561 2557 7599 2542 7607 2526 7630"/></Shape>
-	    <String CONTENT="Article 463 du Code pénal: « Dans tous les cas où la peine de l&#x27;emprisonnement et celle de l&#x27;amende sont prononcées"
-                    HPOS="215"
-                    VPOS="7546"
-                    WIDTH="5231"
-                    HEIGHT="238"></String>
+	    <String CONTENT="Article 463 du Code pénal: « Dans tous les cas où la peine de l'emprisonnement et celle de l'amende sont prononcées" HPOS="215" VPOS="7546" WIDTH="5231" HEIGHT="238"/>
           </TextLine>
 
           
           
-          <TextLine ID="42073056-430c-4c08-987c-19cd75255207"
-                    TAGREFS="LT6926"
-                    BASELINE="248 7827 5458 7814" 
-                    HPOS="238"
-                    VPOS="7723"
-                    WIDTH="5216"
-                    HEIGHT="177">
+          <TextLine ID="textline_00049" TAGREFS="LT6926" BASELINE="248 7827 5458 7814" HPOS="238" VPOS="7723" WIDTH="5216" HEIGHT="177">
             <Shape><Polygon POINTS="1933 7730 1856 7730 1779 7730 1702 7730 1625 7730 1548 7730 1471 7730 1394 7730 1317 7730 1240 7730 1163 7730 1086 7730 1009 7730 932 7730 855 7730 778 7730 701 7730 623 7730 546 7730 469 7730 392 7730 315 7730 238 7730 246 7823 246 7900 300 7892 315 7884 385 7892 2118 7884 2164 7884 2241 7884 2318 7884 2395 7884 2472 7884 2549 7884 2626 7884 2703 7884 2781 7884 2842 7884 3759 7877 3782 7877 3859 7877 3936 7877 4013 7877 4090 7877 4144 7877 5446 7869 5454 7807 5446 7730 1979 7723 1933 7730"/></Shape>
-	    <String CONTENT="pour le Code pénal, si, les circonstances paraissent atténuantes, les tribunaux correctionnels sont autorisés même en cas de"
-                    HPOS="238"
-                    VPOS="7723"
-                    WIDTH="5216"
-                    HEIGHT="177"></String>
+	    <String CONTENT="pour le Code pénal, si, les circonstances paraissent atténuantes, les tribunaux correctionnels sont autorisés même en cas de" HPOS="238" VPOS="7723" WIDTH="5216" HEIGHT="177"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_6352352b"
-                    TAGREFS="LT6926"
-                    BASELINE="256 7888 588 7941 2167 7905 5388 7892" 
-                    HPOS="254"
-                    VPOS="7807"
-                    WIDTH="5130"
-                    HEIGHT="170">
+          <TextLine ID="textline_00050" TAGREFS="LT6926" BASELINE="256 7888 588 7941 2167 7905 5388 7892" HPOS="254" VPOS="7807" WIDTH="5130" HEIGHT="170">
             <Shape><Polygon POINTS="5330 7807 5253 7807 5176 7807 5099 7807 5022 7807 4945 7807 4868 7807 4791 7807 4714 7807 4637 7807 4560 7807 4483 7807 4406 7807 4329 7807 4252 7807 4175 7807 4098 7807 4021 7807 3944 7807 3867 7807 3790 7807 3713 7815 3636 7815 3559 7815 3482 7815 3405 7815 3327 7815 3250 7815 3173 7815 3096 7815 3019 7815 2942 7815 2865 7815 2788 7815 2711 7815 2634 7815 2557 7815 2480 7815 2403 7815 2326 7815 2249 7815 2172 7815 2095 7815 2018 7815 1941 7823 1864 7823 1787 7823 1710 7823 1633 7823 1556 7823 1479 7823 1402 7823 1325 7823 1247 7823 1170 7823 1093 7823 1016 7823 939 7823 862 7823 785 7823 708 7823 631 7823 554 7823 477 7823 400 7823 323 7823 300 7823 254 7884 254 7961 323 7961 400 7969 477 7969 554 7977 608 7977 2411 7938 3012 7977 3019 7977 3096 7969 3173 7969 3197 7969 3551 7931 5369 7961 5384 7884 5361 7807 5330 7807"/></Shape>
-	    <String CONTENT="récidive à réduire l&#x27;emprisonnement même au-dessous de six jours et l&#x27;amende même au-dessous de seize"
-                    HPOS="254"
-                    VPOS="7807"
-                    WIDTH="5130"
-                    HEIGHT="170"></String>
+	    <String CONTENT="récidive à réduire l'emprisonnement même au-dessous de six jours et l'amende même au-dessous de seize" HPOS="254" VPOS="7807" WIDTH="5130" HEIGHT="170"/>
           </TextLine>
 
           
           
-          <TextLine ID="49388f9c-97d1-4f77-af92-15cf006c4e0f"
-                    TAGREFS="LT6926"
-                    BASELINE="223 7977 1059 8022 3576 7978" 
-                    HPOS="207"
-                    VPOS="7854"
-                    WIDTH="3367"
-                    HEIGHT="207">
+          <TextLine ID="textline_00051" TAGREFS="LT6926" BASELINE="223 7977 1059 8022 3576 7978" HPOS="207" VPOS="7854" WIDTH="3367" HEIGHT="207">
             <Shape><Polygon POINTS="3520 7884 3443 7892 3366 7892 3289 7892 3212 7892 3135 7892 3058 7892 2981 7892 2904 7892 2827 7900 2750 7900 2673 7900 2596 7900 2519 7900 2442 7900 2365 7900 2287 7900 2210 7900 2133 7907 2056 7907 1979 7907 1902 7900 1825 7900 1748 7900 1671 7900 1594 7900 1517 7900 1440 7900 1363 7900 1286 7900 1209 7900 1132 7900 1055 7892 978 7892 901 7892 824 7892 747 7892 670 7892 593 7892 516 7892 439 7892 362 7892 285 7892 277 7854 207 7854 215 7969 215 8061 292 8061 369 8061 446 8061 523 8061 2365 8061 2442 8061 2519 8061 2596 8061 2673 8061 2750 8061 2827 8061 2904 8061 2981 8061 2981 8054 2989 8054 2996 8054 3058 8015 3559 8046 3574 7977 3559 7884 3520 7884"/></Shape>
-	    <String CONTENT="francs .. au l&#x27;une ou l&#x27;autre de ces deux peines seulement"
-                    HPOS="207"
-                    VPOS="7854"
-                    WIDTH="3367"
-                    HEIGHT="207"></String>
+	    <String CONTENT="francs .. au l'une ou l'autre de ces deux peines seulement" HPOS="207" VPOS="7854" WIDTH="3367" HEIGHT="207"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_05ba033f"
-                    TAGREFS="LT6926"
-                    BASELINE="240 8070 1188 8097 1335 8086 5356 8060" 
-                    HPOS="238"
-                    VPOS="7900"
-                    WIDTH="5116"
-                    HEIGHT="223">
+          <TextLine ID="textline_00052" TAGREFS="LT6926" BASELINE="240 8070 1188 8097 1335 8086 5356 8060" HPOS="238" VPOS="7900" WIDTH="5116" HEIGHT="223">
             <Shape><Polygon POINTS="2311 7961 2234 7961 2157 7961 2149 7961 2110 7984 1633 7984 1617 7969 1540 7969 1463 7969 1386 7969 1309 7969 1232 7969 1155 7969 1078 7969 1001 7969 924 7969 847 7969 770 7969 693 7969 616 7969 539 7969 462 7969 385 7969 308 7969 238 7969 238 8069 238 8115 5338 8123 5354 8054 5338 7954 4121 7900 4113 7900 4106 7900 4098 7900 4098 7907 4059 7946 4029 7977 2395 7977 2365 7961 2311 7961"/></Shape>
-	    <String CONTENT="Article 55 du Code pénal: « Tous les individus condamnés pour un même crime ou pour un même délit seront"
-                    HPOS="238"
-                    VPOS="7900"
-                    WIDTH="5116"
-                    HEIGHT="223"></String>
+	    <String CONTENT="Article 55 du Code pénal: « Tous les individus condamnés pour un même crime ou pour un même délit seront" HPOS="238" VPOS="7900" WIDTH="5116" HEIGHT="223"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_6417b4a4"
-                    TAGREFS="LT6926"
-                    BASELINE="224 8149 1566 8166 1566 8166 3756 8137" 
-                    HPOS="215"
-                    VPOS="8008"
-                    WIDTH="3536"
-                    HEIGHT="215">
+          <TextLine ID="textline_00053" TAGREFS="LT6926" BASELINE="224 8149 1566 8166 1566 8166 3756 8137" HPOS="215" VPOS="8008" WIDTH="3536" HEIGHT="215">
             <Shape><Polygon POINTS="3682 8046 3605 8046 3528 8046 3451 8046 3374 8046 3297 8046 3220 8054 3143 8054 3066 8054 2989 8054 2911 8054 2834 8054 2757 8054 2680 8054 2603 8054 2526 8061 2449 8061 2372 8061 2295 8061 2218 8061 2141 8061 2064 8061 1987 8061 1910 8069 1833 8069 1756 8069 1679 8069 1602 8069 1525 8069 1448 8069 1371 8077 1294 8077 1217 8077 1140 8077 1063 8077 986 8077 909 8077 831 8077 754 8077 677 8077 600 8077 523 8077 446 8077 369 8077 292 8077 246 8008 215 8008 223 8146 223 8223 277 8215 300 8185 377 8192 454 8192 531 8200 608 8200 677 8208 754 8215 831 8215 909 8215 986 8215 1063 8215 1101 8215 1394 8208 1448 8208 1525 8208 1602 8208 1679 8208 1756 8208 1833 8208 1910 8200 1987 8200 2064 8200 2141 8200 2218 8200 2295 8200 2372 8192 2449 8192 2526 8192 2603 8192 2680 8192 2757 8192 2834 8192 2911 8185 2989 8185 3066 8185 3143 8185 3220 8185 3297 8185 3374 8177 3451 8177 3528 8177 3605 8177 3682 8177 3743 8177 3751 8131 3720 8046 3682 8046"/></Shape>
-	    <String CONTENT="tenus solidairement des amendes, des restitutions, des dommages - intérêts et des frais"
-                    HPOS="215"
-                    VPOS="8008"
-                    WIDTH="3536"
-                    HEIGHT="215"></String>
+	    <String CONTENT="tenus solidairement des amendes, des restitutions, des dommages - intérêts et des frais" HPOS="215" VPOS="8008" WIDTH="3536" HEIGHT="215"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_ab8ff32d"
-                    TAGREFS="LT6926"
-                    BASELINE="241 8195 889 8237 5366 8167" 
-                    HPOS="231"
-                    VPOS="8023"
-                    WIDTH="5130"
-                    HEIGHT="293">
+          <TextLine ID="textline_00054" TAGREFS="LT6926" BASELINE="241 8195 889 8237 5366 8167" HPOS="231" VPOS="8023" WIDTH="5130" HEIGHT="293">
             <Shape><Polygon POINTS="5315 8038 5238 8038 5161 8038 5122 8038 4591 8077 3720 8085 3697 8115 3620 8115 3543 8123 3466 8123 3389 8123 3312 8123 3235 8123 3158 8123 3081 8123 3004 8123 2927 8123 2850 8123 2773 8123 2696 8123 2619 8123 2542 8123 2465 8123 2388 8123 2311 8123 2234 8131 2157 8131 2079 8131 2002 8138 1925 8138 1848 8138 1771 8138 1694 8138 1617 8138 1540 8138 1463 8138 1386 8138 1309 8138 1232 8138 1155 8138 1078 8146 1001 8146 924 8146 847 8146 770 8146 693 8146 616 8146 539 8146 462 8146 385 8146 308 8146 231 8146 238 8192 238 8277 315 8277 392 8277 469 8277 546 8277 616 8285 693 8285 770 8285 847 8285 924 8292 1001 8292 1078 8292 1155 8292 1232 8292 1240 8300 1671 8316 1679 8316 5361 8254 5361 8162 5338 8023 5315 8023 5315 8038"/></Shape>
-	    <String CONTENT="Article 139 du Code de Justice Militaire: « le jugement qui prononce aux peines contre l&#x27;accusé le condamne"
-                    HPOS="231"
-                    VPOS="8023"
-                    WIDTH="5130"
-                    HEIGHT="293"></String>
+	    <String CONTENT="Article 139 du Code de Justice Militaire: « le jugement qui prononce aux peines contre l'accusé le condamne" HPOS="231" VPOS="8023" WIDTH="5130" HEIGHT="293"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_e5e163bc"
-                    TAGREFS="LT6926"
-                    BASELINE="239 8290 1242 8309" 
-                    HPOS="231"
-                    VPOS="8200"
-                    WIDTH="1009"
-                    HEIGHT="146">
+          <TextLine ID="textline_00055" TAGREFS="LT6926" BASELINE="239 8290 1242 8309" HPOS="231" VPOS="8200" WIDTH="1009" HEIGHT="146">
             <Shape><Polygon POINTS="1163 8231 1086 8231 1009 8231 932 8231 855 8231 778 8231 701 8223 623 8215 546 8215 469 8208 392 8208 315 8200 238 8200 238 8285 231 8323 1224 8346 1240 8308 1232 8231 1163 8231"/></Shape>
-	    <String CONTENT="aux frais envers l&#x27;État"
-                    HPOS="231"
-                    VPOS="8200"
-                    WIDTH="1009"
-                    HEIGHT="146"></String>
+	    <String CONTENT="aux frais envers l'État" HPOS="231" VPOS="8200" WIDTH="1009" HEIGHT="146"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_51c69cf2"
-                    TAGREFS="LT6926"
-                    BASELINE="230 8367 1156 8392 5170 8363" 
-                    HPOS="215"
-                    VPOS="8223"
-                    WIDTH="4954"
-                    HEIGHT="216">
+          <TextLine ID="textline_00056" TAGREFS="LT6926" BASELINE="230 8367 1156 8392 5170 8363" HPOS="215" VPOS="8223" WIDTH="4954" HEIGHT="216">
             <Shape><Polygon POINTS="1217 8308 1140 8308 1063 8308 986 8308 909 8308 831 8300 754 8300 677 8300 600 8300 523 8292 446 8292 369 8292 292 8292 269 8254 215 8254 223 8362 223 8439 4583 8423 4606 8423 4683 8423 4760 8423 4837 8423 4914 8423 4991 8423 5069 8423 5146 8423 5161 8423 5169 8362 5146 8223 1271 8246 1217 8308"/></Shape>
-	    <String CONTENT="Article 9 de la loi du 22 Juillet 1867: « La durée de la contrainte par corps est réglée ainsi qu&#x27;il suit"
-                    HPOS="215"
-                    VPOS="8223"
-                    WIDTH="4954"
-                    HEIGHT="216"></String>
+	    <String CONTENT="Article 9 de la loi du 22 Juillet 1867: « La durée de la contrainte par corps est réglée ainsi qu'il suit" HPOS="215" VPOS="8223" WIDTH="4954" HEIGHT="216"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_38660269"
-                    TAGREFS="LT6926"
-                    BASELINE="247 8461 1664 8472 1664 8472 5330 8438" 
-                    HPOS="246"
-                    VPOS="8308"
-                    WIDTH="5077"
-                    HEIGHT="208">
+          <TextLine ID="textline_00057" TAGREFS="LT6926" BASELINE="247 8461 1664 8472 1664 8472 5330 8438" HPOS="246" VPOS="8308" WIDTH="5077" HEIGHT="208">
             <Shape><Polygon POINTS="5015 8339 4938 8339 4861 8346 4783 8346 4706 8354 4629 8362 4552 8362 4475 8369 4398 8369 4321 8354 4244 8346 4167 8362 4090 8369 4013 8369 3936 8354 3859 8346 3782 8346 3705 8354 3628 8362 3551 8362 3474 8362 3397 8362 3320 8362 3243 8362 3166 8362 3089 8362 3012 8362 2935 8362 2858 8362 2781 8369 2703 8369 2626 8369 2549 8369 2472 8369 2395 8369 2318 8369 2241 8369 2218 8369 2164 8369 2087 8369 2010 8369 1933 8377 1856 8377 1779 8377 1702 8377 1625 8377 1548 8377 1471 8377 1394 8377 1317 8377 1240 8377 1163 8377 1086 8377 1009 8377 932 8377 855 8377 778 8377 701 8377 623 8369 546 8369 469 8369 392 8369 315 8369 246 8369 246 8454 246 8516 5323 8508 5323 8431 5292 8308 5199 8346 5022 8331 5015 8339"/></Shape>
-	    <String CONTENT="de quarante jours à soixante jours lorsque l&#x27;amende et les autres condamnations sont supérieures à cent"
-                    HPOS="246"
-                    VPOS="8308"
-                    WIDTH="5077"
-                    HEIGHT="208"></String>
+	    <String CONTENT="de quarante jours à soixante jours lorsque l'amende et les autres condamnations sont supérieures à cent" HPOS="246" VPOS="8308" WIDTH="5077" HEIGHT="208"/>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_43527383"
-                    TAGREFS="LT6926"
-                    BASELINE="259 8539 1157 8572 2698 8532" 
-                    HPOS="246"
-                    VPOS="8439"
-                    WIDTH="2450"
-                    HEIGHT="169">
+          <TextLine ID="textline_00058" TAGREFS="LT6926" BASELINE="259 8539 1157 8572 2698 8532" HPOS="246" VPOS="8439" WIDTH="2450" HEIGHT="169">
             <Shape><Polygon POINTS="2403 8454 2326 8462 2249 8462 2172 8462 2095 8462 2018 8462 1941 8462 1864 8462 1787 8462 1710 8462 1633 8462 1556 8462 1479 8462 1402 8462 1325 8462 1247 8462 1170 8462 1093 8462 1016 8462 939 8462 862 8462 785 8462 708 8462 631 8462 554 8462 477 8462 400 8462 323 8462 246 8462 254 8531 254 8608 2696 8577 2696 8531 2673 8439 2472 8439 2403 8454"/></Shape>
-	    <String CONTENT="francs et qu&#x27;elles n&#x27;excèdent pas deux cent francs"
-                    HPOS="246"
-                    VPOS="8439"
-                    WIDTH="2450"
-                    HEIGHT="169"></String>
+	    <String CONTENT="francs et qu'elles n'excèdent pas deux cent francs" HPOS="246" VPOS="8439" WIDTH="2450" HEIGHT="169"/>
           </TextLine>
 
           
         </TextBlock>
         
-        <TextBlock HPOS="363.0"
-                   VPOS="8530.0"
-                   WIDTH="4664.0"
-                   HEIGHT="180.0"
-                   ID="a854bdfd-2541-4f6d-935d-cbf554cf225b"
-                   TAGREFS="BT21627">
+        <TextBlock HPOS="363.0" VPOS="8530.0" WIDTH="4664.0" HEIGHT="180.0" ID="textblock_00002" TAGREFS="BT21627">
           <Shape><Polygon POINTS="5027 8530 5027 8710 363 8710 363 8530"/></Shape>
           
         </TextBlock>
         
 
         
-        <TextBlock ID="eSc_dummyblock_">
+        <TextBlock ID="textblock_00003">
           
           
-          <TextLine ID="bdb500a8-19af-42b6-b24a-95b937c26220"
-                    TAGREFS="LT6926"
-                    BASELINE="500 8650 4943 8569" 
-                    HPOS="485"
-                    VPOS="8431"
-                    WIDTH="4453"
-                    HEIGHT="270">
+          <TextLine ID="textline_00059" TAGREFS="LT6926" BASELINE="500 8650 4943 8569" HPOS="485" VPOS="8431" WIDTH="4453" HEIGHT="270">
             <Shape><Polygon POINTS="2642 8539 2565 8539 2488 8539 2411 8539 2334 8539 2257 8539 2180 8539 2103 8539 2026 8539 1949 8539 1871 8539 1794 8539 1717 8539 1640 8539 1563 8539 1486 8539 1409 8539 1332 8539 1255 8539 1178 8539 1101 8539 1039 8539 1024 8539 947 8539 870 8539 793 8539 716 8539 639 8539 562 8539 485 8539 493 8647 493 8701 4938 8639 4938 8562 4922 8477 4121 8431 4113 8431 2919 8454 2673 8485 2642 8539"/></Shape>
-	    <String CONTENT="(1) Avoir soin de spécifier, s&#x27;il y a lieu, après t&#x27;indication de la peine infligée, la décision motivée du Conseil relative à ma non-imputation pour tout ou"
-                    HPOS="485"
-                    VPOS="8431"
-                    WIDTH="4453"
-                    HEIGHT="270"></String>
+	    <String CONTENT="(1) Avoir soin de spécifier, s'il y a lieu, après t'indication de la peine infligée, la décision motivée du Conseil relative à ma non-imputation pour tout ou" HPOS="485" VPOS="8431" WIDTH="4453" HEIGHT="270"/>
           </TextLine>
 
           
           
-          <TextLine ID="2b96c1cd-733c-407d-9650-a7d89abf9ab7"
-                    TAGREFS="LT6926"
-                    BASELINE="340 8723 1055 8737 1055 8737 2352 8713" 
-                    HPOS="331"
-                    VPOS="8624"
-                    WIDTH="2018"
-                    HEIGHT="161">
+          <TextLine ID="textline_00060" TAGREFS="LT6926" BASELINE="340 8723 1055 8737 1055 8737 2352 8713" HPOS="331" VPOS="8624" WIDTH="2018" HEIGHT="161">
             <Shape><Polygon POINTS="1949 8624 1871 8624 1794 8624 1717 8624 1640 8631 1563 8631 1486 8631 1409 8631 1332 8631 1255 8639 1178 8639 1101 8639 1024 8639 947 8639 870 8647 793 8647 716 8647 639 8647 562 8647 485 8647 469 8624 331 8624 338 8716 338 8785 2349 8762 2349 8708 2334 8624 2026 8624 1949 8624"/></Shape>
-	    <String CONTENT="partie de la détention préventive sur la durée de la peine prononcée."
-                    HPOS="331"
-                    VPOS="8624"
-                    WIDTH="2018"
-                    HEIGHT="161"></String>
+	    <String CONTENT="partie de la détention préventive sur la durée de la peine prononcée." HPOS="331" VPOS="8624" WIDTH="2018" HEIGHT="161"/>
           </TextLine>
 
           
