@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1015390134.svg)](https://doi.org/10.5281/zenodo.15836210)
+
 # htr-front-justice
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
