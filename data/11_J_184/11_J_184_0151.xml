@@ -435,25 +435,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="0.0" VPOS="7730.0" WIDTH="79.0" HEIGHT="475.0" ID="textblock_00009" TAGREFS="BT21628">
-          <Shape><Polygon POINTS="0 7730 79 7730 79 8205 0 8205 0 7730"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="textblock_00010">
-          
-          
-          <TextLine ID="textline_00055" TAGREFS="LT8441" BASELINE="34 8217 38 7757" HPOS="34" VPOS="7757" WIDTH="4" HEIGHT="460">
-            
-	    <String CONTENT="" HPOS="34" VPOS="7757" WIDTH="4" HEIGHT="460"/>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-      </PrintSpace>
+        </PrintSpace>
     </Page>
   </Layout>
 </alto>

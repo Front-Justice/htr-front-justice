@@ -117,13 +117,6 @@
 
           
           
-          <TextLine ID="textline_00014" TAGREFS="LT8440" BASELINE="2457 1879 2807 1734" HPOS="2413.0" VPOS="1634.0" WIDTH="428.0" HEIGHT="302.0">
-            <Shape><Polygon POINTS="2455 1874 2475 1936 2841 1832 2805 1733 2763 1634 2413 1769 2455 1874"/></Shape>
-	    <String CONTENT="" HPOS="2413.0" VPOS="1634.0" WIDTH="428.0" HEIGHT="302.0"/>
-          </TextLine>
-
-          
-          
           <TextLine ID="textline_00015" TAGREFS="LT8440" BASELINE="3749 1855 4154 1632" HPOS="3672.0" VPOS="1451.0" WIDTH="491.0" HEIGHT="449.0">
             <Shape><Polygon POINTS="3745 1853 3771 1900 4163 1655 4152 1628 4053 1451 3672 1717 3745 1853"/></Shape>
 	    <String CONTENT="+" HPOS="3672.0" VPOS="1451.0" WIDTH="491.0" HEIGHT="449.0" WC="0.99989914894104"/>
@@ -528,18 +521,7 @@
         
 
         
-        <TextBlock ID="textblock_00009">
-          
-          
-          <TextLine ID="textline_00068" BASELINE="4607 725 4593 1013 4607 1208 4630 1385 4630 1771 4630 2371" HPOS="4593" VPOS="725" WIDTH="37" HEIGHT="1646">
-            
-	    <String CONTENT="" HPOS="4593" VPOS="725" WIDTH="37" HEIGHT="1646"/>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-      </PrintSpace>
+        </PrintSpace>
     </Page>
   </Layout>
 </alto>
