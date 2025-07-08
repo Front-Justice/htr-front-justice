@@ -41,8 +41,8 @@ characters:
   - b
   - E
   - j
-  - x
   - ^
+  - x
   - L
   - '2'
   - A
@@ -90,8 +90,6 @@ characters:
   - '['
   - ']'
   - »
-  - °
-  - ᵉ
   - _
   - '"'
   - /
@@ -101,13 +99,8 @@ characters:
   - Y
   - K
   - W
-  - ᵗ
-  - ᶠ
-  - ʳ
   - '>'
   - <
-  - $
-  - ⁿ
   - '%'
   - '='
   - '|'
@@ -138,11 +131,11 @@ time:
 title: HTR Front Justice
 url: https://github.com/Front-Justice/htr-front-justice.git
 volume:
-- count: 795693
+- count: 795781
   metric: characters
 - count: 250
   metric: files
-- count: 13085
+- count: 13044
   metric: lines
-- count: 1397
+- count: 1333
   metric: regions
