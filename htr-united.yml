@@ -129,6 +129,8 @@ time:
   notAfter: '1919'
   notBefore: '1914'
 title: HTR Front Justice
+transcription-guidelines: >-
+  See README (Annotation and Transcription Guidelines section)
 url: https://github.com/Front-Justice/htr-front-justice.git
 volume:
 - count: 795781
@@ -139,5 +141,3 @@ volume:
   metric: lines
 - count: 1333
   metric: regions
-transcription-guidelines: >-
-  See README (Annotation and Transcription Guidelines section)
