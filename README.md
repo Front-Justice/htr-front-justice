@@ -21,7 +21,13 @@ Some transcriptions of minute books from military court councils during the Firs
 | 11_J_186(2)  | 10e armée  | 40    | Théo Burnel / Giovanni Vitali |
 | 11_J_187(1)  | 10e armée  | 21    | Théo Burnel / Giovanni Vitali |
 
+## Annotation and Transcription Guidelines
 
+- Layout zones follow the [Segmonto vocabulary](https://github.com/SegmOnto/Guidelines), with minor adaptations.  
+- Printed and handwritten text are both transcribed line by line, without distinction.  
+- Superscripts are marked with `^` before the text (e.g. `M^e`).  
+- Signatures are represented by a `+`.
+  
 ## How to Cite
 
 For citation information, see the [`htr-united.yml`](./htr-united.yml) file.
