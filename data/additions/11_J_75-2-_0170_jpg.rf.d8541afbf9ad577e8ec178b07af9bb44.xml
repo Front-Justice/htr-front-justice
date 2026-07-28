@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_75-2-_0170_jpg.rf.d8541afbf9ad577e8ec178b07af9bb44.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3804"
+          HEIGHT="6029"
+          PHYSICAL_IMG_NR="147"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3804"
+                  HEIGHT="6029">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_c1dec299"
+                    BASELINE="3305 3124 3658 3102" 
+                    HPOS="3291"
+                    VPOS="2989"
+                    WIDTH="362"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="3301 3120 3301 3165 3653 3140 3653 3099 3638 2989 3291 3004 3301 3120"/></Shape>
+            <String CONTENT="compter"
+                    HPOS="3291"
+                    VPOS="2989"
+                    WIDTH="362"
+                    HEIGHT="176"
+                    WC="0.9944793922560555"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7c9705fe"
+                    BASELINE="3302 3199 3591 3172" 
+                    HPOS="3291"
+                    VPOS="3109"
+                    WIDTH="296"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="3442 3114 3391 3114 3341 3120 3336 3109 3291 3109 3301 3195 3301 3235 3391 3265 3396 3265 3401 3265 3407 3265 3587 3215 3587 3170 3572 3109 3472 3109 3442 3114"/></Shape>
+            <String CONTENT="Le Greffier"
+                    HPOS="3291"
+                    VPOS="3109"
+                    WIDTH="296"
+                    HEIGHT="156"
+                    WC="0.950688595121557"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_84f8cdc4"
+                    BASELINE="3281 3378 3695 3263" 
+                    HPOS="3246"
+                    VPOS="3160"
+                    WIDTH="457"
+                    HEIGHT="331">
+            <Shape><Polygon POINTS="3276 3376 3311 3491 3396 3421 3462 3421 3547 3426 3552 3426 3557 3426 3562 3426 3562 3421 3567 3421 3608 3356 3703 3310 3693 3260 3658 3160 3246 3280 3276 3376"/></Shape>
+            <String CONTENT="+"
+                    HPOS="3246"
+                    VPOS="3160"
+                    WIDTH="457"
+                    HEIGHT="331"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
