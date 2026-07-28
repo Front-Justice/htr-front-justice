@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_186(1)-0362.jpg</fileName>
+      <fileIdentifier>zip//corpus_258p.zip/11_J_186(1)-0362.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="4346"
+          HEIGHT="6204"
+          PHYSICAL_IMG_NR="69"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4346"
+                  HEIGHT="6204">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_98c47222"
+                    BASELINE="1392 5517 2742 5512" 
+                    HPOS="1386.0"
+                    VPOS="5412.0"
+                    WIDTH="1350.0"
+                    HEIGHT="181.0">
+            <Shape><Polygon POINTS="1391 5516 1391 5557 1495 5588 1500 5588 1505 5593 1971 5593 1971 5588 1976 5588 1981 5588 2022 5562 2069 5588 2074 5588 2079 5588 2260 5562 2297 5588 2302 5588 2307 5588 2312 5588 2317 5588 2374 5562 2654 5588 2659 5588 2664 5588 2736 5552 2736 5511 2721 5412 2504 5449 1386 5438 1391 5516"/></Shape>
+            <String CONTENT="Peine comptant du 28 décembre 1916"
+                    HPOS="1386.0"
+                    VPOS="5412.0"
+                    WIDTH="1350.0"
+                    HEIGHT="181.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9ce9da00"
+                    BASELINE="1943 5625 2512 5607" 
+                    HPOS="1935.0"
+                    VPOS="5537.0"
+                    WIDTH="574.0"
+                    HEIGHT="150.0">
+            <Shape><Polygon POINTS="1940 5624 1940 5671 2297 5687 2302 5687 2307 5687 2312 5687 2385 5640 2509 5640 2509 5604 2498 5542 1935 5537 1940 5624"/></Shape>
+            <String CONTENT="Le Greffier"
+                    HPOS="1935.0"
+                    VPOS="5537.0"
+                    WIDTH="574.0"
+                    HEIGHT="150.0"
+                    WC="0.9671565998684276"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1f1be918"
+                    BASELINE="1877 5870 2451 5658" 
+                    HPOS="1847.0"
+                    VPOS="5609.0"
+                    WIDTH="626.0"
+                    HEIGHT="336.0">
+            <Shape><Polygon POINTS="2385 5609 2328 5609 2198 5671 2100 5661 2095 5661 2090 5661 1991 5697 1986 5697 1847 5800 1872 5867 1898 5945 2141 5929 2147 5929 2312 5867 2317 5867 2317 5862 2323 5862 2379 5774 2473 5738 2447 5655 2421 5609 2385 5609"/></Shape>
+            <String CONTENT="+"
+                    HPOS="1847.0"
+                    VPOS="5609.0"
+                    WIDTH="626.0"
+                    HEIGHT="336.0"
+                    WC="0.9999985694885254"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
