@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_79-0672.jpg</fileName>
+      <fileIdentifier>zip//corpus_258p.zip/11_J_79-0672.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3600"
+          HEIGHT="5949"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3600"
+                  HEIGHT="5949">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_418a0ae3"
+                    TAGREFS="LT11707"
+                    BASELINE="185 4722 150 3258" 
+                    HPOS="84"
+                    VPOS="3252"
+                    WIDTH="124"
+                    HEIGHT="1467">
+            <Shape><Polygon POINTS="148 3257 84 3257 119 4719 183 4719 208 4709 173 3252 148 3257"/></Shape>
+            <String CONTENT="Le présent jugement à commencé à recevoir son"
+                    HPOS="84"
+                    VPOS="3252"
+                    WIDTH="124"
+                    HEIGHT="1467"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e9e73a23"
+                    TAGREFS="LT11707"
+                    BASELINE="434 4722 401 3377" 
+                    HPOS="332"
+                    VPOS="3371"
+                    WIDTH="148"
+                    HEIGHT="1348">
+            <Shape><Polygon POINTS="396 3376 332 3376 366 4719 431 4719 456 4714 480 4377 480 4372 451 4223 476 4154 476 4149 476 4144 431 3371 396 3376"/></Shape>
+            <String CONTENT="L&#x27;Officier d&#x27;Administration Greffier"
+                    HPOS="332"
+                    VPOS="3371"
+                    WIDTH="148"
+                    HEIGHT="1348"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5bbffa13"
+                    TAGREFS="LT11707"
+                    BASELINE="262 4722 210 3413" 
+                    HPOS="153"
+                    VPOS="3405"
+                    WIDTH="144"
+                    HEIGHT="1314">
+            <Shape><Polygon POINTS="208 3410 153 3410 153 3430 158 3480 158 3529 158 3579 158 3628 163 3678 163 3728 163 3777 163 3827 163 3876 168 3926 168 3975 168 4025 168 4075 173 4124 173 4174 173 4223 173 4273 178 4322 178 4372 178 4422 178 4471 183 4521 183 4570 183 4620 183 4669 183 4719 257 4719 297 4709 292 3931 257 3653 277 3574 277 3569 277 3564 238 3405 208 3410"/></Shape>
+            <String CONTENT="exécution le Vingt-quatre septembre 1918"
+                    HPOS="153"
+                    VPOS="3405"
+                    WIDTH="144"
+                    HEIGHT="1314"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_97f9eaf8"
+                    TAGREFS="LT11707"
+                    BASELINE="352 4722 320 3771 309 3602" 
+                    HPOS="233"
+                    VPOS="3594"
+                    WIDTH="168"
+                    HEIGHT="1125">
+            <Shape><Polygon POINTS="307 3599 233 3599 272 4719 347 4719 401 4709 342 3594 307 3599"/></Shape>
+            <String CONTENT="pour compter du douze mars 1918"
+                    HPOS="233"
+                    VPOS="3594"
+                    WIDTH="168"
+                    HEIGHT="1125"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
