@@ -14,98 +14,103 @@ automatically-aligned: false
 characters:
   members:
   - e
-  - .
   - i
-  - r
-  - s
-  - n
   - a
+  - n
+  - r
   - t
+  - s
   - u
   - l
   - o
   - d
   - c
-  - ́
   - m
+  - ́
   - p
+  - .
   - ','
   - f
+  - '1'
   - "'"
   - v
-  - '1'
-  - q
   - g
   - C
-  - ̀
-  - b
-  - E
-  - j
   - ^
+  - ̀
+  - q
+  - b
+  - '2'
   - x
   - L
-  - '2'
   - A
+  - '9'
+  - E
+  - '-'
+  - j
+  - h
+  - G
+  - M
+  - '3'
+  - R
+  - D
   - P
+  - '6'
+  - I
+  - J
+  - '8'
+  - S
+  - '0'
   - (
   - )
-  - h
-  - '-'
-  - '3'
-  - N
-  - R
-  - M
-  - G
-  - '9'
-  - D
   - y
-  - I
-  - U
+  - '7'
   - '4'
   - ̂
   - T
-  - '0'
-  - F
-  - '6'
-  - '8'
-  - ;
+  - N
+  - +
   - O
-  - J
-  - S
-  - '7'
+  - '5'
   - ':'
+  - B
+  - V
+  - ;
+  - Q
+  - F
+  - U
   - ⟧
   - ⟦
-  - '5'
-  - +
-  - B
-  - Q
-  - V
   - z
-  - ̧
   - H
-  - «
-  - X
+  - ̧
   - '?'
-  - ̈
-  - –
-  - '['
-  - ']'
-  - »
-  - _
   - '"'
   - /
+  - «
+  - ̈
   - k
-  - '&'
+  - K
+  - X
   - Z
   - Y
-  - K
   - W
-  - '>'
-  - <
-  - '%'
-  - '='
+  - »
+  - '['
+  - °
+  - '&'
+  - w
+  - –
   - '|'
+  - '!'
+  - ']'
+  - '{'
+  - §
+  - $
+  - '%'
+  - '*'
+  - ´
+  - '`'
   mode: NFD
 citation-file-link: >-
   https://github.com/Front-Justice/htr-front-justice/blob/31bd9342dc774b5c0c4b6fd9a704bb186430c6e3/CITATION.cff
@@ -135,11 +140,11 @@ transcription-guidelines: >-
   See README (Annotation and Transcription Guidelines section)
 url: https://github.com/Front-Justice/htr-front-justice.git
 volume:
-- count: 793559
+- count: 933354
   metric: characters
-- count: 250
+- count: 1037
   metric: files
-- count: 13043
+- count: 20537
   metric: lines
-- count: 1333
+- count: 3474
   metric: regions
