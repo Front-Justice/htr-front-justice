@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_79_0668_jpg.rf.5ab975e01e3a9772ea15c8489b3375c1.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3600"
+          HEIGHT="5949"
+          PHYSICAL_IMG_NR="196"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3600"
+                  HEIGHT="5949">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_dd1c92f9"
+                    BASELINE="423 4529 423 3295" 
+                    HPOS="342"
+                    VPOS="3291"
+                    WIDTH="129"
+                    HEIGHT="1235">
+            <Shape><Polygon POINTS="352 4228 352 4278 352 4327 352 4377 352 4427 357 4476 357 4526 421 4526 471 4516 451 3291 421 3291 342 3291 347 4199 352 4228"/></Shape>
+            <String CONTENT="L&#x27;Officier d&#x27;Administration Greffier"
+                    HPOS="342"
+                    VPOS="3291"
+                    WIDTH="129"
+                    HEIGHT="1235"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3a105076"
+                    BASELINE="268 4647 237 3009" 
+                    HPOS="168"
+                    VPOS="2999"
+                    WIDTH="149"
+                    HEIGHT="1646">
+            <Shape><Polygon POINTS="233 3004 168 3004 168 3152 178 3157 178 3207 178 3257 178 3306 178 3356 178 3405 178 3455 178 3504 178 3554 178 3604 178 3653 183 3703 183 3752 183 3802 183 3851 183 3901 183 3951 183 3985 183 4174 188 4199 188 4248 188 4298 188 4313 193 4645 267 4645 317 4640 277 4124 292 3807 292 3752 292 3747 287 3718 267 3599 282 3554 297 3519 297 3514 297 3509 262 2999 233 3004"/></Shape>
+            <String CONTENT="exécution le septembre 1918 à la parade"
+                    HPOS="168"
+                    VPOS="2999"
+                    WIDTH="149"
+                    HEIGHT="1646"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9c770836"
+                    BASELINE="358 4662 333 3558" 
+                    HPOS="247"
+                    VPOS="3549"
+                    WIDTH="144"
+                    HEIGHT="1111">
+            <Shape><Polygon POINTS="332 3554 252 3554 247 3698 252 3718 252 3767 252 3817 252 3866 252 3916 257 3966 257 4015 257 4065 257 4114 267 4174 277 4223 277 4660 357 4660 376 4655 391 4020 391 4015 352 3549 332 3554"/></Shape>
+            <String CONTENT="pour compter du deux juin 1918"
+                    HPOS="247"
+                    VPOS="3549"
+                    WIDTH="144"
+                    HEIGHT="1111"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9cb2deac"
+                    BASELINE="193 4678 175 3161" 
+                    HPOS="104"
+                    VPOS="3152"
+                    WIDTH="129"
+                    HEIGHT="1522">
+            <Shape><Polygon POINTS="173 3157 104 3157 109 4674 188 4674 203 4669 233 4174 233 4169 198 3628 198 3390 223 3351 223 3346 223 3341 223 3336 188 3152 173 3157"/></Shape>
+            <String CONTENT="le présent jugement à commencé à recevoir son"
+                    HPOS="104"
+                    VPOS="3152"
+                    WIDTH="129"
+                    HEIGHT="1522"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

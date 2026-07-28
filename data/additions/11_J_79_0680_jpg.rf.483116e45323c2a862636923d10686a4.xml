@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_79_0680_jpg.rf.483116e45323c2a862636923d10686a4.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3600"
+          HEIGHT="5949"
+          PHYSICAL_IMG_NR="201"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3600"
+                  HEIGHT="5949">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_bb5f2716"
+                    TAGREFS="LT10974"
+                    BASELINE="347 4380 343 3823 357 3721 340 3535" 
+                    HPOS="267"
+                    VPOS="3534"
+                    WIDTH="134"
+                    HEIGHT="843">
+            <Shape><Polygon POINTS="267 3534 267 3584 267 3633 267 3683 267 3732 267 3742 277 4243 282 4278 287 4327 287 4377 342 4377 366 4372 401 4213 401 4208 401 4203 376 4109 371 4084 391 3534 337 3534 267 3534"/></Shape>
+            <String CONTENT="l&#x27;officier d&#x27;adm^on greffier,"
+                    HPOS="267"
+                    VPOS="3534"
+                    WIDTH="134"
+                    HEIGHT="843"
+                    WC="0.9509584718737109"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_926b673c"
+                    TAGREFS="LT10974"
+                    BASELINE="216 4609 185 3062" 
+                    HPOS="114"
+                    VPOS="3053"
+                    WIDTH="143"
+                    HEIGHT="1552">
+            <Shape><Polygon POINTS="183 3058 114 3058 123 4605 213 4605 233 4600 257 4352 257 4347 257 4342 233 4268 238 3420 238 3415 203 3053 183 3058"/></Shape>
+            <String CONTENT="Jugement devenu définitif le 2 septembre 1918."
+                    HPOS="114"
+                    VPOS="3053"
+                    WIDTH="143"
+                    HEIGHT="1552"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3e18f102"
+                    TAGREFS="LT10974"
+                    BASELINE="299 4609 267 3952 264 2976" 
+                    HPOS="193"
+                    VPOS="2969"
+                    WIDTH="144"
+                    HEIGHT="1636">
+            <Shape><Polygon POINTS="262 2974 193 2974 218 4605 297 4605 337 4595 307 2969 262 2974"/></Shape>
+            <String CONTENT="Délention préventive du sept juillet 1918 au 26 septembre 1918"
+                    HPOS="193"
+                    VPOS="2969"
+                    WIDTH="144"
+                    HEIGHT="1636"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

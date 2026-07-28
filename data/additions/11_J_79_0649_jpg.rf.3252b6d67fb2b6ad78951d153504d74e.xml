@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_79_0649_jpg.rf.3252b6d67fb2b6ad78951d153504d74e.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3572"
+          HEIGHT="5949"
+          PHYSICAL_IMG_NR="189"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3572"
+                  HEIGHT="5949">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_778c8008"
+                    TAGREFS="LT10974"
+                    BASELINE="2526 1245 3479 1219" 
+                    HPOS="2523"
+                    VPOS="1123"
+                    WIDTH="956"
+                    HEIGHT="159">
+            <Shape><Polygon POINTS="2526 1245 2526 1262 2639 1282 2642 1282 2764 1259 2768 1259 2860 1272 2864 1272 3039 1252 3042 1252 3075 1269 3079 1269 3082 1269 3085 1269 3122 1249 3125 1249 3132 1249 3221 1265 3224 1265 3479 1239 3479 1219 3472 1160 3327 1146 3323 1146 3320 1146 3317 1146 3304 1160 3297 1166 3092 1169 3062 1160 2976 1123 2973 1123 2864 1123 2860 1123 2857 1123 2778 1156 2741 1130 2738 1130 2735 1130 2626 1130 2622 1130 2619 1130 2616 1130 2579 1160 2523 1160 2526 1245"/></Shape>
+            <String CONTENT="Réhabilité par arrêt de"
+                    HPOS="2523"
+                    VPOS="1123"
+                    WIDTH="956"
+                    HEIGHT="159"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a17c98c6"
+                    BASELINE="2553 1329 3415 1300" 
+                    HPOS="2545"
+                    VPOS="1234"
+                    WIDTH="868"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="2793 1239 2743 1239 2693 1239 2644 1244 2594 1244 2545 1244 2550 1328 2550 1363 2649 1358 2649 1348 2698 1348 2748 1348 2763 1348 2981 1328 3403 1333 3413 1298 3398 1234 2807 1234 2793 1239"/></Shape>
+            <String CONTENT="la cour d&#x27;appel de Paris"
+                    HPOS="2545"
+                    VPOS="1234"
+                    WIDTH="868"
+                    HEIGHT="129"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1b5055ad"
+                    TAGREFS="LT10974"
+                    BASELINE="2619 1361 3568 1351" 
+                    HPOS="2616"
+                    VPOS="1285"
+                    WIDTH="952"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="3443 1288 3413 1288 3390 1312 3231 1312 3224 1305 3211 1305 3178 1305 3168 1312 2679 1312 2649 1345 2616 1325 2619 1361 2626 1398 2636 1388 2645 1394 2672 1414 2675 1414 2679 1414 2682 1414 2685 1414 2688 1414 2718 1394 2731 1388 2738 1394 2761 1414 2761 1417 2764 1417 2768 1417 2771 1421 2867 1421 2867 1417 2870 1417 2874 1417 2907 1388 2913 1384 2966 1388 3118 1398 3122 1398 3125 1398 3175 1381 3178 1381 3208 1404 3211 1404 3214 1404 3218 1404 3221 1404 3280 1388 3320 1407 3323 1407 3486 1411 3489 1411 3492 1411 3568 1371 3568 1351 3558 1285 3443 1285 3443 1288"/></Shape>
+            <String CONTENT="en date du 16 Janvier 1920"
+                    HPOS="2616"
+                    VPOS="1285"
+                    WIDTH="952"
+                    HEIGHT="136"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fd8320e6"
+                    TAGREFS="LT10974"
+                    BASELINE="2860 1444 3290 1414" 
+                    HPOS="2854"
+                    VPOS="1358"
+                    WIDTH="436"
+                    HEIGHT="185">
+            <Shape><Polygon POINTS="3185 1358 3151 1358 3132 1358 3128 1358 3118 1371 3046 1361 3042 1361 2854 1388 2860 1444 2864 1510 2913 1543 2917 1543 2920 1543 2923 1543 3052 1536 3056 1536 3059 1536 3132 1474 3132 1470 3290 1454 3290 1414 3284 1364 3188 1358 3185 1358"/></Shape>
+            <String CONTENT="Le Greffier"
+                    HPOS="2854"
+                    VPOS="1358"
+                    WIDTH="436"
+                    HEIGHT="185"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0e820da8"
+                    TAGREFS="LT10974"
+                    BASELINE="2897 1652 3013 1626 3208 1550" 
+                    HPOS="2880"
+                    VPOS="1503"
+                    WIDTH="338"
+                    HEIGHT="185">
+            <Shape><Polygon POINTS="2907 1688 3082 1652 3085 1652 3218 1583 3208 1550 3188 1503 3092 1536 3085 1536 3026 1526 3022 1526 3019 1526 2880 1602 2897 1652 2907 1688"/></Shape>
+            <String CONTENT="+"
+                    HPOS="2880"
+                    VPOS="1503"
+                    WIDTH="338"
+                    HEIGHT="185"
+                    WC="0.9998989105224609"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

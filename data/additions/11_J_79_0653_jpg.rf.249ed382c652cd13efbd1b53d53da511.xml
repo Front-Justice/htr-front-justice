@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_79_0653_jpg.rf.249ed382c652cd13efbd1b53d53da511.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3572"
+          HEIGHT="5949"
+          PHYSICAL_IMG_NR="191"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3572"
+                  HEIGHT="5949">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_c5827d10"
+                    BASELINE="2679 1129 3497 1693" 
+                    HPOS="2634"
+                    VPOS="1060"
+                    WIDTH="893"
+                    HEIGHT="665">
+            <Shape><Polygon POINTS="2679 1125 2634 1184 3457 1725 3492 1690 3527 1626 3338 1452 3338 1447 3333 1447 3065 1303 3021 1229 3016 1229 3016 1224 3011 1224 2847 1155 2812 1090 2812 1085 2807 1085 2807 1080 2803 1080 2798 1080 2718 1060 2679 1125"/></Shape>
+            <String CONTENT="Amnisteé en vertu de la"
+                    HPOS="2634"
+                    VPOS="1060"
+                    WIDTH="893"
+                    HEIGHT="665"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6aed7d83"
+                    BASELINE="2652 1266 3472 1797" 
+                    HPOS="2614"
+                    VPOS="1199"
+                    WIDTH="888"
+                    HEIGHT="645">
+            <Shape><Polygon POINTS="2649 1264 2614 1308 3423 1844 3467 1794 3502 1730 3041 1393 3036 1393 3031 1393 2971 1388 2917 1313 2912 1313 2912 1308 2907 1308 2902 1308 2897 1308 2852 1308 2773 1224 2773 1219 2768 1219 2763 1219 2683 1199 2649 1264"/></Shape>
+            <String CONTENT="loi du 24 Octobre 1919"
+                    HPOS="2614"
+                    VPOS="1199"
+                    WIDTH="888"
+                    HEIGHT="645"
+                    WC="0.9861697364937175"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a916feb8"
+                    BASELINE="3051 1688 3434 1895" 
+                    HPOS="3026"
+                    VPOS="1591"
+                    WIDTH="436"
+                    HEIGHT="337">
+            <Shape><Polygon POINTS="3274 1675 3269 1675 3214 1670 3194 1670 3185 1650 3170 1626 3170 1621 3165 1621 3165 1616 3160 1616 3090 1591 3046 1685 3026 1715 3219 1868 3224 1868 3408 1928 3433 1893 3462 1814 3299 1690 3274 1675"/></Shape>
+            <String CONTENT="Le Greffeir"
+                    HPOS="3026"
+                    VPOS="1591"
+                    WIDTH="436"
+                    HEIGHT="337"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_18874ba2"
+                    BASELINE="3035 1925 3441 1973" 
+                    HPOS="3021"
+                    VPOS="1784"
+                    WIDTH="417"
+                    HEIGHT="263">
+            <Shape><Polygon POINTS="3433 1893 3413 1883 3269 1873 3244 1844 3185 1789 3185 1784 3180 1784 3175 1784 3170 1784 3041 1794 3031 1923 3021 2007 3338 2007 3418 2047 3438 1968 3438 1888 3433 1883 3433 1893"/></Shape>
+            <String CONTENT="+"
+                    HPOS="3021"
+                    VPOS="1784"
+                    WIDTH="417"
+                    HEIGHT="263"
+                    WC="0.9999998807907104"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
