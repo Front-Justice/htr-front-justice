@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-1-_0084_jpg.rf.8fab5066c822ba1d9fbefb49f92ce599.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3757"
+          HEIGHT="6157"
+          PHYSICAL_IMG_NR="271"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3757"
+                  HEIGHT="6157">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_5765a6fa"
+                    BASELINE="232 5519 1879 5490" 
+                    HPOS="225"
+                    VPOS="5351"
+                    WIDTH="1653"
+                    HEIGHT="226">
+            <Shape><Polygon POINTS="230 5515 230 5546 1159 5541 1201 5556 1236 5572 1242 5572 1247 5577 1544 5577 1544 5572 1550 5572 1570 5561 1616 5536 1873 5561 1878 5489 1868 5387 1503 5351 1498 5351 225 5397 230 5515"/></Shape>
+            <String CONTENT="Détention préventive du 7 Janvier 1919"
+                    HPOS="225"
+                    VPOS="5351"
+                    WIDTH="1653"
+                    HEIGHT="226"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_370f3980"
+                    BASELINE="250 5578 1018 5571" 
+                    HPOS="241"
+                    VPOS="5510"
+                    WIDTH="775"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="549 5515 497 5515 446 5515 395 5515 343 5515 292 5515 241 5515 246 5577 246 5613 569 5638 574 5638 1016 5602 1016 5566 1000 5510 569 5510 549 5515"/></Shape>
+            <String CONTENT="au 20 février 1919"
+                    HPOS="241"
+                    VPOS="5510"
+                    WIDTH="775"
+                    HEIGHT="128"
+                    WC="0.9927835464477539"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3226c00b"
+                    BASELINE="221 5692 603 5685" 
+                    HPOS="215"
+                    VPOS="5572"
+                    WIDTH="385"
+                    HEIGHT="210">
+            <Shape><Polygon POINTS="369 5577 318 5577 266 5577 261 5572 215 5572 220 5690 225 5761 287 5736 307 5756 333 5777 338 5777 343 5777 349 5782 461 5782 461 5777 467 5777 600 5731 600 5684 590 5582 400 5577 369 5577"/></Shape>
+            <String CONTENT="Le Greffier"
+                    HPOS="215"
+                    VPOS="5572"
+                    WIDTH="385"
+                    HEIGHT="210"
+                    WC="0.9748367233709856"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_31f915b7"
+                    BASELINE="799 5695 1829 5676" 
+                    HPOS="790"
+                    VPOS="5577"
+                    WIDTH="1037"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="795 5690 795 5756 1822 5705 1827 5674 1811 5577 790 5592 795 5690"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur"
+                    HPOS="790"
+                    VPOS="5577"
+                    WIDTH="1037"
+                    HEIGHT="179"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f3d81c1f"
+                    BASELINE="323 5931 629 5795" 
+                    HPOS="272"
+                    VPOS="5700"
+                    WIDTH="364"
+                    HEIGHT="282">
+            <Shape><Polygon POINTS="318 5926 338 5982 636 5828 626 5792 579 5700 272 5828 318 5926"/></Shape>
+            <String CONTENT="+"
+                    HPOS="272"
+                    VPOS="5700"
+                    WIDTH="364"
+                    HEIGHT="282"
+                    WC="0.9999979734420776"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
