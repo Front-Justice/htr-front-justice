@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_247-0608.jpg</fileName>
+      <fileIdentifier>zip//subset_lines.zip/11_J_247-0608.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT26281" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT26282" LABEL="CustomZone-signature" DESCRIPTION="block type CustomZone-signature"/><OtherTag ID="BT26283" LABEL="MarginTextZone-addition" DESCRIPTION="block type MarginTextZone-addition"/><OtherTag ID="BT26284" LABEL="MarginTextZone-note" DESCRIPTION="block type MarginTextZone-note"/><OtherTag ID="BT26285" LABEL="QuireMarksZone-signature" DESCRIPTION="block type QuireMarksZone-signature"/><OtherTag ID="BT26286" LABEL="MainZone-orderNumber" DESCRIPTION="block type MainZone-orderNumber"/><OtherTag ID="BT26287" LABEL="MainZone-judgementNumber" DESCRIPTION="block type MainZone-judgementNumber"/><OtherTag ID="BT26288" LABEL="MainZone-judgementPlace" DESCRIPTION="block type MainZone-judgementPlace"/><OtherTag ID="BT26289" LABEL="MainZone-crimeDate" DESCRIPTION="block type MainZone-crimeDate"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10709" LABEL="CustomLine:scratched" DESCRIPTION="line type CustomLine:scratched"/><OtherTag ID="LT10710" LABEL="CustomLine:signature" DESCRIPTION="line type CustomLine:signature"/><OtherTag ID="LT10711" LABEL="CustomLine:margin" DESCRIPTION="line type CustomLine:margin"/><OtherTag ID="LT10750" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="6446"
+          HEIGHT="5071"
+          PHYSICAL_IMG_NR="364"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6446"
+                  HEIGHT="5071">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_0cf3a10a"
+                    
+                    BASELINE="960 403 2827 336" 
+                    HPOS="951"
+                    VPOS="249"
+                    WIDTH="1872"
+                    HEIGHT="207">
+            <Shape><Polygon POINTS="959 401 959 443 1390 447 1394 447 1399 447 1411 443 1441 426 1466 439 1475 447 1479 447 1483 447 1487 447 1530 439 1627 422 1711 439 1766 447 1771 447 1775 447 1779 447 1792 439 1830 414 1859 439 1885 456 1889 456 1893 456 1897 456 1902 456 1957 435 2020 414 2100 435 2151 447 2155 447 2159 447 2823 426 2823 333 2810 253 2274 270 2248 266 2202 249 2197 249 2193 249 2189 249 2143 266 2104 278 2037 270 1986 262 1982 262 1978 262 1948 270 1914 283 1885 270 1830 249 1826 249 1821 249 1817 249 1711 274 1661 287 1614 278 1530 262 1525 262 1521 262 1479 283 1475 283 1454 283 1297 266 1293 266 951 291 959 401"/></Shape>
+	    <String CONTENT="Villers-Cotteret, le 16 novembre 1914"
+                    HPOS="951"
+                    VPOS="249"
+                    WIDTH="1872"
+                    HEIGHT="207"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5ec18a3"
+                    
+                    BASELINE="1271 714 2116 536" 
+                    HPOS="1251"
+                    VPOS="460"
+                    WIDTH="866"
+                    HEIGHT="347">
+            <Shape><Polygon POINTS="1268 709 1289 807 1521 739 1534 739 1601 739 1606 739 1610 739 1614 739 1665 701 1754 633 2117 570 2113 532 2092 460 1640 481 1542 502 1538 502 1534 502 1411 600 1411 604 1251 633 1268 709"/></Shape>
+	    <String CONTENT="+"
+                    HPOS="1251"
+                    VPOS="460"
+                    WIDTH="866"
+                    HEIGHT="347"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
