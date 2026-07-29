@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,84 +10,28 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3707"
-          HEIGHT="5924"
-          PHYSICAL_IMG_NR="19"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3707"
-                  HEIGHT="5924">
+    <Page WIDTH="3707" HEIGHT="5924" PHYSICAL_IMG_NR="19" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3707" HEIGHT="5924">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_48c7f354"
-                    BASELINE="2543 1226 3644 1215" 
-                    HPOS="2535"
-                    VPOS="1091"
-                    WIDTH="1107"
-                    HEIGHT="167">
+          <TextLine ID="eSc_line_48c7f354" BASELINE="2543 1226 3644 1215" HPOS="2535" VPOS="1091" WIDTH="1107" HEIGHT="167">
             <Shape><Polygon POINTS="2540 1224 2540 1258 3642 1258 3642 1214 3622 1091 3494 1145 3435 1115 3430 1115 3425 1115 3420 1115 3311 1145 3222 1115 3188 1100 3183 1100 3178 1100 3173 1100 3168 1100 3148 1120 3113 1145 2842 1150 2812 1140 2733 1100 2728 1100 2624 1100 2619 1100 2614 1100 2609 1100 2535 1140 2540 1224"/></Shape>
-            <String CONTENT="Par décret du 21 Septembre 1921"
-                    HPOS="2535"
-                    VPOS="1091"
-                    WIDTH="1107"
-                    HEIGHT="167"
-                    ></String>
+            <String CONTENT="Par décret du 21 Septembre 1921" HPOS="2535" VPOS="1091" WIDTH="1107" HEIGHT="167"/>
           </TextLine>
-          <TextLine ID="eSc_line_edfab594"
-                    BASELINE="2562 1316 3606 1286" 
-                    HPOS="2555"
-                    VPOS="1224"
-                    WIDTH="1048"
-                    HEIGHT="108">
+          <TextLine ID="eSc_line_edfab594" BASELINE="2562 1316 3606 1286" HPOS="2555" VPOS="1224" WIDTH="1048" HEIGHT="108">
             <Shape><Polygon POINTS="2560 1313 2560 1332 3603 1308 3603 1283 3588 1224 2555 1239 2560 1313"/></Shape>
-            <String CONTENT="remise du restant de la peine"
-                    HPOS="2555"
-                    VPOS="1224"
-                    WIDTH="1048"
-                    HEIGHT="108"
-                    WC="0.9758830913181963"></String>
+            <String CONTENT="remise du restant de la peine" HPOS="2555" VPOS="1224" WIDTH="1048" HEIGHT="108" WC="0.9758830913181963"/>
           </TextLine>
-          <TextLine ID="eSc_line_581000d8"
-                    BASELINE="2738 1392 3606 1358" 
-                    HPOS="2728"
-                    VPOS="1288"
-                    WIDTH="875"
-                    HEIGHT="153">
+          <TextLine ID="eSc_line_581000d8" BASELINE="2738 1392 3606 1358" HPOS="2728" VPOS="1288" WIDTH="875" HEIGHT="153">
             <Shape><Polygon POINTS="3568 1288 3519 1288 3489 1288 3445 1288 3420 1293 3395 1293 2728 1323 2733 1387 2733 1421 2916 1441 2921 1441 2926 1441 3019 1416 3089 1441 3094 1441 3099 1441 3237 1411 3449 1441 3454 1441 3459 1441 3603 1397 3603 1357 3588 1288 3568 1288"/></Shape>
-            <String CONTENT="Rouen le 7 octobre 1921"
-                    HPOS="2728"
-                    VPOS="1288"
-                    WIDTH="875"
-                    HEIGHT="153"
-                    ></String>
+            <String CONTENT="Rouen le 7 octobre 1921" HPOS="2728" VPOS="1288" WIDTH="875" HEIGHT="153"/>
           </TextLine>
-          <TextLine ID="eSc_line_6d18ac14"
-                    BASELINE="2919 1474 3456 1474" 
-                    HPOS="2916"
-                    VPOS="1406"
-                    WIDTH="538"
-                    HEIGHT="213">
+          <TextLine ID="eSc_line_6d18ac14" BASELINE="2919 1474 3456 1474" HPOS="2916" VPOS="1406" WIDTH="538" HEIGHT="213">
             <Shape><Polygon POINTS="2916 1471 2916 1599 3178 1619 3183 1619 3188 1619 3192 1619 3262 1564 3286 1550 3454 1550 3454 1471 3454 1406 2916 1406 2916 1471"/></Shape>
-            <String CONTENT="Le Greffier"
-                    HPOS="2916"
-                    VPOS="1406"
-                    WIDTH="538"
-                    HEIGHT="213"
-                    WC="0.9506368853829124"></String>
+            <String CONTENT="Le Greffier" HPOS="2916" VPOS="1406" WIDTH="538" HEIGHT="213" WC="0.9506368853829124"/>
           </TextLine>
-          <TextLine ID="eSc_line_da00fc3a"
-                    BASELINE="2953 1748 3351 1576" 
-                    HPOS="2906"
-                    VPOS="1495"
-                    WIDTH="459"
-                    HEIGHT="331">
+          <TextLine ID="eSc_line_da00fc3a" BASELINE="2953 1748 3351 1576" HPOS="2906" VPOS="1495" WIDTH="459" HEIGHT="331">
             <Shape><Polygon POINTS="2950 1747 2990 1826 3064 1762 3113 1762 3133 1762 3138 1762 3143 1762 3148 1762 3148 1757 3153 1757 3168 1737 3192 1693 3252 1688 3321 1678 3326 1678 3331 1678 3331 1673 3336 1673 3365 1629 3346 1574 3306 1495 2906 1648 2950 1747"/></Shape>
-            <String CONTENT="+"
-                    HPOS="2906"
-                    VPOS="1495"
-                    WIDTH="459"
-                    HEIGHT="331"
-                    WC="0.9999966621398926"></String>
+            <String CONTENT="+" HPOS="2906" VPOS="1495" WIDTH="459" HEIGHT="331" WC="0.9999966621398926"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>
