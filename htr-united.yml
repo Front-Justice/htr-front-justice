@@ -18,17 +18,17 @@ characters:
   - a
   - n
   - r
-  - t
   - s
+  - t
   - u
   - l
   - o
   - d
-  - c
-  - m
-  - ́
-  - p
   - .
+  - c
+  - ́
+  - m
+  - p
   - ','
   - f
   - '1'
@@ -36,78 +36,82 @@ characters:
   - v
   - g
   - C
-  - ^
-  - ̀
   - q
+  - ̀
   - b
-  - '2'
+  - ^
+  - E
   - x
   - L
-  - A
-  - '9'
-  - E
-  - '-'
+  - '2'
   - j
+  - A
+  - '-'
+  - '9'
   - h
   - G
-  - M
   - '3'
+  - M
   - R
-  - D
   - P
-  - '6'
-  - I
-  - J
-  - '8'
-  - S
-  - '0'
+  - D
   - (
   - )
+  - I
+  - N
+  - '6'
   - y
-  - '7'
+  - '8'
+  - '0'
+  - J
+  - S
   - '4'
   - ̂
   - T
-  - N
-  - +
+  - '7'
   - O
+  - U
+  - ;
+  - F
+  - +
   - '5'
   - ':'
   - B
-  - V
-  - ;
-  - Q
-  - F
-  - U
   - ⟧
   - ⟦
+  - Q
+  - V
   - z
   - H
   - ̧
   - '?'
-  - '"'
-  - /
   - «
-  - ̈
-  - k
-  - K
   - X
+  - '"'
+  - ̈
+  - /
+  - k
+  - '['
+  - »
+  - K
+  - –
+  - ']'
   - Z
   - Y
-  - W
-  - »
-  - '['
-  - °
   - '&'
+  - _
+  - W
+  - °
   - w
-  - –
   - '|'
+  - '>'
+  - <
   - '!'
-  - ']'
   - '{'
+  - '%'
+  - '='
   - §
   - $
-  - '%'
   - '*'
   - ´
   - '`'
@@ -140,11 +144,11 @@ transcription-guidelines: >-
   See README (Annotation and Transcription Guidelines section)
 url: https://github.com/Front-Justice/htr-front-justice.git
 volume:
-- count: 933354
+- count: 1726913
   metric: characters
-- count: 1037
+- count: 1287
   metric: files
-- count: 20537
+- count: 32396
   metric: lines
-- count: 3474
+- count: 3491
   metric: regions
