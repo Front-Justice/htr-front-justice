@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,70 +10,24 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3600"
-          HEIGHT="5949"
-          PHYSICAL_IMG_NR="198"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3600"
-                  HEIGHT="5949">
+    <Page WIDTH="3600" HEIGHT="5949" PHYSICAL_IMG_NR="198" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3600" HEIGHT="5949">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_7498e5fc"
-                    BASELINE="435 4572 400 3370" 
-                    HPOS="327"
-                    VPOS="3361"
-                    WIDTH="163"
-                    HEIGHT="1209">
+          <TextLine ID="eSc_line_7498e5fc" BASELINE="435 4572 400 3370" HPOS="327" VPOS="3361" WIDTH="163" HEIGHT="1209">
             <Shape><Polygon POINTS="396 3366 327 3366 357 4496 361 4521 361 4570 431 4570 461 4565 490 4436 490 4432 456 4228 480 4169 480 4164 480 4159 480 4154 456 4045 471 3713 471 3708 426 3361 396 3366"/></Shape>
-            <String CONTENT="L&#x27;Officier d&#x27;Administration Greffier"
-                    HPOS="327"
-                    VPOS="3361"
-                    WIDTH="163"
-                    HEIGHT="1209"
-                    ></String>
+            <String CONTENT="L'Officier d'Administration Greffier" HPOS="327" VPOS="3361" WIDTH="163" HEIGHT="1209"/>
           </TextLine>
-          <TextLine ID="eSc_line_9814ea56"
-                    BASELINE="184 4705 148 3250" 
-                    HPOS="79"
-                    VPOS="3242"
-                    WIDTH="129"
-                    HEIGHT="1462">
+          <TextLine ID="eSc_line_9814ea56" BASELINE="184 4705 148 3250" HPOS="79" VPOS="3242" WIDTH="129" HEIGHT="1462">
             <Shape><Polygon POINTS="143 3247 79 3247 119 4704 183 4704 208 4694 168 3242 143 3247"/></Shape>
-            <String CONTENT="Le présent jugement à commencé à recevoir son"
-                    HPOS="79"
-                    VPOS="3242"
-                    WIDTH="129"
-                    HEIGHT="1462"
-                    ></String>
+            <String CONTENT="Le présent jugement à commencé à recevoir son" HPOS="79" VPOS="3242" WIDTH="129" HEIGHT="1462"/>
           </TextLine>
-          <TextLine ID="eSc_line_22ecb6f1"
-                    BASELINE="275 4707 213 3508" 
-                    HPOS="153"
-                    VPOS="3499"
-                    WIDTH="149"
-                    HEIGHT="1205">
+          <TextLine ID="eSc_line_22ecb6f1" BASELINE="275 4707 213 3508" HPOS="153" VPOS="3499" WIDTH="149" HEIGHT="1205">
             <Shape><Polygon POINTS="208 3504 153 3504 153 3514 153 3564 158 3614 158 3663 158 3713 158 3762 163 3812 163 3861 163 3911 163 3961 168 4010 168 4060 168 4109 173 4159 173 4208 173 4258 173 4303 173 4308 178 4357 178 4407 178 4436 178 4546 183 4555 183 4570 188 4704 272 4704 302 4699 238 3499 208 3504"/></Shape>
-            <String CONTENT="exécution le Vingt-quatre septembre 1918."
-                    HPOS="153"
-                    VPOS="3499"
-                    WIDTH="149"
-                    HEIGHT="1205"
-                    ></String>
+            <String CONTENT="exécution le Vingt-quatre septembre 1918." HPOS="153" VPOS="3499" WIDTH="149" HEIGHT="1205"/>
           </TextLine>
-          <TextLine ID="eSc_line_7045b4cb"
-                    BASELINE="369 4703 308 3597" 
-                    HPOS="238"
-                    VPOS="3589"
-                    WIDTH="173"
-                    HEIGHT="1110">
+          <TextLine ID="eSc_line_7045b4cb" BASELINE="369 4703 308 3597" HPOS="238" VPOS="3589" WIDTH="173" HEIGHT="1110">
             <Shape><Polygon POINTS="307 3594 238 3594 297 4699 366 4699 411 4689 332 3589 307 3594"/></Shape>
-            <String CONTENT="pour compter du douze mars 1918"
-                    HPOS="238"
-                    VPOS="3589"
-                    WIDTH="173"
-                    HEIGHT="1110"
-                    ></String>
+            <String CONTENT="pour compter du douze mars 1918" HPOS="238" VPOS="3589" WIDTH="173" HEIGHT="1110"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

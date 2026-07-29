@@ -1,0 +1,40 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_79_0688_jpg.rf.9d8c1968ec74c00afc69839a045e0154.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3600" HEIGHT="5949" PHYSICAL_IMG_NR="203" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3600" HEIGHT="5949">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_889fac02" TAGREFS="LT10974" BASELINE="343 4699 353 4623 323 3570" HPOS="252" VPOS="3564" WIDTH="144" HEIGHT="1130">
+            <Shape><Polygon POINTS="322 3569 252 3569 282 4684 342 4694 396 4689 342 3564 322 3569"/></Shape>
+            <String CONTENT="pour compter du 29 Juin 1918" HPOS="252" VPOS="3564" WIDTH="144" HEIGHT="1130"/>
+          </TextLine>
+          <TextLine ID="eSc_line_92b21ac9" TAGREFS="LT10974" BASELINE="558 4273 571 3663" HPOS="451" VPOS="3658" WIDTH="193" HEIGHT="610">
+            <Shape><Polygon POINTS="570 3658 456 3658 480 3747 456 3851 451 3886 451 3891 466 4263 555 4268 644 4263 629 3658 570 3658"/></Shape>
+            <String CONTENT="+" HPOS="451" VPOS="3658" WIDTH="193" HEIGHT="610"/>
+          </TextLine>
+          <TextLine ID="eSc_line_26b83ece" TAGREFS="LT10974" BASELINE="433 4567 413 3250" HPOS="317" VPOS="3242" WIDTH="154" HEIGHT="1323">
+            <Shape><Polygon POINTS="411 3247 337 3247 317 3490 317 3495 317 3499 342 3574 347 3589 342 3658 332 3837 332 3871 337 3921 337 3966 347 3995 357 4010 357 4565 431 4565 471 4555 446 3242 411 3247"/></Shape>
+            <String CONTENT="L'Officier d'Administration Greffier" HPOS="317" VPOS="3242" WIDTH="154" HEIGHT="1323" WC="0.9812918918000327"/>
+          </TextLine>
+          <TextLine ID="eSc_line_78aa68ce" TAGREFS="LT10974" BASELINE="181 4696 165 3627 175 3283 158 3177" HPOS="79" VPOS="3167" WIDTH="139" HEIGHT="1527">
+            <Shape><Polygon POINTS="153 3172 79 3177 109 4694 178 4694 218 4684 203 3167 153 3172"/></Shape>
+            <String CONTENT="Le présent jugement à commencé à recevoir son" HPOS="79" VPOS="3167" WIDTH="139" HEIGHT="1527"/>
+          </TextLine>
+          <TextLine ID="eSc_line_0932e968" TAGREFS="LT10974" BASELINE="261 4703 244 3455" HPOS="168" VPOS="3445" WIDTH="134" HEIGHT="1254">
+            <Shape><Polygon POINTS="242 3450 173 3450 168 3460 168 3509 168 3559 168 3609 168 3658 168 3708 168 3757 168 3807 168 3856 168 3866 168 3980 173 4005 173 4055 173 4075 188 4699 257 4699 302 4694 262 3445 242 3450"/></Shape>
+            <String CONTENT="exécution le 27 Septembre 1918" HPOS="168" VPOS="3445" WIDTH="134" HEIGHT="1254" WC="0.986426051585905"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,44 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_79_0664_jpg.rf.57313fbea6bb00cd306e109797b4eb00.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3600" HEIGHT="5949" PHYSICAL_IMG_NR="194" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3600" HEIGHT="5949">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_683ca161" BASELINE="582 4205 559 3778" HPOS="476" VPOS="3772" WIDTH="133" HEIGHT="431">
+            <Shape><Polygon POINTS="555 3777 476 3777 476 3802 490 3807 490 3856 490 3906 495 3956 495 4005 495 4020 510 4203 580 4203 609 4199 609 3772 555 3777"/></Shape>
+            <String CONTENT="+" HPOS="476" VPOS="3772" WIDTH="133" HEIGHT="431"/>
+          </TextLine>
+          <TextLine ID="eSc_line_6e2e4b86" BASELINE="502 4233 486 3803" HPOS="401" VPOS="3797" WIDTH="149" HEIGHT="431">
+            <Shape><Polygon POINTS="485 3802 401 3802 431 4228 500 4228 550 4218 525 4080 530 3797 485 3802"/></Shape>
+            <String CONTENT="Le C^ greffier" HPOS="401" VPOS="3797" WIDTH="149" HEIGHT="431"/>
+          </TextLine>
+          <TextLine ID="eSc_line_42976902" BASELINE="273 4757 235 3127" HPOS="148" VPOS="3118" WIDTH="154" HEIGHT="1636">
+            <Shape><Polygon POINTS="233 3123 148 3128 178 3232 208 4754 272 4754 302 4749 257 3118 233 3123"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son" HPOS="148" VPOS="3118" WIDTH="154" HEIGHT="1636"/>
+          </TextLine>
+          <TextLine ID="eSc_line_87cc6c5a" BASELINE="490 4757 472 4270" HPOS="411" VPOS="4263" WIDTH="109" HEIGHT="491">
+            <Shape><Polygon POINTS="471 4268 411 4268 411 4555 411 4605 411 4655 411 4704 411 4754 485 4754 520 4749 520 4263 471 4268"/></Shape>
+            <String CONTENT="Septembre 1918" HPOS="411" VPOS="4263" WIDTH="109" HEIGHT="491"/>
+          </TextLine>
+          <TextLine ID="eSc_line_bca65ca7" BASELINE="412 4757 375 3158" HPOS="302" VPOS="3152" WIDTH="169" HEIGHT="1602">
+            <Shape><Polygon POINTS="371 3157 302 3157 342 4754 411 4754 471 4744 441 4313 446 4060 451 3762 451 3757 426 3604 421 3554 426 3519 441 3376 441 3371 406 3152 371 3157"/></Shape>
+            <String CONTENT="Détention préventive du vingt deux juillet au vingt trois" HPOS="302" VPOS="3152" WIDTH="169" HEIGHT="1602"/>
+          </TextLine>
+          <TextLine ID="eSc_line_3a031d37" BASELINE="341 4757 290 3172" HPOS="238" VPOS="3162" WIDTH="148" HEIGHT="1592">
+            <Shape><Polygon POINTS="287 3167 238 3167 238 3217 238 3266 238 3316 242 3366 242 3415 242 3465 242 3514 247 3564 247 3614 247 3663 247 3713 252 3762 252 3812 252 3861 252 3911 257 3961 257 4010 257 4060 257 4109 262 4159 262 4208 262 4258 262 4308 267 4357 267 4407 267 4456 267 4506 272 4555 272 4605 272 4655 272 4704 272 4754 337 4754 366 4749 386 4441 386 4436 317 3162 287 3167"/></Shape>
+            <String CONTENT="exécution le vingt septembre mil neuf cent dix huit" HPOS="238" VPOS="3162" WIDTH="148" HEIGHT="1592" WC="0.9798676692522489"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
