@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
-      <fileName>11_J_246-0660.jpg</fileName>
-      <fileIdentifier>zip//corpus_258p.zip/11_J_246-0660.jpg</fileIdentifier>
+      <fileName>11_J_248-0606.jpg</fileName>
+      <fileIdentifier>zip//corpus_258p.zip/11_J_248-0606.jpg</fileIdentifier>
     </sourceImageInformation>
   </Description>
   <Tags>
@@ -14,14 +11,8 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3404"
-          HEIGHT="5170"
-          PHYSICAL_IMG_NR="75"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3404"
-                  HEIGHT="5170">
+    <Page WIDTH="1873" HEIGHT="2151" PHYSICAL_IMG_NR="24" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1873" HEIGHT="2151">
       </PrintSpace>
     </Page>
   </Layout>

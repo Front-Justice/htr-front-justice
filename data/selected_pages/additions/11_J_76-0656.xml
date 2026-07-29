@@ -1,0 +1,45 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_76-0656.jpg</fileName>
+      <fileIdentifier>zip//corpus_258p.zip/11_J_76-0656.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3537" HEIGHT="6152" PHYSICAL_IMG_NR="83" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3537" HEIGHT="6152">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_add36189" TAGREFS="LT11707" BASELINE="64 2706 1429 2702" HPOS="61.0" VPOS="2599.0" WIDTH="1366.0" HEIGHT="154.0">
+            <Shape><Polygon POINTS="61 2701 61 2742 1421 2753 1427 2701 1421 2599 61 2619 61 2701"/></Shape>
+            <String CONTENT="L'exécution du présent jugement a été" HPOS="61.0" VPOS="2599.0" WIDTH="1366.0" HEIGHT="154.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_297327e7" TAGREFS="LT11707" BASELINE="54 2788 978 2792 1060 2792 1377 2790" HPOS="46.0" VPOS="2696.0" WIDTH="1329.0" HEIGHT="133.0">
+            <Shape><Polygon POINTS="1334 2706 1283 2706 1232 2706 1180 2706 1129 2706 1078 2706 1026 2706 975 2706 924 2706 872 2706 821 2706 770 2706 718 2706 667 2706 616 2706 564 2706 513 2706 462 2706 410 2706 359 2706 308 2706 256 2706 205 2706 154 2706 102 2706 97 2696 51 2696 51 2783 46 2829 1370 2829 1375 2788 1375 2706 1334 2706"/></Shape>
+            <String CONTENT="suspendue par décision de M^ le Général" HPOS="46.0" VPOS="2696.0" WIDTH="1329.0" HEIGHT="133.0" WC="0.9684729930900392"/>
+          </TextLine>
+          <TextLine ID="eSc_line_5bd59b35" TAGREFS="LT11707" BASELINE="54 2874 1243 2869" HPOS="46.0" VPOS="2804.0" WIDTH="1196.0" HEIGHT="123.0">
+            <Shape><Polygon POINTS="51 2870 51 2906 1088 2927 1093 2927 1242 2891 1242 2865 1232 2804 46 2804 51 2870"/></Shape>
+            <String CONTENT="Comm^t l'Armée, du 26 avril 1917" HPOS="46.0" VPOS="2804.0" WIDTH="1196.0" HEIGHT="123.0" WC="0.9977072766332915"/>
+          </TextLine>
+          <TextLine ID="eSc_line_3940d5b2" TAGREFS="LT11707" BASELINE="71 2952 1385 2951" HPOS="66.0" VPOS="2855.0" WIDTH="1314.0" HEIGHT="169.0">
+            <Shape><Polygon POINTS="1196 2870 1144 2870 1103 2870 1083 2886 66 2881 66 2947 66 2999 1303 3024 1309 3024 1314 3024 1380 2983 1380 2947 1380 2855 1206 2855 1196 2870"/></Shape>
+            <String CONTENT="Détention préventive: du 30 Mars au 25 avril 1919" HPOS="66.0" VPOS="2855.0" WIDTH="1314.0" HEIGHT="169.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_1f79e65a" TAGREFS="LT11707" BASELINE="277 3034 468 3024" HPOS="270.0" VPOS="2959.0" WIDTH="205.0" HEIGHT="199.0">
+            <Shape><Polygon POINTS="277 3034 283 3158 475 3158 468 3024 458 2959 270 2970 277 3034"/></Shape>
+            <String CONTENT="Le Greffier" HPOS="270.0" VPOS="2959.0" WIDTH="205.0" HEIGHT="199.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_4c900349" BASELINE="107 3138 673 3063" HPOS="92.0" VPOS="2978.0" WIDTH="601.0" HEIGHT="333.0">
+            <Shape><Polygon POINTS="446 3024 395 3024 343 3029 333 3029 92 3065 102 3137 128 3311 266 3260 693 3234 672 3060 651 2978 451 3009 446 3024"/></Shape>
+            <String CONTENT="M. Thibault" HPOS="92.0" VPOS="2978.0" WIDTH="601.0" HEIGHT="333.0"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

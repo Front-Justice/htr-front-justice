@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,103 +10,32 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3544"
-          HEIGHT="5957"
-          PHYSICAL_IMG_NR="64"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3544"
-                  HEIGHT="5957">
+    <Page WIDTH="3544" HEIGHT="5957" PHYSICAL_IMG_NR="64" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3544" HEIGHT="5957">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_00a21877"
-                    TAGREFS="LT10974"
-                    BASELINE="1969 1729 2295 1489 2782 1088 3232 773" 
-                    HPOS="1923"
-                    VPOS="699"
-                    WIDTH="1327"
-                    HEIGHT="1073">
+          <TextLine ID="eSc_line_00a21877" TAGREFS="LT10974" BASELINE="1969 1729 2295 1489 2782 1088 3232 773" HPOS="1923" VPOS="699" WIDTH="1327" HEIGHT="1073">
             <Shape><Polygon POINTS="1968 1727 2003 1772 3250 804 3230 769 3176 699 1923 1667 1968 1727"/></Shape>
-            <String CONTENT="remise de l&#x27;entier restant de la peine"
-                    HPOS="1923"
-                    VPOS="699"
-                    WIDTH="1327"
-                    HEIGHT="1073"
-                    ></String>
+            <String CONTENT="remise de l'entier restant de la peine" HPOS="1923" VPOS="699" WIDTH="1327" HEIGHT="1073"/>
           </TextLine>
-          <TextLine ID="eSc_line_3093a16d"
-                    TAGREFS="LT10974"
-                    BASELINE="1917 1673 2615 1116 2932 901" 
-                    HPOS="1744"
-                    VPOS="709"
-                    WIDTH="1198"
-                    HEIGHT="998">
+          <TextLine ID="eSc_line_3093a16d" TAGREFS="LT10974" BASELINE="1917 1673 2615 1116 2932 901" HPOS="1744" VPOS="709" WIDTH="1198" HEIGHT="998">
             <Shape><Polygon POINTS="1913 1672 1943 1707 2942 923 2927 898 2778 709 2703 714 2699 714 2694 714 2694 719 2689 719 2689 724 2689 729 2674 794 2669 804 2614 833 2579 853 2574 853 2574 858 2569 858 2569 863 2569 868 2559 903 2475 933 2361 972 2356 972 2356 977 2351 977 2351 982 2336 1032 2296 1186 2062 1375 1868 1375 1858 1375 1854 1375 1849 1375 1844 1375 1744 1454 1913 1672"/></Shape>
-            <String CONTENT="Par décret du 24 juin 1922"
-                    HPOS="1744"
-                    VPOS="709"
-                    WIDTH="1198"
-                    HEIGHT="998"
-                    ></String>
+            <String CONTENT="Par décret du 24 juin 1922" HPOS="1744" VPOS="709" WIDTH="1198" HEIGHT="998"/>
           </TextLine>
-          <TextLine ID="eSc_line_96171fc7"
-                    BASELINE="2060 1805 3300 842" 
-                    HPOS="1998"
-                    VPOS="759"
-                    WIDTH="1327"
-                    HEIGHT="1082">
+          <TextLine ID="eSc_line_96171fc7" BASELINE="2060 1805 3300 842" HPOS="1998" VPOS="759" WIDTH="1327" HEIGHT="1082">
             <Shape><Polygon POINTS="3215 784 3176 804 1998 1722 2057 1801 2092 1841 3325 883 3295 838 3235 759 3210 779 3215 784"/></Shape>
-            <String CONTENT="de deux ans de prison prononcée"
-                    HPOS="1998"
-                    VPOS="759"
-                    WIDTH="1327"
-                    HEIGHT="1082"
-                    ></String>
+            <String CONTENT="de deux ans de prison prononcée" HPOS="1998" VPOS="759" WIDTH="1327" HEIGHT="1082"/>
           </TextLine>
-          <TextLine ID="eSc_line_fbda693a"
-                    TAGREFS="LT10974"
-                    BASELINE="2435 1741 3078 1262" 
-                    HPOS="2375"
-                    VPOS="1186"
-                    WIDTH="721"
-                    HEIGHT="615">
+          <TextLine ID="eSc_line_fbda693a" TAGREFS="LT10974" BASELINE="2435 1741 3078 1262" HPOS="2375" VPOS="1186" WIDTH="721" HEIGHT="615">
             <Shape><Polygon POINTS="2430 1737 2480 1801 2534 1717 2644 1662 2679 1648 2684 1648 2684 1643 2689 1643 2723 1603 2788 1523 2877 1469 3071 1365 3076 1365 3076 1360 3081 1360 3081 1355 3096 1300 3071 1265 3076 1260 3017 1186 2375 1662 2430 1737"/></Shape>
-            <String CONTENT="9^o ^cis greffier"
-                    HPOS="2375"
-                    VPOS="1186"
-                    WIDTH="721"
-                    HEIGHT="615"
-                    ></String>
+            <String CONTENT="9^o ^cis greffier" HPOS="2375" VPOS="1186" WIDTH="721" HEIGHT="615"/>
           </TextLine>
-          <TextLine ID="eSc_line_21fccd40"
-                    TAGREFS="LT10974"
-                    BASELINE="2550 1754 2629 1740 2692 1704 2798 1624 2964 1456 3040 1419" 
-                    HPOS="2533"
-                    VPOS="1366"
-                    WIDTH="514"
-                    HEIGHT="434">
+          <TextLine ID="eSc_line_21fccd40" TAGREFS="LT10974" BASELINE="2550 1754 2629 1740 2692 1704 2798 1624 2964 1456 3040 1419" HPOS="2533" VPOS="1366" WIDTH="514" HEIGHT="434">
             <Shape><Polygon POINTS="2586 1800 2676 1763 2739 1763 2739 1760 2742 1760 2745 1760 2808 1710 2808 1707 2812 1707 2964 1499 3027 1479 3030 1479 3030 1476 3033 1476 3033 1472 3047 1429 3040 1419 2997 1366 2901 1429 2901 1432 2868 1469 2818 1522 2785 1528 2755 1535 2752 1535 2749 1535 2749 1538 2745 1538 2729 1568 2712 1598 2692 1598 2682 1598 2679 1598 2676 1598 2672 1598 2672 1601 2669 1601 2669 1605 2669 1608 2666 1615 2659 1651 2533 1714 2550 1754 2586 1800"/></Shape>
-            <String CONTENT="+"
-                    HPOS="2533"
-                    VPOS="1366"
-                    WIDTH="514"
-                    HEIGHT="434"
-                    ></String>
+            <String CONTENT="+" HPOS="2533" VPOS="1366" WIDTH="514" HEIGHT="434"/>
           </TextLine>
-          <TextLine ID="eSc_line_41aa4159"
-                    TAGREFS="LT10974"
-                    BASELINE="2132 1853 2871 1260 3053 1145 3110 1078" 
-                    HPOS="2082"
-                    VPOS="1022"
-                    WIDTH="1138"
-                    HEIGHT="968">
+          <TextLine ID="eSc_line_41aa4159" TAGREFS="LT10974" BASELINE="2132 1853 2871 1260 3053 1145 3110 1078" HPOS="2082" VPOS="1022" WIDTH="1138" HEIGHT="968">
             <Shape><Polygon POINTS="2236 1990 2281 1990 2281 1985 2286 1985 2291 1985 2291 1980 2296 1980 2296 1975 2311 1916 2316 1911 2321 1911 2380 1901 2385 1901 2390 1901 2390 1896 2395 1896 2395 1891 2415 1836 2420 1816 2445 1811 2505 1801 2510 1801 2515 1801 2515 1797 2520 1797 2520 1792 2534 1747 2564 1653 2614 1603 2609 1578 2644 1548 2684 1514 2708 1528 2713 1528 2848 1504 2892 1494 2897 1494 2902 1494 3220 1221 3106 1077 3056 1022 2082 1797 2127 1851 2236 1990"/></Shape>
-            <String CONTENT="par le présent jugement"
-                    HPOS="2082"
-                    VPOS="1022"
-                    WIDTH="1138"
-                    HEIGHT="968"
-                    ></String>
+            <String CONTENT="par le présent jugement" HPOS="2082" VPOS="1022" WIDTH="1138" HEIGHT="968"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>
