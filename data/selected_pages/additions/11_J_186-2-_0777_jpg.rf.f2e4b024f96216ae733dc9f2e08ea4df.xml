@@ -1,0 +1,40 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_186-2-_0777_jpg.rf.f2e4b024f96216ae733dc9f2e08ea4df.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3578" HEIGHT="6071" PHYSICAL_IMG_NR="258" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3578" HEIGHT="6071">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_2cb5eb29" BASELINE="2440 1370 3347 1381" HPOS="2434" VPOS="1290" WIDTH="911" HEIGHT="156">
+            <Shape><Polygon POINTS="2439 1365 2434 1396 2540 1401 2575 1436 2575 1441 2581 1441 2586 1441 2909 1446 2915 1446 2920 1446 2925 1446 2950 1426 2970 1446 2975 1446 2980 1446 2985 1446 3264 1441 3269 1441 3340 1406 3345 1376 3345 1295 2439 1290 2439 1365"/></Shape>
+            <String CONTENT="INFRACTON AMNISTIÉE" HPOS="2434" VPOS="1290" WIDTH="911" HEIGHT="156"/>
+          </TextLine>
+          <TextLine ID="eSc_line_fa9f19aa" BASELINE="2230 1492 3358 1490" HPOS="2226" VPOS="1421" WIDTH="1129" HEIGHT="127">
+            <Shape><Polygon POINTS="2226 1487 2226 1507 2424 1548 2429 1548 2697 1512 2818 1543 2823 1543 2828 1543 3036 1517 3208 1548 3213 1548 3218 1548 3355 1507 3355 1487 3355 1421 2226 1421 2226 1487"/></Shape>
+            <String CONTENT="Art^. 5 de la loi du 24" HPOS="2226" VPOS="1421" WIDTH="1129" HEIGHT="127"/>
+          </TextLine>
+          <TextLine ID="eSc_line_6b0ce3e6" BASELINE="2471 1590 3225 1595" HPOS="2464" VPOS="1492" WIDTH="759" HEIGHT="142">
+            <Shape><Polygon POINTS="2631 1492 2626 1492 2621 1492 2621 1497 2591 1522 2469 1522 2469 1588 2464 1629 3213 1634 3223 1593 3218 1522 2636 1492 2631 1492"/></Shape>
+            <String CONTENT="Octobre 1919" HPOS="2464" VPOS="1492" WIDTH="759" HEIGHT="142" WC="0.9957476258277893"/>
+          </TextLine>
+          <TextLine ID="eSc_line_5e8869fc" BASELINE="2380 1720 3372 1710" HPOS="2373" VPOS="1634" WIDTH="997" HEIGHT="136">
+            <Shape><Polygon POINTS="2378 1715 2378 1770 3365 1745 3370 1709 3355 1634 2373 1639 2378 1715"/></Shape>
+            <String CONTENT="L'Officier-Greffier Cdt^ du Dépôt" HPOS="2373" VPOS="1634" WIDTH="997" HEIGHT="136"/>
+          </TextLine>
+          <TextLine ID="eSc_line_c1c9d9f9" BASELINE="2286 1811 3428 1784" HPOS="2277" VPOS="1699" WIDTH="1149" HEIGHT="162">
+            <Shape><Polygon POINTS="3340 1715 3289 1715 3238 1715 3188 1715 3137 1715 3087 1715 3066 1715 2277 1745 2282 1806 2282 1836 2727 1861 2732 1861 3426 1811 3426 1780 3410 1699 3340 1699 3340 1715"/></Shape>
+            <String CONTENT="Central d'Archives de la Justice Militaire" HPOS="2277" VPOS="1699" WIDTH="1149" HEIGHT="162"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
