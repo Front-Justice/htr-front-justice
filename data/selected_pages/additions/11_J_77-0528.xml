@@ -1,0 +1,41 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_77-0528.jpg</fileName>
+      <fileIdentifier>zip//corpus_258p.zip/11_J_77-0528.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3638" HEIGHT="6062" PHYSICAL_IMG_NR="29" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3638" HEIGHT="6062">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_3192e4a7" BASELINE="433 4781 418 3434" HPOS="328" VPOS="3425" WIDTH="182" HEIGHT="1353">
+            <Shape><Polygon POINTS="414 3430 328 3435 358 3541 363 4778 429 4778 469 4773 495 4405 495 4400 495 4394 459 4268 505 4147 505 4142 510 4142 510 3970 505 3965 505 3960 469 3814 500 3500 500 3495 500 3490 500 3485 454 3425 414 3430"/></Shape>
+            <String CONTENT="L'officier d'Administration Greffier" HPOS="328" VPOS="3425" WIDTH="182" HEIGHT="1353"/>
+          </TextLine>
+          <TextLine ID="eSc_line_9fffc873" BASELINE="924 4786 504 3866" HPOS="424" VPOS="3839" WIDTH="541" HEIGHT="980">
+            <Shape><Polygon POINTS="500 3864 424 3894 424 3930 485 4071 434 4233 434 4238 434 4243 434 4248 500 4400 500 4405 641 4591 636 4637 636 4642 636 4647 636 4652 641 4652 641 4657 646 4657 747 4708 828 4819 919 4783 965 4753 914 4647 944 4521 944 4516 944 4511 944 4506 944 4501 853 4359 853 4298 848 4293 848 4288 848 4283 843 4283 843 4278 717 4192 722 4026 722 4021 722 4016 722 4011 717 4011 545 3839 500 3864"/></Shape>
+            <String CONTENT="+" HPOS="424" VPOS="3839" WIDTH="541" HEIGHT="980" WC="0.9999992847442627"/>
+          </TextLine>
+          <TextLine ID="eSc_line_2c754be4" BASELINE="359 4817 344 3575" HPOS="247" VPOS="3566" WIDTH="157" HEIGHT="1248">
+            <Shape><Polygon POINTS="343 3571 247 3571 277 4046 272 4809 358 4814 404 4809 389 3566 343 3571"/></Shape>
+            <String CONTENT="pour compter du 30 août 1917" HPOS="247" VPOS="3566" WIDTH="157" HEIGHT="1248"/>
+          </TextLine>
+          <TextLine ID="eSc_line_60ddf5a3" BASELINE="256 4901 245 3497" HPOS="176" VPOS="3490" WIDTH="132" HEIGHT="1410">
+            <Shape><Polygon POINTS="242 3495 176 3495 186 4900 252 4900 277 4895 308 4773 308 4768 288 3490 242 3495"/></Shape>
+            <String CONTENT="exécution le 21 septembre 1917" HPOS="176" VPOS="3490" WIDTH="132" HEIGHT="1410"/>
+          </TextLine>
+          <TextLine ID="eSc_line_857c4b97" BASELINE="172 4927 172 3330" HPOS="106" VPOS="3329" WIDTH="111" HEIGHT="1596">
+            <Shape><Polygon POINTS="171 3329 106 3329 106 4920 171 4925 212 4920 217 3329 171 3329"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son" HPOS="106" VPOS="3329" WIDTH="111" HEIGHT="1596"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

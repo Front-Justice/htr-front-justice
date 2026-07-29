@@ -1,0 +1,37 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_138-0562.jpg</fileName>
+      <fileIdentifier>zip//corpus_258p.zip/11_J_138-0562.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3779" HEIGHT="6153" PHYSICAL_IMG_NR="71" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3779" HEIGHT="6153">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_ef9e0614" TAGREFS="LT11707" BASELINE="57 5606 2456 5591" HPOS="51.0" VPOS="5491.0" WIDTH="2399.0" HEIGHT="149.0">
+            <Shape><Polygon POINTS="56 5604 56 5640 2450 5624 2450 5588 2435 5491 2276 5496 2271 5496 2266 5496 2266 5501 2235 5532 51 5532 56 5604"/></Shape>
+            <String CONTENT="Exécution du Jugement suspendue en application de l'art 150 du Code de Justice militaire" HPOS="51.0" VPOS="5491.0" WIDTH="2399.0" HEIGHT="149.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_278f071a" TAGREFS="LT11707" BASELINE="167 5708 837 5684 1788 5684" HPOS="158.0" VPOS="5609.0" WIDTH="1626.0" HEIGHT="138.0">
+            <Shape><Polygon POINTS="164 5706 164 5747 1779 5732 1784 5681 1774 5609 158 5629 164 5706"/></Shape>
+            <String CONTENT="Vingt huit jours de détention préventive." HPOS="158.0" VPOS="5609.0" WIDTH="1626.0" HEIGHT="138.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_4cb39c49" TAGREFS="LT11707" BASELINE="1242 5797 1894 5801" HPOS="1235.0" VPOS="5701.0" WIDTH="657.0" HEIGHT="159.0">
+            <Shape><Polygon POINTS="1240 5794 1235 5829 1312 5860 1317 5860 1322 5860 1328 5860 1410 5835 1569 5860 1574 5860 1886 5819 1892 5799 1886 5732 1604 5701 1599 5701 1240 5722 1240 5794"/></Shape>
+            <String CONTENT="Le Greffier" HPOS="1235.0" VPOS="5701.0" WIDTH="657.0" HEIGHT="159.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_98578bb4" BASELINE="1325 6044 1877 5911" HPOS="1292.0" VPOS="5804.0" WIDTH="589.0" HEIGHT="266.0">
+            <Shape><Polygon POINTS="1322 6040 1328 6070 1881 5942 1876 5906 1851 5804 1481 5840 1476 5840 1292 5917 1322 6040"/></Shape>
+            <String CONTENT="+" HPOS="1292.0" VPOS="5804.0" WIDTH="589.0" HEIGHT="266.0"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
