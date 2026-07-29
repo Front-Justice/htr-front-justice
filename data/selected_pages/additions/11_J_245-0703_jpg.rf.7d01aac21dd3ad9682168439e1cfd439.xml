@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,112 +10,36 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3895"
-          HEIGHT="6170"
-          PHYSICAL_IMG_NR="366"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3895"
-                  HEIGHT="6170">
+    <Page WIDTH="3895" HEIGHT="6170" PHYSICAL_IMG_NR="366" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3895" HEIGHT="6170">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_5e9955b4"
-                    BASELINE="651 553 964 90" 
-                    HPOS="586"
-                    VPOS="46"
-                    WIDTH="422"
-                    HEIGHT="519">
+          <TextLine ID="eSc_line_5e9955b4" BASELINE="651 553 964 90" HPOS="586" VPOS="46" WIDTH="422" HEIGHT="519">
             <Shape><Polygon POINTS="648 550 679 565 1008 118 962 87 895 46 761 174 756 174 756 179 704 334 602 406 602 411 596 411 596 416 596 421 586 503 648 550"/></Shape>
-            <String CONTENT="Par décret"
-                    HPOS="586"
-                    VPOS="46"
-                    WIDTH="422"
-                    HEIGHT="519"
-                    ></String>
+            <String CONTENT="Par décret" HPOS="586" VPOS="46" WIDTH="422" HEIGHT="519"/>
           </TextLine>
-          <TextLine ID="eSc_line_91de7ae6"
-                    BASELINE="1033 727 1181 528 1265 431 1357 303" 
-                    HPOS="895"
-                    VPOS="200"
-                    WIDTH="504"
-                    HEIGHT="550">
+          <TextLine ID="eSc_line_91de7ae6" BASELINE="1033 727 1181 528 1265 431 1357 303" HPOS="895" VPOS="200" WIDTH="504" HEIGHT="550">
             <Shape><Polygon POINTS="1224 200 1157 246 1157 251 1152 251 1152 257 1152 262 1147 313 1142 318 1101 329 1095 329 1095 334 1090 334 1090 339 1065 411 1054 442 1023 462 972 493 972 498 967 498 967 503 967 509 967 514 967 534 967 560 895 617 1029 724 1065 750 1147 627 1167 622 1260 591 1265 591 1265 586 1270 586 1337 493 1337 488 1337 483 1337 478 1332 416 1332 385 1399 339 1353 298 1224 200"/></Shape>
-            <String CONTENT="Le Greffier"
-                    HPOS="895"
-                    VPOS="200"
-                    WIDTH="504"
-                    HEIGHT="550"
-                    ></String>
+            <String CONTENT="Le Greffier" HPOS="895" VPOS="200" WIDTH="504" HEIGHT="550"/>
           </TextLine>
-          <TextLine ID="eSc_line_47159a0d"
-                    BASELINE="1772 797 2512 248" 
-                    HPOS="1692"
-                    VPOS="169"
-                    WIDTH="839"
-                    HEIGHT="653">
+          <TextLine ID="eSc_line_47159a0d" BASELINE="1772 797 2512 248" HPOS="1692" VPOS="169" WIDTH="839" HEIGHT="653">
             <Shape><Polygon POINTS="1790 822 1929 766 1934 766 1934 760 1939 760 2037 647 2125 658 2130 658 2135 658 2140 658 2315 529 2315 524 2320 524 2531 272 2510 246 2454 169 2361 210 2356 210 2356 215 2351 215 2279 308 2217 313 2212 313 2207 313 2207 318 2202 318 2119 421 2011 442 2006 442 2001 442 1692 688 1769 796 1790 822"/></Shape>
-            <String CONTENT="3^e Liasse"
-                    HPOS="1692"
-                    VPOS="169"
-                    WIDTH="839"
-                    HEIGHT="653"
-                    ></String>
+            <String CONTENT="3^e Liasse" HPOS="1692" VPOS="169" WIDTH="839" HEIGHT="653"/>
           </TextLine>
-          <TextLine ID="eSc_line_da6d21bb"
-                    BASELINE="455 970 504 894 708 604 1103 25" 
-                    HPOS="344"
-                    VPOS="0"
-                    WIDTH="798"
-                    HEIGHT="976">
+          <TextLine ID="eSc_line_da6d21bb" BASELINE="455 970 504 894 708 604 1103 25" HPOS="344" VPOS="0" WIDTH="798" HEIGHT="976">
             <Shape><Polygon POINTS="1044 5 1023 5 771 365 771 375 761 385 663 529 653 545 638 534 545 560 540 560 535 560 535 565 529 565 344 832 344 838 344 843 344 848 344 894 452 966 473 976 1142 46 1101 20 1059 0 1044 5"/></Shape>
-            <String CONTENT="du 19 décembre 1915"
-                    HPOS="344"
-                    VPOS="0"
-                    WIDTH="798"
-                    HEIGHT="976"
-                    ></String>
+            <String CONTENT="du 19 décembre 1915" HPOS="344" VPOS="0" WIDTH="798" HEIGHT="976"/>
           </TextLine>
-          <TextLine ID="eSc_line_4c762e64"
-                    BASELINE="747 981 985 599" 
-                    HPOS="684"
-                    VPOS="560"
-                    WIDTH="339"
-                    HEIGHT="447">
+          <TextLine ID="eSc_line_4c762e64" BASELINE="747 981 985 599" HPOS="684" VPOS="560" WIDTH="339" HEIGHT="447">
             <Shape><Polygon POINTS="905 591 879 632 848 678 823 719 797 766 766 807 735 848 704 889 694 899 684 935 746 976 797 1007 905 879 905 874 1023 622 982 596 926 560 905 591"/></Shape>
-            <String CONTENT="sa peine."
-                    HPOS="684"
-                    VPOS="560"
-                    WIDTH="339"
-                    HEIGHT="447"
-                    ></String>
+            <String CONTENT="sa peine." HPOS="684" VPOS="560" WIDTH="339" HEIGHT="447"/>
           </TextLine>
-          <TextLine ID="eSc_line_0e37b85f"
-                    BASELINE="466 1083 688 791 726 725 1081 211 1213 12" 
-                    HPOS="391"
-                    VPOS="5"
-                    WIDTH="833"
-                    HEIGHT="1105">
+          <TextLine ID="eSc_line_0e37b85f" BASELINE="466 1083 688 791 726 725 1081 211 1213 12" HPOS="391" VPOS="5" WIDTH="833" HEIGHT="1105">
             <Shape><Polygon POINTS="962 236 931 277 900 318 874 359 843 406 812 447 787 488 756 529 740 545 689 642 663 658 638 699 607 740 576 781 560 802 540 853 483 910 463 951 452 946 391 1018 463 1079 514 1110 1224 66 1198 46 1137 5 1003 169 993 195"/></Shape>
-            <String CONTENT="il a été accordé au condamné"
-                    HPOS="391"
-                    VPOS="5"
-                    WIDTH="833"
-                    HEIGHT="1105"
-                    ></String>
+            <String CONTENT="il a été accordé au condamné" HPOS="391" VPOS="5" WIDTH="833" HEIGHT="1105"/>
           </TextLine>
-          <TextLine ID="eSc_line_00654e2e"
-                    BASELINE="558 1103 686 919 795 771 997 459 1058 372 1289 40" 
-                    HPOS="488"
-                    VPOS="0"
-                    WIDTH="854"
-                    HEIGHT="1141">
+          <TextLine ID="eSc_line_00654e2e" BASELINE="558 1103 686 919 795 771 997 459 1058 372 1289 40" HPOS="488" VPOS="0" WIDTH="854" HEIGHT="1141">
             <Shape><Polygon POINTS="1224 5 1173 87 1080 210 1023 298 962 380 936 426 874 509 761 678 699 760 674 807 550 971 524 997 488 1054 555 1100 622 1141 674 1069 668 1012 720 982 720 976 725 976 725 966 730 966 730 925 776 910 782 904 787 894 787 838 982 601 982 591 998 524 1065 488 1070 488 1070 483 1075 483 1095 375 1342 77 1286 35 1229 0 1224 5"/></Shape>
-            <String CONTENT="Fily, remise du restant de"
-                    HPOS="488"
-                    VPOS="0"
-                    WIDTH="854"
-                    HEIGHT="1141"
-                    ></String>
+            <String CONTENT="Fily, remise du restant de" HPOS="488" VPOS="0" WIDTH="854" HEIGHT="1141"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

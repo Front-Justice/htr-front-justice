@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,88 +10,28 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3593"
-          HEIGHT="6037"
-          PHYSICAL_IMG_NR="60"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3593"
-                  HEIGHT="6037">
+    <Page WIDTH="3593" HEIGHT="6037" PHYSICAL_IMG_NR="60" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3593" HEIGHT="6037">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_baa36dbe"
-                    TAGREFS="LT10974"
-                    BASELINE="2140 1240 2403 1241 3478 1223" 
-                    HPOS="2133"
-                    VPOS="1131"
-                    WIDTH="1344"
-                    HEIGHT="141">
+          <TextLine ID="eSc_line_baa36dbe" TAGREFS="LT10974" BASELINE="2140 1240 2403 1241 3478 1223" HPOS="2133" VPOS="1131" WIDTH="1344" HEIGHT="141">
             <Shape><Polygon POINTS="2138 1237 2138 1262 2933 1267 2943 1267 2994 1267 3044 1267 3044 1267 3472 1272 3477 1222 3467 1147 2903 1131 2898 1131 2747 1157 2697 1131 2692 1131 2687 1131 2410 1162 2360 1131 2355 1131 2350 1131 2133 1131 2138 1237"/></Shape>
-            <String CONTENT="Remise du restant de sa peine par"
-                    HPOS="2133"
-                    VPOS="1131"
-                    WIDTH="1344"
-                    HEIGHT="141"
-                    WC="0.9878567854563395"></String>
+            <String CONTENT="Remise du restant de sa peine par" HPOS="2133" VPOS="1131" WIDTH="1344" HEIGHT="141" WC="0.9878567854563395"/>
           </TextLine>
-          <TextLine ID="eSc_line_0196805b"
-                    TAGREFS="LT10974"
-                    BASELINE="2187 1301 3089 1274" 
-                    HPOS="2183"
-                    VPOS="1230"
-                    WIDTH="906"
-                    HEIGHT="114">
+          <TextLine ID="eSc_line_0196805b" TAGREFS="LT10974" BASELINE="2187 1301 3089 1274" HPOS="2183" VPOS="1230" WIDTH="906" HEIGHT="114">
             <Shape><Polygon POINTS="2187 1301 2187 1331 2391 1344 2395 1344 2398 1344 2402 1344 2402 1341 2422 1324 2428 1314 2522 1311 2542 1318 2579 1334 2583 1334 2586 1334 2744 1314 2858 1331 2861 1331 2865 1331 2901 1314 2928 1328 2932 1328 2935 1328 2938 1328 2942 1328 2975 1301 2982 1297 3089 1297 3089 1274 3079 1230 2294 1237 2183 1257 2187 1301"/></Shape>
-            <String CONTENT="décret du 21 Mars 1921"
-                    HPOS="2183"
-                    VPOS="1230"
-                    WIDTH="906"
-                    HEIGHT="114"
-                    WC="0.997546735017196"></String>
+            <String CONTENT="décret du 21 Mars 1921" HPOS="2183" VPOS="1230" WIDTH="906" HEIGHT="114" WC="0.997546735017196"/>
           </TextLine>
-          <TextLine ID="eSc_line_4c37840d"
-                    BASELINE="2447 1357 3257 1348" 
-                    HPOS="2440"
-                    VPOS="1282"
-                    WIDTH="815"
-                    HEIGHT="101">
+          <TextLine ID="eSc_line_4c37840d" BASELINE="2447 1357 3257 1348" HPOS="2440" VPOS="1282" WIDTH="815" HEIGHT="101">
             <Shape><Polygon POINTS="2490 1292 2440 1292 2445 1353 2445 1383 3034 1383 3049 1383 3099 1378 3099 1383 3255 1383 3255 1343 3240 1282 2495 1287 2490 1292"/></Shape>
-            <String CONTENT="Rouen le 13 Avril 1921"
-                    HPOS="2440"
-                    VPOS="1282"
-                    WIDTH="815"
-                    HEIGHT="101"
-                    ></String>
+            <String CONTENT="Rouen le 13 Avril 1921" HPOS="2440" VPOS="1282" WIDTH="815" HEIGHT="101"/>
           </TextLine>
-          <TextLine ID="eSc_line_60380281"
-                    TAGREFS="LT10974"
-                    BASELINE="2596 1418 2858 1415 3136 1388" 
-                    HPOS="2593"
-                    VPOS="1354"
-                    WIDTH="543"
-                    HEIGHT="101">
+          <TextLine ID="eSc_line_60380281" TAGREFS="LT10974" BASELINE="2596 1418 2858 1415 3136 1388" HPOS="2593" VPOS="1354" WIDTH="543" HEIGHT="101">
             <Shape><Polygon POINTS="3130 1385 3103 1354 2818 1371 2737 1361 2707 1358 2703 1358 2700 1358 2683 1361 2626 1378 2593 1365 2596 1418 2596 1432 2777 1432 2784 1435 2821 1455 2824 1455 2828 1455 2831 1455 2918 1432 2928 1432 3136 1432 3136 1388 3133 1385 3130 1385"/></Shape>
-            <String CONTENT="Le Greffier"
-                    HPOS="2593"
-                    VPOS="1354"
-                    WIDTH="543"
-                    HEIGHT="101"
-                    WC="0.9640860449184071"></String>
+            <String CONTENT="Le Greffier" HPOS="2593" VPOS="1354" WIDTH="543" HEIGHT="101" WC="0.9640860449184071"/>
           </TextLine>
-          <TextLine ID="eSc_line_30772907"
-                    TAGREFS="LT10974"
-                    BASELINE="2599 1589 2865 1546 3059 1489" 
-                    HPOS="2586"
-                    VPOS="1448"
-                    WIDTH="473"
-                    HEIGHT="195">
+          <TextLine ID="eSc_line_30772907" TAGREFS="LT10974" BASELINE="2599 1589 2865 1546 3059 1489" HPOS="2586" VPOS="1448" WIDTH="473" HEIGHT="195">
             <Shape><Polygon POINTS="2599 1589 2613 1643 2727 1593 2774 1596 2797 1596 2801 1596 2804 1596 2807 1596 2807 1593 2821 1583 2834 1566 2851 1572 2875 1583 2878 1583 2881 1583 2885 1583 2888 1583 2888 1579 2915 1552 2945 1566 2948 1566 2952 1566 2955 1566 2958 1566 2958 1562 2992 1529 2999 1522 3059 1509 3059 1489 3042 1448 2818 1469 2814 1469 2586 1539 2599 1589"/></Shape>
-            <String CONTENT="+"
-                    HPOS="2586"
-                    VPOS="1448"
-                    WIDTH="473"
-                    HEIGHT="195"
-                    ></String>
+            <String CONTENT="+" HPOS="2586" VPOS="1448" WIDTH="473" HEIGHT="195"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>
