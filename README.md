@@ -8,6 +8,12 @@ Some transcriptions of minute books from military court councils during the Firs
 
 ## Content 
 
+The project is organized in two different directories, representing two different phases of the project. The data is mostly useful for automatic transcription purposes. It contains a large sample of different (100+) hands.
+
+### Dir `full_pages`
+
+This directory contains samples of pages taken from multiple armies. The pages are fully transcribed.
+
 | Dossier      | Armée      | Pages | Transcription                  |
 |--------------|------------|-------|--------------------------------|
 | 11_J_75(2)   | 4e armée   | 10    | Théo Burnel / Giovanni Vitali |
@@ -21,12 +27,33 @@ Some transcriptions of minute books from military court councils during the Firs
 | 11_J_186(2)  | 10e armée  | 40    | Théo Burnel / Giovanni Vitali |
 | 11_J_187(1)  | 10e armée  | 21    | Théo Burnel / Giovanni Vitali |
 
+
+### Dir `full_pages`
+
+This directory contains pages selected from the whole corpus, based on the needs of the project:
+- treating the glosses-like additions (updates on the soldier)
+- improving the handwritten text recognition
+
+
+#### Dir `additions`
+
+This dir contains around 450 pages with additions. Only the additions are annotated. The rest of the lines are ignored. **This subset should not be used for line-segmentation training**.
+
+#### Dir `random_handwritten_sample`
+
+This dir contains around 600 pages focusing on handwriting. It contains almost only manuscript lines and mixed lines (containing both print and handwritten lines). The typescript lines have been automatically identified and removed. **This subset should not be used for line-segmentation training**.
+
+It has been created in several steps:
+- by taking a random subset of the whole corpus to get the greatest diversity of hands
+- by using a lexicality score for selecting the worst transcribed images based on a first trained model.
+
 ## Annotation and Transcription Guidelines
 
 - Layout zones follow the [Segmonto vocabulary](https://github.com/SegmOnto/Guidelines), with minor adaptations.  
 - Printed and handwritten text are both transcribed line by line, without distinction.  
 - Superscripts are marked with `^` before the text (e.g. `M^e`).  
 - Signatures are represented by a `+`.
+
   
 ## How to Cite
 

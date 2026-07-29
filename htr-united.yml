@@ -4,12 +4,19 @@ authors:
   roles:
   - transcriber
   - digitization
+  surname: Gille Levenson
+- name: Matthias
+  orcid: 0000-0003-2235-0565
+  roles:
+  - transcriber
+  - quality-control
   surname: Burnel
 - name: Giovanni Pietro
-  orcid: 0000-0003-2722-6766
+  orcid: 0000-0001-9488-5986
   roles:
   - project-manager
   surname: Vitali
+  orcid: 0000-0003-2722-6766
 automatically-aligned: false
 characters:
   members:
@@ -140,11 +147,11 @@ transcription-guidelines: >-
   See README (Annotation and Transcription Guidelines section)
 url: https://github.com/Front-Justice/htr-front-justice.git
 volume:
-- count: 933354
+- count: 1726913
   metric: characters
-- count: 1037
+- count: 1287
   metric: files
-- count: 20537
+- count: 32396
   metric: lines
-- count: 3474
+- count: 3491
   metric: regions
