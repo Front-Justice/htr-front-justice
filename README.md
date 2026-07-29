@@ -28,18 +28,18 @@ This directory contains samples of pages taken from multiple armies. The pages a
 | 11_J_187(1)  | 10e armée  | 21    | Théo Burnel / Giovanni Vitali |
 
 
-### Dir `full_pages`
+### Dir `selected_pages`
 
 This directory contains pages selected from the whole corpus, based on the needs of the project:
 - treating the glosses-like additions (updates on the soldier)
 - improving the handwritten text recognition
 
 
-#### Dir `additions`
+#### Dir `selected_pages/additions`
 
 This dir contains around 450 pages with additions. Only the additions are annotated. The rest of the lines are ignored. **This subset should not be used for line-segmentation training**.
 
-#### Dir `random_handwritten_sample`
+#### Dir `selected_pages/random_handwritten_sample`
 
 This dir contains around 600 pages focusing on handwriting. It contains almost only manuscript lines and mixed lines (containing both print and handwritten lines). The typescript lines have been automatically identified and removed. **This subset should not be used for line-segmentation training**.
 
