@@ -1,0 +1,40 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_184_0182_jpg.rf.cea96166d5bcadb595a79157fe5ae57e.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="6458" HEIGHT="9397" PHYSICAL_IMG_NR="229" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="6458" HEIGHT="9397">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_feec11d2" TAGREFS="LT10974" BASELINE="997 8457 1174 8488 2740 8472 3106 8499 4427 8504" HPOS="995" VPOS="8332" WIDTH="3425" HEIGHT="203">
+            <Shape><Polygon POINTS="995 8535 4412 8535 4420 8496 4404 8332 4185 8378 995 8355 995 8449 995 8535"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution" HPOS="995" VPOS="8332" WIDTH="3425" HEIGHT="203"/>
+          </TextLine>
+          <TextLine ID="eSc_line_9ed1fc5f" TAGREFS="LT10974" BASELINE="965 8598 4418 8643" HPOS="956" VPOS="8488" WIDTH="3456" HEIGHT="219">
+            <Shape><Polygon POINTS="963 8590 956 8645 3385 8700 3393 8700 3707 8668 3824 8707 3832 8707 3840 8707 4404 8668 4412 8637 4412 8535 963 8488 963 8590"/></Shape>
+            <String CONTENT="le cinq févier mil neuf cent quinze pour compter du" HPOS="956" VPOS="8488" WIDTH="3456" HEIGHT="219"/>
+          </TextLine>
+          <TextLine ID="eSc_line_ad4128a2" TAGREFS="LT10974" BASELINE="965 8723 1654 8718 3051 8738 4346 8795" HPOS="956" VPOS="8598" WIDTH="3385" HEIGHT="297">
+            <Shape><Polygon POINTS="963 8715 956 8809 1457 8778 1614 8833 1622 8833 2797 8864 2805 8864 3087 8817 3323 8817 3385 8872 3385 8880 3393 8880 3401 8880 3409 8880 3636 8833 3699 8880 3699 8887 3707 8887 3714 8887 3722 8887 4020 8841 4326 8895 4341 8794 4334 8676 963 8598 963 8715"/></Shape>
+            <String CONTENT="trente-et-un janvier mil neuf cent quinze" HPOS="956" VPOS="8598" WIDTH="3385" HEIGHT="297"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b836db1f" TAGREFS="LT10974" BASELINE="2412 8939 3247 8927" HPOS="2398" VPOS="8801" WIDTH="846" HEIGHT="235">
+            <Shape><Polygon POINTS="2406 8934 2406 8997 3087 9036 3095 9036 3103 9036 3244 8966 3244 8919 3229 8809 2398 8801 2406 8934"/></Shape>
+            <String CONTENT="Le Greffier" HPOS="2398" VPOS="8801" WIDTH="846" HEIGHT="235"/>
+          </TextLine>
+          <TextLine ID="eSc_line_e8b6122d" TAGREFS="LT10974" BASELINE="2411 9092 2725 9115 3251 9059" HPOS="2398" VPOS="8927" WIDTH="846" HEIGHT="462">
+            <Shape><Polygon POINTS="3197 8927 3087 8981 2398 8981 2406 9091 2413 9357 2656 9326 2735 9389 2743 9389 2750 9389 2805 9389 2884 9389 2891 9389 3244 9310 3244 9052 3213 8927 3197 8927"/></Shape>
+            <String CONTENT="+" HPOS="2398" VPOS="8927" WIDTH="846" HEIGHT="462" WC="0.9999831914901733"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

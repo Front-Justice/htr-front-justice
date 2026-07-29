@@ -1,0 +1,32 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_137_0143_jpg.rf.47acb5f3acd8f5263eefd25ab4b26928.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3779" HEIGHT="6102" PHYSICAL_IMG_NR="218" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3779" HEIGHT="6102">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_5c5b2a77" BASELINE="249 1462 427 1161" HPOS="183" VPOS="1118" WIDTH="279" HEIGHT="392">
+            <Shape><Polygon POINTS="228 1332 208 1378 183 1418 244 1459 335 1510 432 1383 432 1378 432 1372 432 1367 427 1286 422 1250 462 1184 422 1159 356 1118 239 1306 228 1332"/></Shape>
+            <String CONTENT="Le Greffier" HPOS="183" VPOS="1118" WIDTH="279" HEIGHT="392"/>
+          </TextLine>
+          <TextLine ID="eSc_line_41c3a174" BASELINE="278 1651 811 873" HPOS="198" VPOS="828" WIDTH="681" HEIGHT="880">
+            <Shape><Polygon POINTS="411 1184 401 1194 401 1200 386 1322 386 1352 198 1591 274 1647 366 1708 493 1642 498 1642 498 1637 503 1637 625 1459 625 1454 706 1286 706 1281 706 1276 701 1225 778 1154 783 1154 783 1149 783 1144 783 1139 778 1072 778 1067 879 920 808 869 732 828 732 839 717 844 671 854 666 854 661 854 661 859 656 859 656 864 656 869 656 874 661 925 661 940 645 950 595 976 589 976 589 981 584 981 584 986 549 1062 478 1093 473 1093 473 1098 467 1098 406 1179 411 1184"/></Shape>
+            <String CONTENT="+" HPOS="198" VPOS="828" WIDTH="681" HEIGHT="880" WC="0.999996542930603"/>
+          </TextLine>
+          <TextLine ID="eSc_line_43772a8f" BASELINE="46 1699 302 1190" HPOS="0" VPOS="1169" WIDTH="330" HEIGHT="549">
+            <Shape><Polygon POINTS="254 1174 228 1220 208 1266 183 1311 157 1352 132 1398 106 1444 86 1489 61 1530 35 1576 20 1591 0 1627 0 1672 45 1698 101 1718 330 1205 300 1189 259 1169 254 1174"/></Shape>
+            <String CONTENT="restant de sa peine" HPOS="0" VPOS="1169" WIDTH="330" HEIGHT="549"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

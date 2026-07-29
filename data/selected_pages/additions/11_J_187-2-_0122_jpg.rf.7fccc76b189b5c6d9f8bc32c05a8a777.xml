@@ -1,0 +1,40 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-2-_0122_jpg.rf.7fccc76b189b5c6d9f8bc32c05a8a777.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3723" HEIGHT="6037" PHYSICAL_IMG_NR="328" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3723" HEIGHT="6037">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_a92fe954" BASELINE="408 3968 364 2880" HPOS="261" VPOS="2872" WIDTH="201" HEIGHT="1092">
+            <Shape><Polygon POINTS="362 2877 261 2882 296 3003 286 3476 286 3481 327 3964 407 3964 462 3954 427 3717 417 2872 362 2877"/></Shape>
+            <String CONTENT="L'OFFICIER D'ADMINISTRATION BOUDOT GREFFIER DU CONSEIL" HPOS="261" VPOS="2872" WIDTH="201" HEIGHT="1092"/>
+          </TextLine>
+          <TextLine ID="eSc_line_41adb59a" BASELINE="579 4780 514 3973" HPOS="392" VPOS="3964" WIDTH="297" HEIGHT="815">
+            <Shape><Polygon POINTS="513 3969 427 3974 392 4150 392 4155 402 4261 402 4266 402 4271 472 4351 477 4537 442 4648 442 4653 442 4658 442 4663 498 4779 578 4779 689 4754 654 4693 654 4235 649 4230 649 4225 649 4220 643 4220 588 4165 598 4049 598 4044 598 4039 563 3964 513 3969"/></Shape>
+            <String CONTENT="+" HPOS="392" VPOS="3964" WIDTH="297" HEIGHT="815" WC="0.8349355459213257"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b8aa6e8c" BASELINE="404 4962 358 4191" HPOS="261" VPOS="4185" WIDTH="206" HEIGHT="775">
+            <Shape><Polygon POINTS="357 4190 261 4190 306 4452 306 4960 402 4960 432 4955 467 4789 467 4784 427 4598 437 4371 437 4366 437 4361 387 4185 357 4190"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur" HPOS="261" VPOS="4185" WIDTH="206" HEIGHT="775"/>
+          </TextLine>
+          <TextLine ID="eSc_line_1d818a54" BASELINE="106 4999 119 3208 101 3146 112 2548" HPOS="10" VPOS="2540" WIDTH="176" HEIGHT="2455">
+            <Shape><Polygon POINTS="110 2545 20 2540 40 3254 15 3310 15 3315 15 3320 35 4085 10 4985 105 4995 140 4990 181 4095 181 4090 181 4085 160 4039 186 2842 186 2837 186 2832 160 2756 186 2686 186 2681 186 2676 155 2545 110 2545"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution le vingt trois août 1919" HPOS="10" VPOS="2540" WIDTH="176" HEIGHT="2455"/>
+          </TextLine>
+          <TextLine ID="eSc_line_53046c65" BASELINE="226 5017 244 4027 236 3240" HPOS="160" VPOS="3234" WIDTH="146" HEIGHT="1781">
+            <Shape><Polygon POINTS="160 3234 160 5005 221 5015 286 5010 261 4744 286 4578 286 4573 266 4145 296 4105 296 4100 296 4095 296 4090 271 3617 301 3521 301 3516 306 3516 306 3355 301 3350 301 3345 301 3340 271 3310 291 3244 231 3239 160 3234"/></Shape>
+            <String CONTENT="pour compter du dix neuf Juillet 1919" HPOS="160" VPOS="3234" WIDTH="146" HEIGHT="1781"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

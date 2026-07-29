@@ -1,0 +1,36 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_75-2-_0132_jpg.rf.70204eb288f1333b28753e25b5d51f18.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3804" HEIGHT="6029" PHYSICAL_IMG_NR="128" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3804" HEIGHT="6029">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_2850f607" BASELINE="2901 2966 3634 2956" HPOS="2894" VPOS="2803" WIDTH="739" HEIGHT="231">
+            <Shape><Polygon POINTS="2899 2964 2899 3014 3582 3034 3587 3034 3592 3034 3597 3034 3633 3004 3633 2954 3623 2828 2894 2803 2899 2964"/></Shape>
+            <String CONTENT="Lemaire, sergent réserviste" HPOS="2894" VPOS="2803" WIDTH="739" HEIGHT="231"/>
+          </TextLine>
+          <TextLine ID="eSc_line_aed7ceaf" BASELINE="2918 3080 3438 3065" HPOS="2909" VPOS="2994" WIDTH="528" HEIGHT="126">
+            <Shape><Polygon POINTS="2914 3079 2914 3120 3437 3114 3437 3064 3427 2999 2909 2994 2914 3079"/></Shape>
+            <String CONTENT="Commis Greffier" HPOS="2909" VPOS="2994" WIDTH="528" HEIGHT="126"/>
+          </TextLine>
+          <TextLine ID="eSc_line_adfa8452" BASELINE="3046 3143 3436 3143" HPOS="3045" VPOS="3084" WIDTH="387" HEIGHT="121">
+            <Shape><Polygon POINTS="3045 3140 3045 3205 3145 3205 3195 3200 3246 3195 3296 3190 3346 3185 3396 3180 3432 3180 3432 3140 3432 3084 3045 3084 3045 3140"/></Shape>
+            <String CONTENT="Le Commis Greffier" HPOS="3045" VPOS="3084" WIDTH="387" HEIGHT="121"/>
+          </TextLine>
+          <TextLine ID="eSc_line_585923cf" BASELINE="3112 3218 3445 3189" HPOS="3100" VPOS="3114" WIDTH="342" HEIGHT="151">
+            <Shape><Polygon POINTS="3401 3145 3351 3145 3301 3145 3251 3145 3200 3145 3180 3145 3100 3150 3110 3215 3110 3255 3316 3265 3321 3265 3326 3265 3442 3215 3442 3185 3427 3114 3407 3114 3401 3145"/></Shape>
+            <String CONTENT="+" HPOS="3100" VPOS="3114" WIDTH="342" HEIGHT="151"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

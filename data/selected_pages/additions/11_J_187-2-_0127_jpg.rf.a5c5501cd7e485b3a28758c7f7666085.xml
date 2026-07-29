@@ -1,0 +1,40 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-2-_0127_jpg.rf.a5c5501cd7e485b3a28758c7f7666085.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3779" HEIGHT="6037" PHYSICAL_IMG_NR="331" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3779" HEIGHT="6037">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_6e9ce6c8" BASELINE="2391 1156 3092 1174 3155 1167 3643 1164" HPOS="2385" VPOS="1086" WIDTH="1253" HEIGHT="141">
+            <Shape><Polygon POINTS="2390 1152 2385 1187 2817 1217 2822 1217 3160 1197 3225 1222 3230 1222 3235 1222 3361 1197 3507 1227 3512 1227 3633 1197 3638 1162 3633 1091 2390 1086 2390 1152"/></Shape>
+            <String CONTENT="Par Décret en date du 10 9^bre 1920" HPOS="2385" VPOS="1086" WIDTH="1253" HEIGHT="141"/>
+          </TextLine>
+          <TextLine ID="eSc_line_c42a2ac0" BASELINE="2317 1226 3096 1241" HPOS="2309" VPOS="1147" WIDTH="785" HEIGHT="125">
+            <Shape><Polygon POINTS="3069 1172 3019 1172 2968 1172 2918 1172 2868 1167 2817 1167 2767 1167 2717 1162 2666 1162 2616 1162 2566 1162 2515 1157 2465 1157 2415 1157 2410 1147 2314 1147 2314 1222 2309 1252 3084 1272 3094 1237 3094 1172 3069 1172"/></Shape>
+            <String CONTENT="le condamné Jeantet" HPOS="2309" VPOS="1147" WIDTH="785" HEIGHT="125"/>
+          </TextLine>
+          <TextLine ID="eSc_line_cc98d7f4" BASELINE="2302 1292 3694 1308" HPOS="2294" VPOS="1212" WIDTH="1399" HEIGHT="166">
+            <Shape><Polygon POINTS="3054 1237 3004 1237 2953 1237 2903 1237 2853 1237 2802 1232 2752 1232 2702 1232 2651 1232 2601 1232 2551 1227 2500 1227 2450 1227 2400 1227 2349 1227 2344 1212 2299 1212 2299 1287 2294 1358 2838 1343 2938 1378 2948 1378 2999 1378 3024 1378 3220 1363 3275 1373 3300 1373 3351 1373 3401 1368 3416 1368 3461 1348 3688 1348 3693 1302 3693 1242 3059 1227 3054 1237"/></Shape>
+            <String CONTENT="a obtenu remise de peine de un an" HPOS="2294" VPOS="1212" WIDTH="1399" HEIGHT="166"/>
+          </TextLine>
+          <TextLine ID="eSc_line_29699353" BASELINE="2457 1403 2937 1392 3587 1378" HPOS="2450" VPOS="1308" WIDTH="1132" HEIGHT="150">
+            <Shape><Polygon POINTS="2455 1398 2455 1428 2868 1458 2873 1458 2958 1453 2958 1453 3009 1453 3059 1453 3094 1453 3099 1453 3104 1453 3150 1413 3371 1413 3421 1443 3426 1443 3431 1443 3436 1443 3582 1413 3582 1373 3567 1308 2450 1323 2455 1398"/></Shape>
+            <String CONTENT="LE MANS, le 20 DEC 1920" HPOS="2450" VPOS="1308" WIDTH="1132" HEIGHT="150"/>
+          </TextLine>
+          <TextLine ID="eSc_line_7131c4e8" BASELINE="3008 1473 3418 1466" HPOS="2999" VPOS="1403" WIDTH="417" HEIGHT="146">
+            <Shape><Polygon POINTS="3004 1469 3004 1519 3341 1549 3346 1549 3351 1549 3416 1514 3416 1463 3406 1403 2999 1403 3004 1469"/></Shape>
+            <String CONTENT="Le Greffier" HPOS="2999" VPOS="1403" WIDTH="417" HEIGHT="146"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
