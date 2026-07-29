@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,56 +10,20 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3755"
-          HEIGHT="6062"
-          PHYSICAL_IMG_NR="0"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3755"
-                  HEIGHT="6062">
+    <Page WIDTH="3755" HEIGHT="6062" PHYSICAL_IMG_NR="0" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3755" HEIGHT="6062">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_3704a3bb"
-                    BASELINE="2516 4483 2997 4051" 
-                    HPOS="2456"
-                    VPOS="3980"
-                    WIDTH="591"
-                    HEIGHT="556">
+          <TextLine ID="eSc_line_3704a3bb" BASELINE="2516 4483 2997 4051" HPOS="2456" VPOS="3980" WIDTH="591" HEIGHT="556">
             <Shape><Polygon POINTS="2562 4536 2931 4167 3047 4112 2996 4046 2931 3980 2718 4187 2693 4202 2612 4243 2607 4243 2607 4248 2602 4248 2602 4253 2602 4258 2597 4293 2592 4293 2552 4309 2547 4309 2547 4314 2542 4314 2456 4420 2511 4480"/></Shape>
-            <String CONTENT="amnistié loi"
-                    HPOS="2456"
-                    VPOS="3980"
-                    WIDTH="591"
-                    HEIGHT="556"
-                    ></String>
+            <String CONTENT="amnistié loi" HPOS="2456" VPOS="3980" WIDTH="591" HEIGHT="556"/>
           </TextLine>
-          <TextLine ID="eSc_line_012d7747"
-                    BASELINE="2607 4560 3058 4154" 
-                    HPOS="2547"
-                    VPOS="4091"
-                    WIDTH="551"
-                    HEIGHT="521">
+          <TextLine ID="eSc_line_012d7747" BASELINE="2607 4560 3058 4154" HPOS="2547" VPOS="4091" WIDTH="551" HEIGHT="521">
             <Shape><Polygon POINTS="2602 4556 2653 4612 2729 4501 2784 4485 2799 4480 2804 4480 2804 4475 2809 4475 2809 4470 2814 4460 2830 4415 2865 4415 2875 4410 2880 4410 2885 4410 2885 4405 2890 4405 2905 4374 2946 4309 3098 4197 3057 4152 3001 4091 2926 4127 2921 4127 2921 4132 2547 4490 2602 4556"/></Shape>
-            <String CONTENT="du 24-10-19"
-                    HPOS="2547"
-                    VPOS="4091"
-                    WIDTH="551"
-                    HEIGHT="521"
-                    WC="0.9781304055994208"></String>
+            <String CONTENT="du 24-10-19" HPOS="2547" VPOS="4091" WIDTH="551" HEIGHT="521" WC="0.9781304055994208"/>
           </TextLine>
-          <TextLine ID="eSc_line_e10123e2"
-                    BASELINE="2717 4604 2975 4393" 
-                    HPOS="2663"
-                    VPOS="4314"
-                    WIDTH="369"
-                    HEIGHT="343">
+          <TextLine ID="eSc_line_e10123e2" BASELINE="2717 4604 2975 4393" HPOS="2663" VPOS="4314" WIDTH="369" HEIGHT="343">
             <Shape><Polygon POINTS="2713 4602 2759 4657 3032 4470 2971 4389 2905 4314 2663 4536 2713 4602"/></Shape>
-            <String CONTENT="art.5."
-                    HPOS="2663"
-                    VPOS="4314"
-                    WIDTH="369"
-                    HEIGHT="343"
-                    WC="0.9669016599655151"></String>
+            <String CONTENT="art.5." HPOS="2663" VPOS="4314" WIDTH="369" HEIGHT="343" WC="0.9669016599655151"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

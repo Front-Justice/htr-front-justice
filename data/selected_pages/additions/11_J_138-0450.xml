@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -14,70 +11,24 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3748"
-          HEIGHT="6305"
-          PHYSICAL_IMG_NR="18"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3748"
-                  HEIGHT="6305">
+    <Page WIDTH="3748" HEIGHT="6305" PHYSICAL_IMG_NR="18" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3748" HEIGHT="6305">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_5ab3c72f"
-                    BASELINE="56 5646 1038 5686 1882 5714" 
-                    HPOS="47.0"
-                    VPOS="5564.0"
-                    WIDTH="1834.0"
-                    HEIGHT="173.0">
+          <TextLine ID="eSc_line_5ab3c72f" BASELINE="56 5646 1038 5686 1882 5714" HPOS="47.0" VPOS="5564.0" WIDTH="1834.0" HEIGHT="173.0">
             <Shape><Polygon POINTS="52 5642 47 5690 1871 5737 1881 5711 1876 5637 52 5564 52 5642"/></Shape>
-            <String CONTENT="Exécution du Jugement suspendue, en application de l&#x27;article 150 du"
-                    HPOS="47.0"
-                    VPOS="5564.0"
-                    WIDTH="1834.0"
-                    HEIGHT="173.0"
-                    WC="0.987249402438893"></String>
+            <String CONTENT="Exécution du Jugement suspendue, en application de l'article 150 du" HPOS="47.0" VPOS="5564.0" WIDTH="1834.0" HEIGHT="173.0" WC="0.987249402438893"/>
           </TextLine>
-          <TextLine ID="eSc_line_f65477da"
-                    BASELINE="56 5735 764 5727 1870 5779" 
-                    HPOS="47.0"
-                    VPOS="5648.0"
-                    WIDTH="1819.0"
-                    HEIGHT="173.0">
+          <TextLine ID="eSc_line_f65477da" BASELINE="56 5735 764 5727 1870 5779" HPOS="47.0" VPOS="5648.0" WIDTH="1819.0" HEIGHT="173.0">
             <Shape><Polygon POINTS="1839 5711 1734 5711 1682 5706 1576 5706 1524 5700 1419 5700 1366 5695 1209 5695 1156 5690 1051 5690 788 5674 683 5674 630 5669 578 5669 525 5663 420 5663 367 5658 315 5658 273 5653 210 5653 199 5648 52 5648 52 5732 47 5753 278 5784 289 5784 388 5753 783 5758 967 5805 1440 5784 1492 5821 1508 5821 1860 5795 1866 5774 1860 5711 1839 5711"/></Shape>
-            <String CONTENT="Code de Justice Militaire. Trente sept jours de détention préventive"
-                    HPOS="47.0"
-                    VPOS="5648.0"
-                    WIDTH="1819.0"
-                    HEIGHT="173.0"
-                    ></String>
+            <String CONTENT="Code de Justice Militaire. Trente sept jours de détention préventive" HPOS="47.0" VPOS="5648.0" WIDTH="1819.0" HEIGHT="173.0"/>
           </TextLine>
-          <TextLine ID="eSc_line_4848e652"
-                    BASELINE="1130 5851 1564 5855" 
-                    HPOS="1119.0"
-                    VPOS="5753.0"
-                    WIDTH="442.0"
-                    HEIGHT="147.0">
+          <TextLine ID="eSc_line_4848e652" BASELINE="1130 5851 1564 5855" HPOS="1119.0" VPOS="5753.0" WIDTH="442.0" HEIGHT="147.0">
             <Shape><Polygon POINTS="1545 5763 1540 5758 1124 5753 1124 5847 1119 5900 1555 5868 1561 5853 1555 5763 1545 5763"/></Shape>
-            <String CONTENT="Le greffier"
-                    HPOS="1119.0"
-                    VPOS="5753.0"
-                    WIDTH="442.0"
-                    HEIGHT="147.0"
-                    ></String>
+            <String CONTENT="Le greffier" HPOS="1119.0" VPOS="5753.0" WIDTH="442.0" HEIGHT="147.0"/>
           </TextLine>
-          <TextLine ID="eSc_line_47d604a7"
-                    BASELINE="1029 6016 1685 5871" 
-                    HPOS="1004.0"
-                    VPOS="5795.0"
-                    WIDTH="678.0"
-                    HEIGHT="263.0">
+          <TextLine ID="eSc_line_47d604a7" BASELINE="1029 6016 1685 5871" HPOS="1004.0" VPOS="5795.0" WIDTH="678.0" HEIGHT="263.0">
             <Shape><Polygon POINTS="1529 5853 1471 5853 1419 5853 1366 5853 1356 5853 1004 5916 1025 6010 1030 6058 1435 6000 1440 6000 1598 5926 1682 5931 1682 5868 1661 5795 1540 5816 1529 5853"/></Shape>
-            <String CONTENT="+"
-                    HPOS="1004.0"
-                    VPOS="5795.0"
-                    WIDTH="678.0"
-                    HEIGHT="263.0"
-                    WC="0.9999997615814209"></String>
+            <String CONTENT="+" HPOS="1004.0" VPOS="5795.0" WIDTH="678.0" HEIGHT="263.0" WC="0.9999997615814209"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

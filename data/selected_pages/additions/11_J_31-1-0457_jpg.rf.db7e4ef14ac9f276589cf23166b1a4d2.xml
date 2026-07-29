@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,84 +10,28 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3641"
-          HEIGHT="5973"
-          PHYSICAL_IMG_NR="31"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3641"
-                  HEIGHT="5973">
+    <Page WIDTH="3641" HEIGHT="5973" PHYSICAL_IMG_NR="31" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3641" HEIGHT="5973">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_3abeb70f"
-                    BASELINE="2332 1169 3554 1123" 
-                    HPOS="2326"
-                    VPOS="1020"
-                    WIDTH="1225"
-                    HEIGHT="184">
+          <TextLine ID="eSc_line_3abeb70f" BASELINE="2332 1169 3554 1123" HPOS="2326" VPOS="1020" WIDTH="1225" HEIGHT="184">
             <Shape><Polygon POINTS="2331 1164 2331 1204 3551 1169 3551 1119 3536 1020 2704 1080 2619 1075 2440 1060 2435 1060 2430 1060 2326 1090 2331 1164"/></Shape>
-            <String CONTENT="Remise du restant de ses peine"
-                    HPOS="2326"
-                    VPOS="1020"
-                    WIDTH="1225"
-                    HEIGHT="184"
-                    ></String>
+            <String CONTENT="Remise du restant de ses peine" HPOS="2326" VPOS="1020" WIDTH="1225" HEIGHT="184"/>
           </TextLine>
-          <TextLine ID="eSc_line_f561f07c"
-                    BASELINE="2305 1283 3581 1205" 
-                    HPOS="2291"
-                    VPOS="1139"
-                    WIDTH="1285"
-                    HEIGHT="194">
+          <TextLine ID="eSc_line_f561f07c" BASELINE="2305 1283 3581 1205" HPOS="2291" VPOS="1139" WIDTH="1285" HEIGHT="194">
             <Shape><Polygon POINTS="2301 1279 2301 1333 2455 1328 2460 1328 2465 1328 2465 1324 2500 1289 2714 1304 2769 1304 2774 1304 2844 1289 2988 1259 3073 1269 3207 1284 3212 1284 3217 1284 3222 1284 3222 1279 3227 1279 3242 1254 3372 1274 3377 1274 3381 1274 3576 1219 3576 1204 3561 1139 2291 1194 2301 1279"/></Shape>
-            <String CONTENT="par décret du 1^ décembre 1920"
-                    HPOS="2291"
-                    VPOS="1139"
-                    WIDTH="1285"
-                    HEIGHT="194"
-                    ></String>
+            <String CONTENT="par décret du 1^ décembre 1920" HPOS="2291" VPOS="1139" WIDTH="1285" HEIGHT="194"/>
           </TextLine>
-          <TextLine ID="eSc_line_3fc280f5"
-                    BASELINE="2479 1338 3540 1288" 
-                    HPOS="2470"
-                    VPOS="1224"
-                    WIDTH="1066"
-                    HEIGHT="134">
+          <TextLine ID="eSc_line_3fc280f5" BASELINE="2479 1338 3540 1288" HPOS="2470" VPOS="1224" WIDTH="1066" HEIGHT="134">
             <Shape><Polygon POINTS="2475 1333 2475 1358 3536 1333 3536 1284 3521 1224 2470 1269 2475 1333"/></Shape>
-            <String CONTENT="Rouen le 18 décembre 1920"
-                    HPOS="2470"
-                    VPOS="1224"
-                    WIDTH="1066"
-                    HEIGHT="134"
-                    ></String>
+            <String CONTENT="Rouen le 18 décembre 1920" HPOS="2470" VPOS="1224" WIDTH="1066" HEIGHT="134"/>
           </TextLine>
-          <TextLine ID="eSc_line_30b743b1"
-                    BASELINE="2598 1411 3105 1370" 
-                    HPOS="2585"
-                    VPOS="1309"
-                    WIDTH="518"
-                    HEIGHT="139">
+          <TextLine ID="eSc_line_30b743b1" BASELINE="2598 1411 3105 1370" HPOS="2585" VPOS="1309" WIDTH="518" HEIGHT="139">
             <Shape><Polygon POINTS="3083 1309 3033 1309 2983 1314 2933 1314 2883 1319 2834 1319 2784 1324 2769 1324 2585 1333 2595 1408 2595 1433 2903 1448 2908 1448 2913 1448 3103 1388 3103 1368 3088 1309 3083 1309"/></Shape>
-            <String CONTENT="Le Greffier"
-                    HPOS="2585"
-                    VPOS="1309"
-                    WIDTH="518"
-                    HEIGHT="139"
-                    WC="0.9557969461787831"></String>
+            <String CONTENT="Le Greffier" HPOS="2585" VPOS="1309" WIDTH="518" HEIGHT="139" WC="0.9557969461787831"/>
           </TextLine>
-          <TextLine ID="eSc_line_f8e72e6a"
-                    BASELINE="2584 1658 3119 1493" 
-                    HPOS="2555"
-                    VPOS="1408"
-                    WIDTH="587"
-                    HEIGHT="363">
+          <TextLine ID="eSc_line_f8e72e6a" BASELINE="2584 1658 3119 1493" HPOS="2555" VPOS="1408" WIDTH="587" HEIGHT="363">
             <Shape><Polygon POINTS="2580 1657 2614 1771 2744 1737 2749 1737 2749 1732 2754 1732 2764 1717 2829 1637 2938 1607 2983 1632 3018 1647 3023 1647 3028 1647 3033 1647 3038 1647 3142 1567 3118 1488 3088 1408 2953 1463 2933 1458 2824 1438 2819 1438 2814 1438 2719 1468 2714 1468 2714 1473 2709 1473 2664 1548 2659 1557 2555 1582 2580 1657"/></Shape>
-            <String CONTENT="+"
-                    HPOS="2555"
-                    VPOS="1408"
-                    WIDTH="587"
-                    HEIGHT="363"
-                    ></String>
+            <String CONTENT="+" HPOS="2555" VPOS="1408" WIDTH="587" HEIGHT="363"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>
