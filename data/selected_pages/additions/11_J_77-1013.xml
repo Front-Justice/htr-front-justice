@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -14,56 +11,20 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="2444"
-          HEIGHT="3285"
-          PHYSICAL_IMG_NR="43"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="2444"
-                  HEIGHT="3285">
+    <Page WIDTH="2444" HEIGHT="3285" PHYSICAL_IMG_NR="43" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2444" HEIGHT="3285">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_a689712b"
-                    BASELINE="130 1231 710 851" 
-                    HPOS="95.0"
-                    VPOS="799.0"
-                    WIDTH="625.0"
-                    HEIGHT="446.0">
+          <TextLine ID="eSc_line_a689712b" BASELINE="130 1231 710 851" HPOS="95.0" VPOS="799.0" WIDTH="625.0" HEIGHT="446.0">
             <Shape><Polygon POINTS="128 1229 139 1245 389 1125 389 1122 482 1040 512 1042 528 1010 616 974 652 914 720 867 676 799 569 826 561 848 534 848 534 851 531 851 517 897 484 903 443 952 205 1059 150 1147 95 1177 128 1229"/></Shape>
-            <String CONTENT="Le 2^e février 40"
-                    HPOS="95.0"
-                    VPOS="799.0"
-                    WIDTH="625.0"
-                    HEIGHT="446.0"
-                    ></String>
+            <String CONTENT="Le 2^e février 40" HPOS="95.0" VPOS="799.0" WIDTH="625.0" HEIGHT="446.0"/>
           </TextLine>
-          <TextLine ID="eSc_line_86ca5c71"
-                    BASELINE="157 1330 798 894" 
-                    HPOS="123.0"
-                    VPOS="848.0"
-                    WIDTH="685.0"
-                    HEIGHT="496.0">
+          <TextLine ID="eSc_line_86ca5c71" BASELINE="157 1330 798 894" HPOS="123.0" VPOS="848.0" WIDTH="685.0" HEIGHT="496.0">
             <Shape><Polygon POINTS="156 1327 167 1344 249 1316 252 1316 386 1196 446 1182 449 1182 452 1182 452 1179 550 1084 611 1070 613 1070 616 1070 698 1015 698 1012 808 908 797 892 764 848 123 1278 156 1327"/></Shape>
-            <String CONTENT="adressé état des frais"
-                    HPOS="123.0"
-                    VPOS="848.0"
-                    WIDTH="685.0"
-                    HEIGHT="496.0"
-                    WC="0.984093464910984"></String>
+            <String CONTENT="adressé état des frais" HPOS="123.0" VPOS="848.0" WIDTH="685.0" HEIGHT="496.0" WC="0.984093464910984"/>
           </TextLine>
-          <TextLine ID="eSc_line_bf01d5a5"
-                    BASELINE="231 1425 550 1191" 
-                    HPOS="197.0"
-                    VPOS="1144.0"
-                    WIDTH="359.0"
-                    HEIGHT="306.0">
+          <TextLine ID="eSc_line_bf01d5a5" BASELINE="231 1425 550 1191" HPOS="197.0" VPOS="1144.0" WIDTH="359.0" HEIGHT="306.0">
             <Shape><Polygon POINTS="249 1450 304 1426 306 1426 306 1423 309 1423 309 1420 309 1418 320 1382 353 1385 356 1385 358 1385 361 1385 413 1349 413 1346 416 1346 416 1344 416 1341 421 1319 556 1204 547 1190 512 1144 476 1171 397 1182 394 1182 391 1182 391 1185 197 1376 230 1423 249 1450"/></Shape>
-            <String CONTENT="137^.80"
-                    HPOS="197.0"
-                    VPOS="1144.0"
-                    WIDTH="359.0"
-                    HEIGHT="306.0"
-                    WC="0.9626655238015311"></String>
+            <String CONTENT="137^.80" HPOS="197.0" VPOS="1144.0" WIDTH="359.0" HEIGHT="306.0" WC="0.9626655238015311"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

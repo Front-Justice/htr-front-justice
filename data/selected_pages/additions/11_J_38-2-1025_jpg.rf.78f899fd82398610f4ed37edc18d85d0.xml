@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,59 +10,20 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3682"
-          HEIGHT="5973"
-          PHYSICAL_IMG_NR="65"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3682"
-                  HEIGHT="5973">
+    <Page WIDTH="3682" HEIGHT="5973" PHYSICAL_IMG_NR="65" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3682" HEIGHT="5973">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_88b7dc10"
-                    TAGREFS="LT10974"
-                    BASELINE="469 1325 999 862 1092 819 1178 739 1447 580" 
-                    HPOS="413"
-                    VPOS="487"
-                    WIDTH="1051"
-                    HEIGHT="881">
+          <TextLine ID="eSc_line_88b7dc10" TAGREFS="LT10974" BASELINE="469 1325 999 862 1092 819 1178 739 1447 580" HPOS="413" VPOS="487" WIDTH="1051" HEIGHT="881">
             <Shape><Polygon POINTS="468 1324 508 1368 727 1159 802 1134 822 1129 827 1129 827 1124 861 1090 956 990 1011 970 1036 960 1041 960 1041 955 1046 955 1071 925 1195 776 1265 766 1270 766 1275 766 1464 612 1444 577 1370 487 1096 671 1096 676 1091 676 1091 681 1091 686 1086 716 931 791 926 791 926 796 921 796 921 801 921 806 921 811 921 841 572 1080 572 1085 413 1259 468 1324"/></Shape>
-            <String CONTENT="30 avril 1919 par décret"
-                    HPOS="413"
-                    VPOS="487"
-                    WIDTH="1051"
-                    HEIGHT="881"
-                    ></String>
+            <String CONTENT="30 avril 1919 par décret" HPOS="413" VPOS="487" WIDTH="1051" HEIGHT="881"/>
           </TextLine>
-          <TextLine ID="eSc_line_0353dfe5"
-                    TAGREFS="LT10974"
-                    BASELINE="256 1042 488 895 670 759 969 570 1152 477" 
-                    HPOS="199"
-                    VPOS="388"
-                    WIDTH="971"
-                    HEIGHT="702">
+          <TextLine ID="eSc_line_0353dfe5" TAGREFS="LT10974" BASELINE="256 1042 488 895 670 759 969 570 1152 477" HPOS="199" VPOS="388" WIDTH="971" HEIGHT="702">
             <Shape><Polygon POINTS="254 1040 283 1090 503 980 508 980 508 975 513 975 513 970 528 935 538 910 592 895 622 885 627 885 627 881 632 881 632 876 637 866 652 816 1170 517 1150 472 1096 388 981 442 976 442 976 447 971 447 941 487 926 512 911 512 871 512 866 512 861 512 856 512 856 517 851 517 851 522 827 562 817 587 657 666 333 846 328 846 199 950 254 1040"/></Shape>
-            <String CONTENT="Remise du restant de"
-                    HPOS="199"
-                    VPOS="388"
-                    WIDTH="971"
-                    HEIGHT="702"
-                    ></String>
+            <String CONTENT="Remise du restant de" HPOS="199" VPOS="388" WIDTH="971" HEIGHT="702"/>
           </TextLine>
-          <TextLine ID="eSc_line_71d5bfb7"
-                    TAGREFS="LT10974"
-                    BASELINE="456 1060 770 849 1208 567" 
-                    HPOS="393"
-                    VPOS="497"
-                    WIDTH="827"
-                    HEIGHT="593">
+          <TextLine ID="eSc_line_71d5bfb7" TAGREFS="LT10974" BASELINE="456 1060 770 849 1208 567" HPOS="393" VPOS="497" WIDTH="827" HEIGHT="593">
             <Shape><Polygon POINTS="453 1055 478 1090 956 756 971 751 1071 721 1076 721 1076 716 1081 716 1081 711 1096 671 1175 652 1180 652 1185 652 1185 647 1190 647 1190 642 1220 582 1205 562 1155 497 393 965 453 1055"/></Shape>
-            <String CONTENT="la peine, en date du"
-                    HPOS="393"
-                    VPOS="497"
-                    WIDTH="827"
-                    HEIGHT="593"
-                    ></String>
+            <String CONTENT="la peine, en date du" HPOS="393" VPOS="497" WIDTH="827" HEIGHT="593"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>
