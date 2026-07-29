@@ -1,21 +1,21 @@
 authors:
 - name: Théo
-  surname: Burnel
   orcid: 0000-0003-2235-0565
   roles:
   - transcriber
   - digitization
+  surname: Burnel
 - name: Matthias
-  surname: Gille Levenson
   orcid: 0000-0001-9488-5986
   roles:
   - transcriber
   - quality-control
+  surname: Gille Levenson
 - name: Giovanni Pietro
-  surname: Vitali
   orcid: 0000-0003-2722-6766
   roles:
   - project-manager
+  surname: Vitali
 automatically-aligned: false
 characters:
   members:
@@ -152,9 +152,9 @@ url: https://github.com/Front-Justice/htr-front-justice.git
 volume:
 - count: 1726913
   metric: characters
-- count: 1287
+- count: 1286
   metric: files
-- count: 32396
+- count: 32352
   metric: lines
-- count: 3491
+- count: 3488
   metric: regions
