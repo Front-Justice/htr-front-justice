@@ -1,0 +1,40 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_76_0822_jpg.rf.4d20fccaeff009fe8d164e933cb445d7.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3569" HEIGHT="6087" PHYSICAL_IMG_NR="176" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3569" HEIGHT="6087">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_718030d8" BASELINE="63 2762 1449 2753" HPOS="55" VPOS="2652" WIDTH="1391" HEIGHT="142">
+            <Shape><Polygon POINTS="60 2759 60 2794 1446 2779 1446 2749 1436 2652 680 2652 675 2652 670 2652 604 2668 563 2678 451 2673 121 2652 116 2652 111 2652 55 2673 60 2759"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir" HPOS="55" VPOS="2652" WIDTH="1391" HEIGHT="142"/>
+          </TextLine>
+          <TextLine ID="eSc_line_bbb922b2" BASELINE="32 2842 1203 2827" HPOS="25" VPOS="2759" WIDTH="1173" HEIGHT="127">
+            <Shape><Polygon POINTS="30 2840 30 2886 1193 2881 1198 2825 1182 2759 25 2769 30 2840"/></Shape>
+            <String CONTENT="son exécution le Trente mai 1917." HPOS="25" VPOS="2759" WIDTH="1173" HEIGHT="127"/>
+          </TextLine>
+          <TextLine ID="eSc_line_e3369a04" BASELINE="47 2943 1434 2937" HPOS="40" VPOS="2871" WIDTH="1391" HEIGHT="136">
+            <Shape><Polygon POINTS="45 2942 45 2967 218 2967 258 2977 314 2997 319 2997 324 2997 329 2997 335 2997 360 2982 395 2962 690 2962 725 2987 736 2997 741 2997 746 2997 751 2997 812 2992 1035 2962 1076 2997 1081 2997 1081 3002 1086 3002 1091 3002 1096 3007 1426 3007 1431 2936 1421 2871 40 2871 45 2942"/></Shape>
+            <String CONTENT="Détention préventive : du 31 mars au 30 Mai 1917" HPOS="40" VPOS="2871" WIDTH="1391" HEIGHT="136"/>
+          </TextLine>
+          <TextLine ID="eSc_line_7bf0f47e" BASELINE="398 3020 711 3014" HPOS="390" VPOS="2942" WIDTH="320" HEIGHT="121">
+            <Shape><Polygon POINTS="695 2942 644 2942 593 2942 543 2942 492 2942 441 2942 390 2942 395 3018 395 3063 710 3053 710 3013 700 2942 695 2942"/></Shape>
+            <String CONTENT="Le greffier" HPOS="390" VPOS="2942" WIDTH="320" HEIGHT="121"/>
+          </TextLine>
+          <TextLine ID="eSc_line_d01b440a" BASELINE="336 3192 923 3073" HPOS="314" VPOS="2987" WIDTH="604" HEIGHT="223">
+            <Shape><Polygon POINTS="335 3190 335 3210 918 3104 918 3068 893 2987 314 3104 335 3190"/></Shape>
+            <String CONTENT="+" HPOS="314" VPOS="2987" WIDTH="604" HEIGHT="223"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

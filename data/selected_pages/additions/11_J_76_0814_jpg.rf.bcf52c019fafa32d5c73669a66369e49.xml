@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,84 +10,28 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3552"
-          HEIGHT="6087"
-          PHYSICAL_IMG_NR="174"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3552"
-                  HEIGHT="6087">
+    <Page WIDTH="3552" HEIGHT="6087" PHYSICAL_IMG_NR="174" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3552" HEIGHT="6087">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_ee72be7f"
-                    BASELINE="50 2804 1506 2789" 
-                    HPOS="40"
-                    VPOS="2673"
-                    WIDTH="1461"
-                    HEIGHT="147">
+          <TextLine ID="eSc_line_ee72be7f" BASELINE="50 2804 1506 2789" HPOS="40" VPOS="2673" WIDTH="1461" HEIGHT="147">
             <Shape><Polygon POINTS="45 2800 45 2820 1496 2810 1501 2784 1486 2673 40 2693 45 2800"/></Shape>
-            <String CONTENT="Le présent jugement a commencé à recevoir"
-                    HPOS="40"
-                    VPOS="2673"
-                    WIDTH="1461"
-                    HEIGHT="147"
-                    ></String>
+            <String CONTENT="Le présent jugement a commencé à recevoir" HPOS="40" VPOS="2673" WIDTH="1461" HEIGHT="147"/>
           </TextLine>
-          <TextLine ID="eSc_line_0c42a930"
-                    BASELINE="44 2896 1522 2874" 
-                    HPOS="35"
-                    VPOS="2789"
-                    WIDTH="1482"
-                    HEIGHT="132">
+          <TextLine ID="eSc_line_0c42a930" BASELINE="44 2896 1522 2874" HPOS="35" VPOS="2789" WIDTH="1482" HEIGHT="132">
             <Shape><Polygon POINTS="1101 2789 1050 2789 999 2794 948 2794 898 2794 847 2794 796 2794 745 2794 695 2794 644 2794 593 2794 542 2794 492 2800 441 2800 390 2800 375 2800 142 2815 35 2789 40 2891 40 2921 1512 2921 1517 2871 1507 2800 1131 2789 1101 2789"/></Shape>
-            <String CONTENT="son exécution le Quatre Juin 1917, par"
-                    HPOS="35"
-                    VPOS="2789"
-                    WIDTH="1482"
-                    HEIGHT="132"
-                    WC="0.9646959961988987"></String>
+            <String CONTENT="son exécution le Quatre Juin 1917, par" HPOS="35" VPOS="2789" WIDTH="1482" HEIGHT="132" WC="0.9646959961988987"/>
           </TextLine>
-          <TextLine ID="eSc_line_df62d9b0"
-                    BASELINE="31 2989 2065 2963" 
-                    HPOS="25"
-                    VPOS="2886"
-                    WIDTH="2035"
-                    HEIGHT="157">
+          <TextLine ID="eSc_line_df62d9b0" BASELINE="31 2989 2065 2963" HPOS="25" VPOS="2886" WIDTH="2035" HEIGHT="157">
             <Shape><Polygon POINTS="30 2987 30 3002 167 3043 172 3043 177 3043 182 3043 187 3043 187 3038 223 3002 304 3002 877 2997 969 3002 1299 3028 1304 3028 1309 3028 1364 3002 1507 3028 1512 3028 2060 2997 2060 2962 2044 2886 25 2896 30 2987"/></Shape>
-            <String CONTENT="la dégradation militaire des condamnés, pour compter du 10 Mars 1917"
-                    HPOS="25"
-                    VPOS="2886"
-                    WIDTH="2035"
-                    HEIGHT="157"
-                    WC="0.9813923495156425"></String>
+            <String CONTENT="la dégradation militaire des condamnés, pour compter du 10 Mars 1917" HPOS="25" VPOS="2886" WIDTH="2035" HEIGHT="157" WC="0.9813923495156425"/>
           </TextLine>
-          <TextLine ID="eSc_line_bc5f1206"
-                    BASELINE="353 3072 730 3060" 
-                    HPOS="345"
-                    VPOS="2982"
-                    WIDTH="380"
-                    HEIGHT="173">
+          <TextLine ID="eSc_line_bc5f1206" BASELINE="353 3072 730 3060" HPOS="345" VPOS="2982" WIDTH="380" HEIGHT="173">
             <Shape><Polygon POINTS="700 2982 649 2982 598 2982 548 2982 522 2982 345 2987 350 3068 350 3109 411 3150 416 3150 421 3150 426 3155 527 3155 527 3150 532 3150 537 3150 608 3099 725 3099 725 3058 710 2982 700 2982"/></Shape>
-            <String CONTENT="Le greffier"
-                    HPOS="345"
-                    VPOS="2982"
-                    WIDTH="380"
-                    HEIGHT="173"
-                    ></String>
+            <String CONTENT="Le greffier" HPOS="345" VPOS="2982" WIDTH="380" HEIGHT="173"/>
           </TextLine>
-          <TextLine ID="eSc_line_13f1af97"
-                    BASELINE="113 3318 635 3180 765 3145" 
-                    HPOS="81"
-                    VPOS="3058"
-                    WIDTH="695"
-                    HEIGHT="279">
+          <TextLine ID="eSc_line_13f1af97" BASELINE="113 3318 635 3180 765 3145" HPOS="81" VPOS="3058" WIDTH="695" HEIGHT="279">
             <Shape><Polygon POINTS="111 3317 116 3337 284 3286 324 3302 350 3307 355 3307 360 3307 365 3307 370 3307 405 3281 476 3241 568 3251 603 3251 608 3251 613 3251 776 3205 761 3144 730 3058 476 3129 451 3124 400 3104 395 3104 390 3104 385 3104 81 3205 111 3317"/></Shape>
-            <String CONTENT="+"
-                    HPOS="81"
-                    VPOS="3058"
-                    WIDTH="695"
-                    HEIGHT="279"
-                    WC="0.9999992847442627"></String>
+            <String CONTENT="+" HPOS="81" VPOS="3058" WIDTH="695" HEIGHT="279" WC="0.9999992847442627"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>
