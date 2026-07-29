@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,84 +10,28 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="4282"
-          HEIGHT="6265"
-          PHYSICAL_IMG_NR="223"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="4282"
-                  HEIGHT="6265">
+    <Page WIDTH="4282" HEIGHT="6265" PHYSICAL_IMG_NR="223" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4282" HEIGHT="6265">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_1b0b0614"
-                    BASELINE="68 1451 1661 404" 
-                    HPOS="5"
-                    VPOS="313"
-                    WIDTH="1702"
-                    HEIGHT="1201">
+          <TextLine ID="eSc_line_1b0b0614" BASELINE="68 1451 1661 404" HPOS="5" VPOS="313" WIDTH="1702" HEIGHT="1201">
             <Shape><Polygon POINTS="67 1446 109 1514 140 1514 140 1508 146 1508 151 1508 151 1503 156 1503 156 1498 182 1456 193 1435 219 1435 266 1425 271 1425 276 1425 276 1420 370 1336 501 1216 548 1221 574 1221 579 1221 584 1221 590 1221 725 1132 725 1127 731 1127 731 1122 741 1101 762 1028 1101 809 1190 809 1195 809 1201 809 1206 809 1211 809 1331 736 1331 730 1336 730 1336 725 1342 715 1373 626 1707 480 1660 402 1597 313 1310 375 1305 375 1300 375 1174 459 1174 464 1169 464 1169 469 1080 657 1075 663 908 767 736 757 731 757 725 757 720 757 527 882 527 887 522 887 360 1127 355 1132 323 1148 172 1226 104 1221 99 1221 93 1221 88 1221 88 1226 83 1226 83 1232 57 1326 5 1352 67 1446"/></Shape>
-            <String CONTENT="Suspension à  l&#x27;action du Jugement"
-                    HPOS="5"
-                    VPOS="313"
-                    WIDTH="1702"
-                    HEIGHT="1201"
-                    ></String>
+            <String CONTENT="Suspension à  l'action du Jugement" HPOS="5" VPOS="313" WIDTH="1702" HEIGHT="1201"/>
           </TextLine>
-          <TextLine ID="eSc_line_02bd04a4"
-                    BASELINE="34 1687 1897 459" 
-                    HPOS="0"
-                    VPOS="381"
-                    WIDTH="1953"
-                    HEIGHT="1388">
+          <TextLine ID="eSc_line_02bd04a4" BASELINE="34 1687 1897 459" HPOS="0" VPOS="381" WIDTH="1953" HEIGHT="1388">
             <Shape><Polygon POINTS="0 1634 31 1686 93 1769 156 1644 443 1498 449 1498 449 1493 454 1493 527 1388 684 1294 819 1294 825 1289 830 1289 835 1289 835 1284 845 1273 1054 1044 1258 950 1263 950 1263 944 1268 944 1326 861 1503 830 1509 830 1514 830 1514 824 1519 824 1519 819 1571 710 1707 704 1712 704 1718 704 1953 548 1895 454 1843 381 1765 391 1759 391 1754 391 1754 396 1650 506 1603 501 1597 501 1592 501 1587 501 1587 506 1582 506 1582 511 1545 579 1456 600 1451 600 1446 600 1446 605 1441 605 1441 610 1420 663 1326 689 1321 689 1315 689 1315 694 1310 694 1237 783 1148 798 1143 798 1138 798 1138 804 1133 804 1060 897 783 1038 778 1038 778 1044 652 1169 496 1226 490 1226 198 1472 67 1508 62 1508 62 1514 57 1514 0 1592 0 1634"/></Shape>
-            <String CONTENT="en vertu de l&#x27;article 150 du Code de Justice"
-                    HPOS="0"
-                    VPOS="381"
-                    WIDTH="1953"
-                    HEIGHT="1388"
-                    ></String>
+            <String CONTENT="en vertu de l'article 150 du Code de Justice" HPOS="0" VPOS="381" WIDTH="1953" HEIGHT="1388"/>
           </TextLine>
-          <TextLine ID="eSc_line_be88dfb7"
-                    BASELINE="768 1632 1237 1366" 
-                    HPOS="710"
-                    VPOS="1268"
-                    WIDTH="543"
-                    HEIGHT="392">
+          <TextLine ID="eSc_line_be88dfb7" BASELINE="768 1632 1237 1366" HPOS="710" VPOS="1268" WIDTH="543" HEIGHT="392">
             <Shape><Polygon POINTS="767 1440 767 1446 762 1446 710 1529 767 1628 783 1660 1086 1529 1091 1529 1253 1399 1232 1362 1174 1268 772 1440 767 1440 767 1440"/></Shape>
-            <String CONTENT="Le Greffier"
-                    HPOS="710"
-                    VPOS="1268"
-                    WIDTH="543"
-                    HEIGHT="392"
-                    ></String>
+            <String CONTENT="Le Greffier" HPOS="710" VPOS="1268" WIDTH="543" HEIGHT="392"/>
           </TextLine>
-          <TextLine ID="eSc_line_033266cd"
-                    BASELINE="979 1739 1488 1319" 
-                    HPOS="913"
-                    VPOS="1221"
-                    WIDTH="648"
-                    HEIGHT="538">
+          <TextLine ID="eSc_line_033266cd" BASELINE="979 1739 1488 1319" HPOS="913" VPOS="1221" WIDTH="648" HEIGHT="538">
             <Shape><Polygon POINTS="976 1738 992 1759 1154 1675 1159 1675 1159 1670 1164 1670 1164 1665 1169 1655 1190 1602 1263 1592 1300 1587 1305 1587 1310 1587 1310 1581 1315 1581 1336 1545 1378 1493 1446 1482 1477 1472 1483 1472 1488 1472 1561 1409 1483 1315 1399 1221 1321 1341 1117 1508 1080 1524 997 1555 992 1555 992 1561 986 1561 913 1665 976 1738"/></Shape>
-            <String CONTENT="+"
-                    HPOS="913"
-                    VPOS="1221"
-                    WIDTH="648"
-                    HEIGHT="538"
-                    WC="0.9994246959686279"></String>
+            <String CONTENT="+" HPOS="913" VPOS="1221" WIDTH="648" HEIGHT="538" WC="0.9994246959686279"/>
           </TextLine>
-          <TextLine ID="eSc_line_2c5f3eed"
-                    BASELINE="49 1946 1383 1016 2052 699" 
-                    HPOS="0"
-                    VPOS="542"
-                    WIDTH="2125"
-                    HEIGHT="1478">
+          <TextLine ID="eSc_line_2c5f3eed" BASELINE="49 1946 1383 1016 2052 699" HPOS="0" VPOS="542" WIDTH="2125" HEIGHT="1478">
             <Shape><Polygon POINTS="0 1858 46 1942 104 2020 167 1910 396 1811 402 1811 402 1806 407 1806 407 1801 490 1649 689 1561 694 1561 694 1555 699 1555 798 1435 898 1425 903 1425 908 1425 908 1420 913 1420 913 1414 960 1320 1080 1232 1284 1226 1289 1226 1295 1226 1295 1221 1300 1221 1357 1132 1566 1101 1571 1101 1577 1101 1577 1096 1629 1054 1728 1054 1754 1054 1759 1054 1765 1054 1770 1054 2125 819 2047 694 1947 542 1650 699 1644 699 1644 704 1545 798 1477 798 1472 798 1467 798 1462 798 1462 804 1456 804 1378 913 1211 965 1206 965 1206 971 1201 971 1159 1033 971 1122 966 1122 966 1127 960 1127 960 1132 913 1216 845 1216 840 1216 835 1216 830 1216 830 1221 595 1430 532 1420 527 1420 522 1420 516 1420 297 1561 297 1566 292 1566 250 1639 198 1639 193 1639 187 1639 182 1639 182 1644 177 1644 177 1649 156 1717 130 1717 125 1717 120 1717 114 1717 114 1722 0 1827 0 1858"/></Shape>
-            <String CONTENT="M^ CMS du 17 octobre 1915 n°^ 9451"
-                    HPOS="0"
-                    VPOS="542"
-                    WIDTH="2125"
-                    HEIGHT="1478"
-                    ></String>
+            <String CONTENT="M^ CMS du 17 octobre 1915 n°^ 9451" HPOS="0" VPOS="542" WIDTH="2125" HEIGHT="1478"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>
