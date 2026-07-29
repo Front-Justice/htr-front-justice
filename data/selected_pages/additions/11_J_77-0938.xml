@@ -1,0 +1,41 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_77-0938.jpg</fileName>
+      <fileIdentifier>zip//corpus_258p.zip/11_J_77-0938.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3621" HEIGHT="6102" PHYSICAL_IMG_NR="77" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3621" HEIGHT="6102">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_066c3f03" TAGREFS="LT11707" BASELINE="258 4609 274 3640 241 3344" HPOS="183.0" VPOS="3335.0" WIDTH="147.0" HEIGHT="1272.0">
+            <Shape><Polygon POINTS="305 4607 320 3844 320 3844 320 3793 320 3742 320 3691 320 3640 320 3590 320 3539 320 3488 320 3437 320 3386 325 3376 330 3340 239 3340 183 3335 183 4596 254 4607 305 4607"/></Shape>
+            <String CONTENT="la IV^e Armée en date du 21 novembre 1917." HPOS="183.0" VPOS="3335.0" WIDTH="147.0" HEIGHT="1272.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_84661c57" TAGREFS="LT11707" BASELINE="408 4609 401 3330" HPOS="315.0" VPOS="3320.0" WIDTH="163.0" HEIGHT="1287.0">
+            <Shape><Polygon POINTS="396 3325 315 3335 345 3381 345 4098 335 4108 335 4149 335 4200 335 4251 335 4301 335 4352 335 4403 335 4454 335 4505 335 4556 335 4607 406 4607 452 4601 478 3971 478 3966 442 3320 396 3325"/></Shape>
+            <String CONTENT="Détention Préventive du 20 octobre au 21 nov^bre 1917" HPOS="315.0" VPOS="3320.0" WIDTH="163.0" HEIGHT="1287.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_4e7128ab" TAGREFS="LT11707" BASELINE="336 4609 326 3377" HPOS="264.0" VPOS="3371.0" WIDTH="132.0" HEIGHT="1236.0">
+            <Shape><Polygon POINTS="396 4093 396 4042 396 3991 391 3940 391 3890 391 3859 361 3371 325 3376 264 3376 264 3539 269 3590 269 3640 269 3691 269 3742 269 3793 269 3844 269 3895 269 3945 264 3996 264 4047 264 4098 264 4149 264 4200 264 4251 264 4607 335 4607 371 4601 396 4123 396 4093"/></Shape>
+            <String CONTENT="l'exécution de la peine a été suspendue" HPOS="264.0" VPOS="3371.0" WIDTH="132.0" HEIGHT="1236.0" WC="0.9849304202057066"/>
+          </TextLine>
+          <TextLine ID="eSc_line_94adf07b" TAGREFS="LT11707" BASELINE="186 4609 173 3401" HPOS="101.0" VPOS="3391.0" WIDTH="153.0" HEIGHT="1216.0">
+            <Shape><Polygon POINTS="254 4006 213 3391 172 3396 101 3396 116 4607 183 4607 223 4601 254 4012 254 4006"/></Shape>
+            <String CONTENT="Par décision de M. le Général Command^t" HPOS="101.0" VPOS="3391.0" WIDTH="153.0" HEIGHT="1216.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_46bcb362" TAGREFS="LT11707" BASELINE="497 4609 508 3623" HPOS="411.0" VPOS="3615.0" WIDTH="184.0" HEIGHT="992.0">
+            <Shape><Polygon POINTS="503 3620 427 3615 411 4596 493 4607 523 4601 523 4398 584 4256 584 4251 584 4245 584 4240 549 4154 549 3940 589 3859 589 3854 595 3854 595 3620 503 3620"/></Shape>
+            <String CONTENT="L'Officier d'Administration  greffier" HPOS="411.0" VPOS="3615.0" WIDTH="184.0" HEIGHT="992.0"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

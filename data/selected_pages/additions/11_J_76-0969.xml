@@ -1,0 +1,53 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_76-0969.jpg</fileName>
+      <fileIdentifier>zip//corpus_258p.zip/11_J_76-0969.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3569" HEIGHT="5989" PHYSICAL_IMG_NR="3" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3569" HEIGHT="5989">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_81ce1af7" BASELINE="58 1338 525 1030" HPOS="4.0" VPOS="918.0" WIDTH="535.0" HEIGHT="454.0">
+            <Shape><Polygon POINTS="54 1337 79 1372 539 1053 524 1028 449 918 274 988 269 988 269 993 264 993 264 998 194 1142 4 1262 54 1337"/></Shape>
+            <String CONTENT="Recours en" HPOS="4.0" VPOS="918.0" WIDTH="535.0" HEIGHT="454.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_e7e54d56" BASELINE="336 1417 638 1181" HPOS="289.0" VPOS="1117.0" WIDTH="384.0" HEIGHT="345.0">
+            <Shape><Polygon POINTS="449 1237 409 1267 369 1297 329 1327 289 1357 334 1412 374 1462 673 1232 633 1177 584 1117 509 1147 504 1147 504 1152 449 1202 449 1237"/></Shape>
+            <String CONTENT="Le greffier" HPOS="289.0" VPOS="1117.0" WIDTH="384.0" HEIGHT="345.0" WC="0.9601559747349132"/>
+          </TextLine>
+          <TextLine ID="eSc_line_de2ef09d" BASELINE="24 1472 594 1064" HPOS="0.0" VPOS="948.0" WIDTH="613.0" HEIGHT="559.0">
+            <Shape><Polygon POINTS="4 1357 0 1407 19 1467 49 1507 394 1257 414 1247 454 1217 454 1217 613 1102 589 1063 494 948 444 1023 264 1078 259 1078 259 1083 254 1083 174 1177 69 1217 64 1217 64 1222 59 1222 4 1317 4 1357"/></Shape>
+            <String CONTENT="grâce de Rohr rejeté" HPOS="0.0" VPOS="948.0" WIDTH="613.0" HEIGHT="559.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_f5184c95" BASELINE="484 1441 618 1294" HPOS="429.0" VPOS="1242.0" WIDTH="249.0" HEIGHT="295.0">
+            <Shape><Polygon POINTS="479 1437 594 1537 678 1352 613 1292 559 1242 429 1387 479 1437"/></Shape>
+            <String CONTENT="+" HPOS="429.0" VPOS="1242.0" WIDTH="249.0" HEIGHT="295.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_89ca9457" BASELINE="41 1548 487 1211" HPOS="0.0" VPOS="1162.0" WIDTH="514.0" HEIGHT="430.0">
+            <Shape><Polygon POINTS="444 1167 399 1197 359 1227 319 1257 279 1287 239 1312 199 1342 154 1372 114 1402 84 1417 19 1467 0 1487 39 1547 74 1592 514 1252 484 1207 449 1162 444 1167"/></Shape>
+            <String CONTENT="Louisorn 15-3-14" HPOS="0.0" VPOS="1162.0" WIDTH="514.0" HEIGHT="430.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_a45f96ee" BASELINE="2543 1561 3466 944" HPOS="2485.0" VPOS="833.0" WIDTH="1009.0" HEIGHT="794.0">
+            <Shape><Polygon POINTS="2540 1557 2585 1627 3494 993 3464 943 3384 833 3229 968 3119 1008 3114 1008 3114 1013 3109 1013 3109 1018 3054 1117 2875 1207 2870 1207 2870 1212 2745 1327 2650 1327 2645 1327 2640 1327 2635 1327 2565 1372 2565 1377 2560 1377 2485 1477 2540 1557"/></Shape>
+            <String CONTENT="Duvaux ecrou définitif" HPOS="2485.0" VPOS="833.0" WIDTH="1009.0" HEIGHT="794.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_19bf01ee" BASELINE="2817 1685 3288 1362" HPOS="2760.0" VPOS="1292.0" WIDTH="564.0" HEIGHT="449.0">
+            <Shape><Polygon POINTS="2815 1681 2855 1741 3074 1632 3079 1632 3324 1422 3284 1357 3234 1292 2760 1602 2815 1681"/></Shape>
+            <String CONTENT="8 mars 1919" HPOS="2760.0" VPOS="1292.0" WIDTH="564.0" HEIGHT="449.0" WC="0.9826316616751931"/>
+          </TextLine>
+          <TextLine ID="eSc_line_7db10d5d" BASELINE="2447 1788 3500 1078" HPOS="2385.0" VPOS="1003.0" WIDTH="1144.0" HEIGHT="853.0">
+            <Shape><Polygon POINTS="3444 1003 2385 1696 2445 1786 2500 1856 2530 1796 2620 1776 2625 1776 2630 1776 2775 1676 2775 1671 2780 1671 2830 1592 2970 1537 2974 1537 2974 1532 2979 1532 3014 1477 3369 1272 3374 1272 3374 1267 3529 1117 3499 1073 3444 1003"/></Shape>
+            <String CONTENT="Maison centrale Foutevrault" HPOS="2385.0" VPOS="1003.0" WIDTH="1144.0" HEIGHT="853.0"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
