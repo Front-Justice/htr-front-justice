@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,84 +10,28 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="4192"
-          HEIGHT="6265"
-          PHYSICAL_IMG_NR="241"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="4192"
-                  HEIGHT="6265">
+    <Page WIDTH="4192" HEIGHT="6265" PHYSICAL_IMG_NR="241" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4192" HEIGHT="6265">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_5a82272e"
-                    BASELINE="1120 5588 2303 5585" 
-                    HPOS="1113"
-                    VPOS="5440"
-                    WIDTH="1186"
-                    HEIGHT="161">
+          <TextLine ID="eSc_line_5a82272e" BASELINE="1120 5588 2303 5585" HPOS="1113" VPOS="5440" WIDTH="1186" HEIGHT="161">
             <Shape><Polygon POINTS="1118 5586 1118 5601 2294 5601 2299 5581 2289 5450 1113 5440 1118 5586"/></Shape>
-            <String CONTENT="Le présent jugement a commencé à"
-                    HPOS="1113"
-                    VPOS="5440"
-                    WIDTH="1186"
-                    HEIGHT="161"
-                    ></String>
+            <String CONTENT="Le présent jugement a commencé à" HPOS="1113" VPOS="5440" WIDTH="1186" HEIGHT="161"/>
           </TextLine>
-          <TextLine ID="eSc_line_da00cf5b"
-                    BASELINE="947 5620 2550 5616" 
-                    HPOS="940"
-                    VPOS="5534"
-                    WIDTH="1605"
-                    HEIGHT="114">
+          <TextLine ID="eSc_line_da00cf5b" BASELINE="947 5620 2550 5616" HPOS="940" VPOS="5534" WIDTH="1605" HEIGHT="114">
             <Shape><Polygon POINTS="2404 5560 2352 5565 2299 5565 2247 5565 2195 5565 2143 5565 2090 5565 2038 5565 1986 5565 1933 5565 1881 5565 1829 5565 1777 5565 1724 5565 1672 5565 1620 5565 1568 5565 1515 5565 1463 5565 1411 5565 1359 5565 1306 5565 1254 5565 1202 5565 1196 5534 940 5534 946 5617 946 5648 2540 5638 2545 5612 2535 5544 2404 5539 2404 5560"/></Shape>
-            <String CONTENT="recevoir son exécution le six Avril mil neuf cent"
-                    HPOS="940"
-                    VPOS="5534"
-                    WIDTH="1605"
-                    HEIGHT="114"
-                    WC="0.9803463840484619"></String>
+            <String CONTENT="recevoir son exécution le six Avril mil neuf cent" HPOS="940" VPOS="5534" WIDTH="1605" HEIGHT="114" WC="0.9803463840484619"/>
           </TextLine>
-          <TextLine ID="eSc_line_18e942d0"
-                    BASELINE="920 5673 2153 5673" 
-                    HPOS="919"
-                    VPOS="5607"
-                    WIDTH="1229"
-                    HEIGHT="125">
+          <TextLine ID="eSc_line_18e942d0" BASELINE="920 5673 2153 5673" HPOS="919" VPOS="5607" WIDTH="1229" HEIGHT="125">
             <Shape><Polygon POINTS="2122 5617 2069 5617 2017 5617 1965 5617 1913 5617 1860 5617 1808 5617 1756 5617 1703 5617 1651 5617 1599 5617 1547 5617 1494 5617 1442 5617 1390 5617 1338 5617 1285 5617 1233 5617 1181 5617 1129 5617 1076 5617 1024 5617 972 5617 966 5607 919 5607 919 5669 919 5732 2148 5695 2148 5669 2148 5617 2122 5617"/></Shape>
-            <String CONTENT="seize pour compter du même jour"
-                    HPOS="919"
-                    VPOS="5607"
-                    WIDTH="1229"
-                    HEIGHT="125"
-                    WC="0.9821053221821785"></String>
+            <String CONTENT="seize pour compter du même jour" HPOS="919" VPOS="5607" WIDTH="1229" HEIGHT="125" WC="0.9821053221821785"/>
           </TextLine>
-          <TextLine ID="eSc_line_09c22706"
-                    BASELINE="1713 5737 2375 5727" 
-                    HPOS="1703"
-                    VPOS="5628"
-                    WIDTH="670"
-                    HEIGHT="141">
+          <TextLine ID="eSc_line_09c22706" BASELINE="1713 5737 2375 5727" HPOS="1703" VPOS="5628" WIDTH="670" HEIGHT="141">
             <Shape><Polygon POINTS="2017 5669 1965 5675 1913 5675 1860 5675 1808 5675 1756 5675 1703 5675 1709 5732 1709 5769 2373 5753 2373 5722 2357 5628 2038 5643 2017 5669"/></Shape>
-            <String CONTENT="Le Commis Greffier"
-                    HPOS="1703"
-                    VPOS="5628"
-                    WIDTH="670"
-                    HEIGHT="141"
-                    WC="0.9975776606135898"></String>
+            <String CONTENT="Le Commis Greffier" HPOS="1703" VPOS="5628" WIDTH="670" HEIGHT="141" WC="0.9975776606135898"/>
           </TextLine>
-          <TextLine ID="eSc_line_bd0d71ee"
-                    BASELINE="1982 5831 2213 5841" 
-                    HPOS="1970"
-                    VPOS="5727"
-                    WIDTH="240"
-                    HEIGHT="229">
+          <TextLine ID="eSc_line_bd0d71ee" BASELINE="1982 5831 2213 5841" HPOS="1970" VPOS="5727" WIDTH="240" HEIGHT="229">
             <Shape><Polygon POINTS="2190 5727 2137 5727 2085 5727 2033 5732 1981 5732 1981 5826 1970 5956 2205 5936 2210 5836 2210 5727 2190 5727"/></Shape>
-            <String CONTENT="+"
-                    HPOS="1970"
-                    VPOS="5727"
-                    WIDTH="240"
-                    HEIGHT="229"
-                    WC="0.9996929168701172"></String>
+            <String CONTENT="+" HPOS="1970" VPOS="5727" WIDTH="240" HEIGHT="229" WC="0.9996929168701172"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>
