@@ -1,0 +1,49 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_186(1)-0043.jpg</fileName>
+      <fileIdentifier>zip//corpus_258p.zip/11_J_186(1)-0043.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3602" HEIGHT="6087" PHYSICAL_IMG_NR="12" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3602" HEIGHT="6087">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_592e3022" BASELINE="262 1317 618 1010" HPOS="213.0" VPOS="948.0" WIDTH="416.0" HEIGHT="380.0">
+            <Shape><Polygon POINTS="476 1024 456 1039 421 1070 400 1090 365 1126 324 1156 289 1192 248 1222 213 1257 258 1313 273 1328 360 1308 365 1308 365 1303 629 1029 613 1009 563 948 492 1009 476 1024"/></Shape>
+            <String CONTENT="Le Greffier." HPOS="213.0" VPOS="948.0" WIDTH="416.0" HEIGHT="380.0" WC="0.9242474039395651"/>
+          </TextLine>
+          <TextLine ID="eSc_line_3bd46563" BASELINE="245 1502 667 1038" HPOS="177.0" VPOS="968.0" WIDTH="523.0" HEIGHT="553.0">
+            <Shape><Polygon POINTS="613 1014 573 1044 532 1080 497 1110 456 1146 416 1181 380 1212 370 1217 177 1440 243 1501 268 1521 507 1334 507 1328 512 1328 700 1065 664 1034 588 968 583 973 613 1014"/></Shape>
+            <String CONTENT="+" HPOS="177.0" VPOS="968.0" WIDTH="523.0" HEIGHT="553.0" WC="0.999996542930603"/>
+          </TextLine>
+          <TextLine ID="eSc_line_400becd6" BASELINE="716 1478 996 1209" HPOS="679.0" VPOS="1161.0" WIDTH="361.0" HEIGHT="335.0">
+            <Shape><Polygon POINTS="857 1252 821 1293 786 1328 750 1364 715 1405 679 1440 715 1476 735 1496 1040 1257 994 1207 948 1161 877 1222 857 1252"/></Shape>
+            <String CONTENT="Le c^is greffier" HPOS="679.0" VPOS="1161.0" WIDTH="361.0" HEIGHT="335.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_5ca2a35c" BASELINE="367 1520 1289 608" HPOS="304.0" VPOS="537.0" WIDTH="1004.0" HEIGHT="1010.0">
+            <Shape><Polygon POINTS="395 1547 938 1044 943 1039 943 1034 948 994 1308 628 1288 603 1222 537 304 1450 365 1516 395 1547"/></Shape>
+            <String CONTENT="Réhabilitation prononcée par arrêt de la cour" HPOS="304.0" VPOS="537.0" WIDTH="1004.0" HEIGHT="1010.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_3c3e0acd" BASELINE="416 1597 1314 678" HPOS="360.0" VPOS="628.0" WIDTH="979.0" HEIGHT="985.0">
+            <Shape><Polygon POINTS="1253 639 1217 679 1182 715 1146 750 1111 776 1029 882 968 923 963 928 928 963 892 999 857 1034 821 1070 781 1105 745 1141 710 1176 674 1212 664 1222 664 1247 360 1542 410 1592 431 1613 639 1450 639 1445 644 1445 644 1440 644 1435 649 1394 1227 847 1232 847 1339 700 1313 674 1263 628 1253 639"/></Shape>
+            <String CONTENT="d'appel de Paris du 1^er février 1918 (notif^on du" HPOS="360.0" VPOS="628.0" WIDTH="979.0" HEIGHT="985.0"/>
+          </TextLine>
+          <TextLine ID="eSc_line_ee5d1b52" BASELINE="748 1607 1083 1233" HPOS="674.0" VPOS="1166.0" WIDTH="447.0" HEIGHT="492.0">
+            <Shape><Polygon POINTS="994 1212 958 1247 918 1283 882 1318 847 1349 842 1349 674 1536 745 1602 816 1658 1121 1273 1080 1232 1009 1166 984 1192 994 1212"/></Shape>
+            <String CONTENT="+" HPOS="674.0" VPOS="1166.0" WIDTH="447.0" HEIGHT="492.0" WC="0.9999971389770508"/>
+          </TextLine>
+          <TextLine ID="eSc_line_5512d4cd" BASELINE="489 1653 1034 1066" HPOS="441.0" VPOS="1019.0" WIDTH="644.0" HEIGHT="639.0">
+            <Shape><Polygon POINTS="497 1658 629 1592 634 1592 634 1587 639 1587 639 1582 735 1405 974 1207 979 1207 979 1207 1085 1121 1029 1065 979 1019 441 1597 487 1648 497 1658"/></Shape>
+            <String CONTENT="G.Q.G du 20 mai 1918, n^26.634" HPOS="441.0" VPOS="1019.0" WIDTH="644.0" HEIGHT="639.0"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

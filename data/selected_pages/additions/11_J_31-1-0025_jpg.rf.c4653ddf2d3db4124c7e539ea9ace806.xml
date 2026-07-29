@@ -1,0 +1,40 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_31-1-0025_jpg.rf.c4653ddf2d3db4124c7e539ea9ace806.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3714" HEIGHT="5933" PHYSICAL_IMG_NR="5" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3714" HEIGHT="5933">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_76e600cb" BASELINE="2614 1197 3539 1187" HPOS="2606" VPOS="1072" WIDTH="929" HEIGHT="188">
+            <Shape><Polygon POINTS="2611 1196 2611 1260 3531 1245 3535 1186 3521 1072 3343 1077 3338 1077 3333 1077 3333 1082 3288 1112 3204 1087 3184 1082 3179 1082 3174 1082 3170 1082 3135 1092 3036 1117 2907 1102 2705 1082 2700 1082 2695 1082 2606 1112 2611 1196"/></Shape>
+            <String CONTENT="Amnistié art^14, loi du" HPOS="2606" VPOS="1072" WIDTH="929" HEIGHT="188"/>
+          </TextLine>
+          <TextLine ID="eSc_line_0e332302" BASELINE="2606 1309 3148 1274" HPOS="2596" VPOS="1201" WIDTH="549" HEIGHT="183">
+            <Shape><Polygon POINTS="2601 1305 2606 1384 2705 1339 2838 1334 2883 1359 2898 1369 2902 1369 2907 1369 2912 1369 3145 1325 3145 1270 3130 1201 2596 1226 2601 1305"/></Shape>
+            <String CONTENT="29 Avril 1921" HPOS="2596" VPOS="1201" WIDTH="549" HEIGHT="183" WC="0.9960370430579553"/>
+          </TextLine>
+          <TextLine ID="eSc_line_1bb7bec6" BASELINE="2741 1402 3596 1380" HPOS="2734" VPOS="1280" WIDTH="861" HEIGHT="158">
+            <Shape><Polygon POINTS="2794 1290 2734 1320 2739 1399 2739 1438 3590 1438 3595 1379 3585 1305 3174 1280 3170 1280 2957 1315 2818 1290 2794 1290"/></Shape>
+            <String CONTENT="Rouen le 27 septembre 194" HPOS="2734" VPOS="1280" WIDTH="861" HEIGHT="158"/>
+          </TextLine>
+          <TextLine ID="eSc_line_c600f43b" BASELINE="3034 1517 3487 1475" HPOS="3016" VPOS="1389" WIDTH="470" HEIGHT="247">
+            <Shape><Polygon POINTS="3165 1389 3115 1394 3071 1394 3066 1394 3061 1394 3016 1423 3031 1512 3036 1636 3249 1621 3254 1621 3259 1621 3259 1616 3308 1577 3338 1542 3486 1527 3486 1473 3471 1399 3288 1414 3283 1414 3204 1389 3165 1389"/></Shape>
+            <String CONTENT="Le Greffier" HPOS="3016" VPOS="1389" WIDTH="470" HEIGHT="247" WC="0.8982632972977378"/>
+          </TextLine>
+          <TextLine ID="eSc_line_ed0b6877" BASELINE="3042 1729 3389 1626" HPOS="3016" VPOS="1557" WIDTH="381" HEIGHT="227">
+            <Shape><Polygon POINTS="3041 1725 3056 1784 3259 1690 3397 1676 3387 1621 3362 1557 3016 1641 3041 1725"/></Shape>
+            <String CONTENT="+" HPOS="3016" VPOS="1557" WIDTH="381" HEIGHT="227"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
