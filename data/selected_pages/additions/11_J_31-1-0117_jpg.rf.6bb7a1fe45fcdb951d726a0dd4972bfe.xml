@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -13,84 +10,28 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3667"
-          HEIGHT="5957"
-          PHYSICAL_IMG_NR="7"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3667"
-                  HEIGHT="5957">
+    <Page WIDTH="3667" HEIGHT="5957" PHYSICAL_IMG_NR="7" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3667" HEIGHT="5957">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_f58dc976"
-                    BASELINE="2252 1306 3034 1284" 
-                    HPOS="2245"
-                    VPOS="1181"
-                    WIDTH="785"
-                    HEIGHT="179">
+          <TextLine ID="eSc_line_f58dc976" BASELINE="2252 1306 3034 1284" HPOS="2245" VPOS="1181" WIDTH="785" HEIGHT="179">
             <Shape><Polygon POINTS="2250 1305 2250 1335 2360 1360 2365 1360 3030 1315 3030 1280 3021 1206 2857 1181 2852 1181 2847 1181 2752 1206 2683 1221 2245 1211 2250 1305"/></Shape>
-            <String CONTENT="Par decret du 14/6/19."
-                    HPOS="2245"
-                    VPOS="1181"
-                    WIDTH="785"
-                    HEIGHT="179"
-                    ></String>
+            <String CONTENT="Par decret du 14/6/19." HPOS="2245" VPOS="1181" WIDTH="785" HEIGHT="179"/>
           </TextLine>
-          <TextLine ID="eSc_line_519d5667"
-                    BASELINE="2177 1425 3308 1390" 
-                    HPOS="2171"
-                    VPOS="1275"
-                    WIDTH="1133"
-                    HEIGHT="209">
+          <TextLine ID="eSc_line_519d5667" BASELINE="2177 1425 3308 1390" HPOS="2171" VPOS="1275" WIDTH="1133" HEIGHT="209">
             <Shape><Polygon POINTS="3016 1285 2976 1285 2916 1310 2891 1320 2852 1315 2732 1290 2717 1290 2668 1295 2658 1295 2499 1330 2464 1340 2330 1340 2310 1340 2240 1300 2235 1300 2231 1300 2226 1300 2221 1300 2171 1330 2176 1424 2176 1484 2340 1454 3299 1454 3304 1389 3294 1295 3016 1275 3016 1285"/></Shape>
-            <String CONTENT="Remise du restant de la peine."
-                    HPOS="2171"
-                    VPOS="1275"
-                    WIDTH="1133"
-                    HEIGHT="209"
-                    ></String>
+            <String CONTENT="Remise du restant de la peine." HPOS="2171" VPOS="1275" WIDTH="1133" HEIGHT="209"/>
           </TextLine>
-          <TextLine ID="eSc_line_f30d2a2b"
-                    BASELINE="2511 1531 3004 1506" 
-                    HPOS="2499"
-                    VPOS="1409"
-                    WIDTH="502"
-                    HEIGHT="194">
+          <TextLine ID="eSc_line_f30d2a2b" BASELINE="2511 1531 3004 1506" HPOS="2499" VPOS="1409" WIDTH="502" HEIGHT="194">
             <Shape><Polygon POINTS="2509 1528 2509 1563 2698 1603 2703 1603 3001 1543 3001 1504 2991 1434 2891 1409 2886 1409 2881 1409 2802 1439 2777 1449 2499 1449 2509 1528"/></Shape>
-            <String CONTENT="Le 27/6/19."
-                    HPOS="2499"
-                    VPOS="1409"
-                    WIDTH="502"
-                    HEIGHT="194"
-                    ></String>
+            <String CONTENT="Le 27/6/19." HPOS="2499" VPOS="1409" WIDTH="502" HEIGHT="194"/>
           </TextLine>
-          <TextLine ID="eSc_line_40b5360e"
-                    BASELINE="2737 1635 3328 1611" 
-                    HPOS="2727"
-                    VPOS="1504"
-                    WIDTH="597"
-                    HEIGHT="218">
+          <TextLine ID="eSc_line_40b5360e" BASELINE="2737 1635 3328 1611" HPOS="2727" VPOS="1504" WIDTH="597" HEIGHT="218">
             <Shape><Polygon POINTS="2732 1633 2732 1677 2951 1722 2956 1722 2961 1722 2966 1722 2966 1717 3006 1677 3055 1707 3060 1707 3065 1707 3070 1707 3324 1653 3324 1608 3314 1533 2996 1504 2991 1504 2986 1504 2981 1504 2936 1543 2881 1523 2876 1523 2871 1523 2727 1553 2732 1633"/></Shape>
-            <String CONTENT="Le Greffier"
-                    HPOS="2727"
-                    VPOS="1504"
-                    WIDTH="597"
-                    HEIGHT="218"
-                    WC="0.9276926788416776"></String>
+            <String CONTENT="Le Greffier" HPOS="2727" VPOS="1504" WIDTH="597" HEIGHT="218" WC="0.9276926788416776"/>
           </TextLine>
-          <TextLine ID="eSc_line_9593698c"
-                    BASELINE="2859 1915 3164 1711" 
-                    HPOS="2812"
-                    VPOS="1643"
-                    WIDTH="422"
-                    HEIGHT="402">
+          <TextLine ID="eSc_line_9593698c" BASELINE="2859 1915 3164 1711" HPOS="2812" VPOS="1643" WIDTH="422" HEIGHT="402">
             <Shape><Polygon POINTS="2857 1911 2946 2045 3070 1980 3075 1980 3075 1975 3080 1975 3080 1970 3110 1916 3130 1886 3234 1821 3160 1707 3115 1643 2961 1687 2956 1687 2956 1692 2812 1841 2857 1911"/></Shape>
-            <String CONTENT="+"
-                    HPOS="2812"
-                    VPOS="1643"
-                    WIDTH="422"
-                    HEIGHT="402"
-                    WC="0.9999493360519409"></String>
+            <String CONTENT="+" HPOS="2812" VPOS="1643" WIDTH="422" HEIGHT="402" WC="0.9999493360519409"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>
