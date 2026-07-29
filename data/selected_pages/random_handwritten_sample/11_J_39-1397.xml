@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -16,28 +13,10 @@
   </Tags>
   
   <Layout>
-    <Page WIDTH="3026"
-          HEIGHT="2485"
-          PHYSICAL_IMG_NR="80"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3026"
-                  HEIGHT="2485">
+    <Page WIDTH="3026" HEIGHT="2485" PHYSICAL_IMG_NR="80" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3026" HEIGHT="2485">
         
-        <TextBlock HPOS="50.0"
-                   VPOS="35.0"
-                   WIDTH="2959.0"
-                   HEIGHT="2442.0"
-                   ID="ec55ffe5-8272-40ee-83e9-b965eb4a1537"
-                   TAGREFS="BT26281">
-          <Shape><Polygon POINTS="50 35 3009 35 3009 2477 50 2477 50 35"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-      </PrintSpace>
+        </PrintSpace>
     </Page>
   </Layout>
 </alto>
