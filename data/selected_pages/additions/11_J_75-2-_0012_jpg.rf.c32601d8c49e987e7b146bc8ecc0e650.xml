@@ -1,0 +1,44 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_75-2-_0012_jpg.rf.c32601d8c49e987e7b146bc8ecc0e650.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3074" HEIGHT="4816" PHYSICAL_IMG_NR="91" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3074" HEIGHT="4816">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_bd1cb0b2" BASELINE="73 4146 845 4158" HPOS="68" VPOS="4053" WIDTH="775" HEIGHT="148">
+            <Shape><Polygon POINTS="72 4145 68 4201 839 4201 843 4157 843 4089 675 4089 659 4077 618 4061 614 4061 610 4061 425 4069 192 4077 72 4053 72 4145"/></Shape>
+            <String CONTENT="Le présent procès verbal a été" HPOS="68" VPOS="4053" WIDTH="775" HEIGHT="148"/>
+          </TextLine>
+          <TextLine ID="eSc_line_7a5e5015" BASELINE="61 4285 1043 4266" HPOS="56" VPOS="4205" WIDTH="984" HEIGHT="121">
+            <Shape><Polygon POINTS="60 4282 60 4314 638 4326 642 4326 1040 4290 1040 4262 1028 4205 56 4222 60 4282"/></Shape>
+            <String CONTENT="transcrit au pied de la minute de" HPOS="56" VPOS="4205" WIDTH="984" HEIGHT="121" WC="0.9824557936552799"/>
+          </TextLine>
+          <TextLine ID="eSc_line_78f65573" BASELINE="40 4389 1210 4365" HPOS="32" VPOS="4310" WIDTH="1177" HEIGHT="132">
+            <Shape><Polygon POINTS="36 4386 36 4442 437 4418 474 4430 502 4438 506 4438 510 4438 988 4430 1205 4394 1209 4362 1197 4310 32 4310 36 4386"/></Shape>
+            <String CONTENT="jugement, conformément aux prescriptions" HPOS="32" VPOS="4310" WIDTH="1177" HEIGHT="132"/>
+          </TextLine>
+          <TextLine ID="eSc_line_e0e3d144" BASELINE="45 4485 1346 4445" HPOS="40" VPOS="4386" WIDTH="1302" HEIGHT="129">
+            <Shape><Polygon POINTS="44 4482 44 4515 1080 4515 1342 4478 1342 4442 1330 4386 40 4414 44 4482"/></Shape>
+            <String CONTENT="de l'article 378 du Code d'instruction criminelle" HPOS="40" VPOS="4386" WIDTH="1302" HEIGHT="129" WC="0.9811209306424978"/>
+          </TextLine>
+          <TextLine ID="eSc_line_986c6ee0" BASELINE="367 4572 1360 4532" HPOS="361" VPOS="4478" WIDTH="997" HEIGHT="173">
+            <Shape><Polygon POINTS="365 4571 365 4627 558 4651 562 4651 566 4651 570 4651 614 4615 618 4611 775 4607 956 4599 1157 4627 1161 4627 1165 4627 1358 4571 1358 4531 1346 4478 361 4510 365 4571"/></Shape>
+            <String CONTENT="L'officier d'Adminisration Greffier." HPOS="361" VPOS="4478" WIDTH="997" HEIGHT="173"/>
+          </TextLine>
+          <TextLine ID="eSc_line_406bd74b" BASELINE="537 4749 1090 4650" HPOS="518" VPOS="4575" WIDTH="570" HEIGHT="216">
+            <Shape><Polygon POINTS="534 4747 534 4763 650 4763 759 4791 763 4791 767 4791 900 4767 904 4767 908 4767 908 4763 988 4695 996 4683 1088 4675 1088 4647 1068 4575 948 4579 944 4579 807 4623 795 4627 791 4627 731 4619 727 4619 723 4619 719 4619 719 4623 715 4623 695 4647 691 4651 518 4679 534 4747"/></Shape>
+            <String CONTENT="+" HPOS="518" VPOS="4575" WIDTH="570" HEIGHT="216"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,40 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-2-_0016_jpg.rf.2c0886de454034e08c170c896356c29b.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3893" HEIGHT="6183" PHYSICAL_IMG_NR="298" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3893" HEIGHT="6183">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_fafa8064" BASELINE="497 3849 501 2892" HPOS="412" VPOS="2885" WIDTH="186" HEIGHT="963">
+            <Shape><Polygon POINTS="412 2885 427 3843 495 3848 592 3838 551 3647 587 3596 592 3591 592 3586 592 3580 598 3580 598 3441 592 3436 592 3431 577 3400 531 3276 531 2972 562 2895 500 2890 412 2885"/></Shape>
+            <String CONTENT="L'OFFICIER D'ADMINISTRATION BOUDOT GREFFIER DU CONSEIL" HPOS="412" VPOS="2885" WIDTH="186" HEIGHT="963"/>
+          </TextLine>
+          <TextLine ID="eSc_line_53278571" BASELINE="337 4620 299 3305" HPOS="226" VPOS="3297" WIDTH="176" HEIGHT="1319">
+            <Shape><Polygon POINTS="293 3302 226 3302 226 3328 226 3380 226 3431 226 3462 262 4616 335 4616 402 4606 360 4436 391 4235 391 4225 391 4219 391 4214 391 4209 350 4116 381 3859 381 3833 381 3828 381 3807 335 3622 355 3297 293 3302"/></Shape>
+            <String CONTENT="pour compter du sept mai 1919" HPOS="226" VPOS="3297" WIDTH="176" HEIGHT="1319" WC="0.9786597736950579"/>
+          </TextLine>
+          <TextLine ID="eSc_line_15a5e267" BASELINE="232 4649 223 3061 206 3006 206 2290" HPOS="134" VPOS="2282" WIDTH="170" HEIGHT="2365">
+            <Shape><Polygon POINTS="288 3436 262 3261 293 3215 293 3210 293 3204 293 3199 273 3024 299 2679 299 2674 299 2668 299 2663 268 2617 299 2555 299 2550 304 2550 304 2282 201 2287 134 2287 154 4647 226 4647 278 4637 262 3910 293 3859 293 3854 293 3848 293 3843 262 3627 288 3441 288 3436"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution le onze juillet 1919" HPOS="134" VPOS="2282" WIDTH="170" HEIGHT="2365"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b8942ad4" BASELINE="518 4780 506 4186" HPOS="417" VPOS="4178" WIDTH="129" HEIGHT="598">
+            <Shape><Polygon POINTS="505 4183 417 4183 422 4776 515 4776 546 4766 536 4178 505 4183"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur" HPOS="417" VPOS="4178" WIDTH="129" HEIGHT="598" WC="0.9803784704208374"/>
+          </TextLine>
+          <TextLine ID="eSc_line_83f9018c" BASELINE="712 4788 666 4072" HPOS="531" VPOS="4060" WIDTH="283" HEIGHT="726">
+            <Shape><Polygon POINTS="665 4070 531 4075 531 4147 531 4152 531 4158 531 4163 536 4168 587 4225 546 4281 546 4286 546 4292 546 4297 546 4302 546 4307 551 4307 603 4359 613 4565 567 4673 567 4678 567 4683 572 4786 711 4786 814 4776 773 4060 665 4070"/></Shape>
+            <String CONTENT="+" HPOS="531" VPOS="4060" WIDTH="283" HEIGHT="726" WC="0.999997615814209"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

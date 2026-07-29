@@ -1,0 +1,36 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_186-2-_0048_jpg.rf.eea0a179d233f9466112125d8219dd24.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="4240" HEIGHT="6289" PHYSICAL_IMG_NR="254" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="4240" HEIGHT="6289">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_748865d5" BASELINE="1255 5640 2750 5600" HPOS="1247" VPOS="5502" WIDTH="1499" HEIGHT="194">
+            <Shape><Polygon POINTS="1252 5639 1257 5696 1367 5665 2541 5665 2541 5660 2746 5618 2746 5597 2741 5534 2667 5502 2662 5502 2657 5502 2458 5539 2363 5513 2358 5513 2353 5513 2091 5550 1247 5544 1252 5639"/></Shape>
+            <String CONTENT="Jugement exécutoire du 7 février 1918" HPOS="1247" VPOS="5502" WIDTH="1499" HEIGHT="194"/>
+          </TextLine>
+          <TextLine ID="eSc_line_7836c4b5" BASELINE="1323 5718 2841 5688" HPOS="1315" VPOS="5586" WIDTH="1525" HEIGHT="194">
+            <Shape><Polygon POINTS="2730 5602 2678 5602 2625 5602 2589 5602 2541 5602 2520 5607 2510 5607 2117 5633 1970 5618 1944 5623 1892 5623 1839 5623 1787 5628 1734 5628 1682 5628 1666 5628 1525 5639 1493 5633 1472 5633 1420 5639 1367 5639 1325 5639 1315 5639 1320 5717 1320 5759 1776 5780 1781 5780 1787 5780 1792 5780 1829 5749 2054 5770 2059 5770 2064 5770 2175 5743 2321 5770 2327 5770 2332 5770 2484 5728 2688 5759 2693 5759 2699 5759 2704 5759 2704 5754 2741 5722 2835 5722 2840 5686 2824 5586 2725 5591 2730 5602"/></Shape>
+            <String CONTENT="Détention preventive du 28 Janvier 1918" HPOS="1315" VPOS="5586" WIDTH="1525" HEIGHT="194"/>
+          </TextLine>
+          <TextLine ID="eSc_line_de5ceeb5" BASELINE="1916 5800 2215 5800" HPOS="1912" VPOS="5712" WIDTH="299" HEIGHT="157">
+            <Shape><Polygon POINTS="1912 5796 1912 5869 2211 5848 2211 5796 2211 5717 1912 5712 1912 5796"/></Shape>
+            <String CONTENT="le Greffier" HPOS="1912" VPOS="5712" WIDTH="299" HEIGHT="157" WC="0.9462674964557994"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b48e64b0" BASELINE="2180 5864 2535 5822" HPOS="2164" VPOS="5743" WIDTH="367" HEIGHT="173">
+            <Shape><Polygon POINTS="2164 5796 2175 5859 2180 5916 2531 5848 2531 5817 2520 5743 2180 5749 2164 5796"/></Shape>
+            <String CONTENT="+" HPOS="2164" VPOS="5743" WIDTH="367" HEIGHT="173" WC="0.9999997615814209"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

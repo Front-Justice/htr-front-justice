@@ -1,0 +1,36 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_75-2-_0068_jpg.rf.21ef526132868d58d0827fc3e469ed74.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3804" HEIGHT="6022" PHYSICAL_IMG_NR="108" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3804" HEIGHT="6022">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_f74e2d8b" TAGREFS="LT10974" BASELINE="2689 1612 2907 1508 3054 1405 3345 1267 3379 1237 3536 1154 3636 1124" HPOS="2644" VPOS="1043" WIDTH="1004" HEIGHT="603">
+            <Shape><Polygon POINTS="2684 1610 2699 1646 3648 1154 3633 1119 3593 1043 3166 1234 3161 1234 3161 1239 3156 1239 3126 1284 2644 1535 2684 1610"/></Shape>
+            <String CONTENT="Amnistie en vertu de la" HPOS="2644" VPOS="1043" WIDTH="1004" HEIGHT="603"/>
+          </TextLine>
+          <TextLine ID="eSc_line_858193c4" BASELINE="2969 1669 3416 1422" HPOS="2935" VPOS="1359" WIDTH="492" HEIGHT="352">
+            <Shape><Polygon POINTS="3412 1420 3377 1359 2935 1605 2965 1666 2991 1711 3427 1455 3412 1420"/></Shape>
+            <String CONTENT="Le Greffier" HPOS="2935" VPOS="1359" WIDTH="492" HEIGHT="352"/>
+          </TextLine>
+          <TextLine ID="eSc_line_7f011793" BASELINE="2718 1717 3611 1226" HPOS="2679" VPOS="1159" WIDTH="939" HEIGHT="587">
+            <Shape><Polygon POINTS="2730 1746 3101 1570 3106 1570 3126 1550 3136 1545 3146 1535 3267 1450 3282 1440 3327 1440 3332 1440 3337 1440 3543 1329 3548 1329 3548 1324 3618 1244 3608 1224 3568 1159 2679 1646 2714 1716 2730 1746"/></Shape>
+            <String CONTENT="Loi du 24 Octobre 1919" HPOS="2679" VPOS="1159" WIDTH="939" HEIGHT="587" WC="0.9978995702483437"/>
+          </TextLine>
+          <TextLine ID="eSc_line_26ce7f80" TAGREFS="LT10974" BASELINE="3191 1773 3278 1732 3639 1522" HPOS="3121" VPOS="1425" WIDTH="532" HEIGHT="406">
+            <Shape><Polygon POINTS="3221 1831 3477 1716 3482 1716 3482 1711 3487 1711 3558 1615 3573 1595 3653 1550 3638 1520 3578 1425 3487 1435 3482 1435 3477 1435 3362 1530 3256 1615 3121 1646 3186 1771 3221 1831"/></Shape>
+            <String CONTENT="+" HPOS="3121" VPOS="1425" WIDTH="532" HEIGHT="406" WC="0.9999992847442627"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

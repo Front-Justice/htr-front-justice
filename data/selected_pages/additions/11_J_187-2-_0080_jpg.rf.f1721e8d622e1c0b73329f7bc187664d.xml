@@ -1,0 +1,44 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-2-_0080_jpg.rf.f1721e8d622e1c0b73329f7bc187664d.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3764" HEIGHT="6183" PHYSICAL_IMG_NR="314" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3764" HEIGHT="6183">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_21d06c75" BASELINE="314 4109 283 2982" HPOS="211" VPOS="2972" WIDTH="175" HEIGHT="1134">
+            <Shape><Polygon POINTS="278 2978 211 2978 226 4106 309 4106 366 4096 350 3833 386 3570 386 3565 386 3560 386 3555 381 3555 350 3519 350 3431 381 3359 381 3354 381 3349 314 2972 278 2978"/></Shape>
+            <String CONTENT="L'OFFICIER D'ADMINISTRATION BOUDOT GREFFIER DU CONSEIL" HPOS="211" VPOS="2972" WIDTH="175" HEIGHT="1134"/>
+          </TextLine>
+          <TextLine ID="eSc_line_90d83ccb" BASELINE="467 4739 477 4259" HPOS="360" VPOS="4250" WIDTH="227" HEIGHT="485">
+            <Shape><Polygon POINTS="474 4255 391 4250 360 4719 464 4735 577 4735 587 4255 474 4255"/></Shape>
+            <String CONTENT="+" HPOS="360" VPOS="4250" WIDTH="227" HEIGHT="485" WC="0.9999240636825562"/>
+          </TextLine>
+          <TextLine ID="eSc_line_046a470b" BASELINE="98 4919 94 3676 94 3256 81 3183 65 2435" HPOS="5" VPOS="2426" WIDTH="118" HEIGHT="2489">
+            <Shape><Polygon POINTS="61 2431 5 2431 30 4915 97 4915 123 4905 108 2426 61 2431"/></Shape>
+            <String CONTENT="Le présent jugement a commencé a recevoir son exécution le huit août mil" HPOS="5" VPOS="2426" WIDTH="118" HEIGHT="2489"/>
+          </TextLine>
+          <TextLine ID="eSc_line_847a0bfe" BASELINE="322 4960 334 4275" HPOS="252" VPOS="4266" WIDTH="155" HEIGHT="690">
+            <Shape><Polygon POINTS="329 4271 252 4266 252 4951 319 4956 360 4956 402 4766 407 4766 407 4271 329 4271"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur" HPOS="252" VPOS="4266" WIDTH="155" HEIGHT="690"/>
+          </TextLine>
+          <TextLine ID="eSc_line_50e489c8" BASELINE="147 5049 143 4299 151 3835 134 3277 126 2509" HPOS="67" VPOS="2498" WIDTH="123" HEIGHT="2546">
+            <Shape><Polygon POINTS="123 2504 67 2504 67 2674 72 2725 72 2880 77 2931 77 3137 97 3292 97 4889 77 4894 82 5044 144 5044 190 5033 154 2498 123 2504"/></Shape>
+            <String CONTENT="neuf cent dix neuf à la parade, pour compter du vingt six mai" HPOS="67" VPOS="2498" WIDTH="123" HEIGHT="2546"/>
+          </TextLine>
+          <TextLine ID="eSc_line_2d156382" BASELINE="216 5054 208 4185 204 3778 187 3411 187 3122 183 2672" HPOS="128" VPOS="2663" WIDTH="155" HEIGHT="2386">
+            <Shape><Polygon POINTS="180 2668 128 2668 128 3246 134 3297 134 3400 144 3555 144 3658 149 3709 149 4018 144 4070 144 4997 134 4997 139 5049 211 5049 268 5044 257 4781 283 4688 252 4343 278 4116 252 4091 273 4018 273 4008 242 3539 268 3246 237 3143 262 2710 237 2663 180 2668"/></Shape>
+            <String CONTENT="mil neuf cent dix neuf. (Détention preventive du 26 mai 1919.)" HPOS="128" VPOS="2663" WIDTH="155" HEIGHT="2386"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

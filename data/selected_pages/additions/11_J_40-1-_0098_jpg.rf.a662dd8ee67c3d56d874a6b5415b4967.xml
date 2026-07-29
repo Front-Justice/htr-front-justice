@@ -1,0 +1,36 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_40-1-_0098_jpg.rf.a662dd8ee67c3d56d874a6b5415b4967.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3552" HEIGHT="6029" PHYSICAL_IMG_NR="88" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3552" HEIGHT="6029">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_1a2c7b81" TAGREFS="LT10974" BASELINE="495 5563 2581 5522" HPOS="488" VPOS="5406" WIDTH="2092" HEIGHT="216">
+            <Shape><Polygon POINTS="493 5561 493 5622 1569 5576 1635 5586 1730 5601 1735 5601 1740 5601 1826 5581 1846 5576 1901 5576 2309 5591 2314 5591 2580 5551 2580 5521 2560 5406 2460 5436 2419 5411 2414 5411 2409 5411 2404 5411 1926 5421 1921 5421 1916 5421 1916 5426 1911 5426 1881 5456 1861 5441 1856 5441 1851 5441 1846 5441 1841 5441 1725 5476 488 5476 493 5561"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution le 18 janvier 1918" HPOS="488" VPOS="5406" WIDTH="2092" HEIGHT="216"/>
+          </TextLine>
+          <TextLine ID="eSc_line_17f61e27" TAGREFS="LT10974" BASELINE="512 5641 2335 5618" HPOS="503" VPOS="5551" WIDTH="1831" HEIGHT="151">
+            <Shape><Polygon POINTS="508 5637 508 5687 865 5702 870 5702 1006 5682 1061 5672 1106 5677 1262 5702 1267 5702 1272 5702 1348 5672 1353 5672 1358 5672 1403 5702 1408 5702 1413 5702 1418 5702 1564 5697 1569 5697 1574 5697 1574 5692 1599 5667 1604 5667 1615 5667 1755 5687 1760 5687 1977 5662 1982 5662 1987 5662 2173 5692 2178 5692 2334 5652 2334 5617 2319 5551 503 5571 508 5637"/></Shape>
+            <String CONTENT="Détention subie du 20 X^bre 1917 au 17 Janvier 1918 pour les deux" HPOS="503" VPOS="5551" WIDTH="1831" HEIGHT="151"/>
+          </TextLine>
+          <TextLine ID="eSc_line_0ff3769b" TAGREFS="LT10974" BASELINE="1591 5734 2176 5710" HPOS="1584" VPOS="5637" WIDTH="589" HEIGHT="191">
+            <Shape><Polygon POINTS="1589 5732 1589 5828 1881 5828 1881 5823 1886 5823 2173 5747 2173 5707 2158 5637 1584 5647 1589 5732"/></Shape>
+            <String CONTENT="le Greffier" HPOS="1584" VPOS="5637" WIDTH="589" HEIGHT="191" WC="0.917304662140933"/>
+          </TextLine>
+          <TextLine ID="eSc_line_f93c32fe" TAGREFS="LT10974" BASELINE="1334 5931 2215 5866" HPOS="1323" VPOS="5772" WIDTH="890" HEIGHT="216">
+            <Shape><Polygon POINTS="1333 5928 1333 5963 1464 5988 1469 5988 1876 5958 2213 5898 2213 5863 2203 5772 1323 5812 1333 5928"/></Shape>
+            <String CONTENT="+" HPOS="1323" VPOS="5772" WIDTH="890" HEIGHT="216"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
