@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
-      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
@@ -14,73 +11,24 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="3860"
-          HEIGHT="6144"
-          PHYSICAL_IMG_NR="50"
-          ID="eSc_dummypage_">
-      <PrintSpace HPOS="0"
-                  VPOS="0"
-                  WIDTH="3860"
-                  HEIGHT="6144">
+    <Page WIDTH="3860" HEIGHT="6144" PHYSICAL_IMG_NR="50" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3860" HEIGHT="6144">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_fabec1af"
-                    TAGREFS="LT11707"
-                    BASELINE="351 5632 874 5601 2347 5584" 
-                    HPOS="343.0"
-                    VPOS="5478.0"
-                    WIDTH="1999.0"
-                    HEIGHT="184.0">
+          <TextLine ID="eSc_line_fabec1af" TAGREFS="LT11707" BASELINE="351 5632 874 5601 2347 5584" HPOS="343.0" VPOS="5478.0" WIDTH="1999.0" HEIGHT="184.0">
             <Shape><Polygon POINTS="348 5632 348 5662 2337 5626 2342 5580 2322 5483 2199 5519 2142 5478 2137 5478 2132 5478 2127 5478 2122 5478 2050 5504 2024 5478 2019 5478 2014 5478 1804 5478 1799 5478 1794 5478 1650 5529 1266 5509 1261 5509 1255 5509 1189 5534 686 5524 681 5524 563 5550 404 5514 399 5514 394 5514 389 5514 343 5539 348 5632"/></Shape>
-            <String CONTENT="le présent jugement a commencé à recevoir son exécution le"
-                    HPOS="343.0"
-                    VPOS="5478.0"
-                    WIDTH="1999.0"
-                    HEIGHT="184.0"
-                    ></String>
+            <String CONTENT="le présent jugement a commencé à recevoir son exécution le" HPOS="343.0" VPOS="5478.0" WIDTH="1999.0" HEIGHT="184.0"/>
           </TextLine>
-          <TextLine ID="eSc_line_261190b9"
-                    TAGREFS="LT11707"
-                    BASELINE="285 5703 2398 5638" 
-                    HPOS="276.0"
-                    VPOS="5575.0"
-                    WIDTH="2117.0"
-                    HEIGHT="185.0">
+          <TextLine ID="eSc_line_261190b9" TAGREFS="LT11707" BASELINE="285 5703 2398 5638" HPOS="276.0" VPOS="5575.0" WIDTH="2117.0" HEIGHT="185.0">
             <Shape><Polygon POINTS="2327 5585 2276 5585 2224 5585 2173 5585 2122 5585 2070 5585 2019 5585 1994 5585 1814 5585 1814 5591 1799 5591 486 5621 481 5626 456 5626 420 5626 379 5632 374 5626 276 5626 281 5698 281 5760 804 5760 804 5754 809 5754 917 5719 1153 5739 1158 5739 1163 5739 1240 5703 1481 5719 1486 5719 1491 5719 1573 5688 1707 5713 1712 5713 1717 5713 1722 5713 1753 5688 2393 5688 2393 5637 2378 5575 2322 5575 2327 5585"/></Shape>
-            <String CONTENT="onze Août 1916 pour compter du Douze Juillet 1916"
-                    HPOS="276.0"
-                    VPOS="5575.0"
-                    WIDTH="2117.0"
-                    HEIGHT="185.0"
-                    ></String>
+            <String CONTENT="onze Août 1916 pour compter du Douze Juillet 1916" HPOS="276.0" VPOS="5575.0" WIDTH="2117.0" HEIGHT="185.0"/>
           </TextLine>
-          <TextLine ID="eSc_line_56503922"
-                    TAGREFS="LT11707"
-                    BASELINE="1544 5768 2074 5747" 
-                    HPOS="1537.0"
-                    VPOS="5652.0"
-                    WIDTH="533.0"
-                    HEIGHT="164.0">
+          <TextLine ID="eSc_line_56503922" TAGREFS="LT11707" BASELINE="1544 5768 2074 5747" HPOS="1537.0" VPOS="5652.0" WIDTH="533.0" HEIGHT="164.0">
             <Shape><Polygon POINTS="1845 5657 1794 5657 1783 5657 1712 5672 1691 5657 1691 5657 1640 5657 1630 5672 1614 5662 1589 5662 1558 5662 1537 5672 1542 5765 1542 5816 2070 5795 2070 5744 2060 5672 1886 5652 1845 5657"/></Shape>
-            <String CONTENT="Le Greffier"
-                    HPOS="1537.0"
-                    VPOS="5652.0"
-                    WIDTH="533.0"
-                    HEIGHT="164.0"
-                    ></String>
+            <String CONTENT="Le Greffier" HPOS="1537.0" VPOS="5652.0" WIDTH="533.0" HEIGHT="164.0"/>
           </TextLine>
-          <TextLine ID="eSc_line_57fc73e7"
-                    BASELINE="1311 5900 2385 5804" 
-                    HPOS="1296.0"
-                    VPOS="5703.0"
-                    WIDTH="1092.0"
-                    HEIGHT="261.0">
+          <TextLine ID="eSc_line_57fc73e7" BASELINE="1311 5900 2385 5804" HPOS="1296.0" VPOS="5703.0" WIDTH="1092.0" HEIGHT="261.0">
             <Shape><Polygon POINTS="1307 5898 1307 5964 2388 5882 2383 5800 2368 5703 2081 5765 1819 5765 1814 5765 1645 5800 1589 5775 1583 5775 1578 5775 1573 5775 1568 5775 1501 5816 1445 5790 1440 5790 1435 5790 1430 5790 1296 5826 1307 5898"/></Shape>
-            <String CONTENT="+"
-                    HPOS="1296.0"
-                    VPOS="5703.0"
-                    WIDTH="1092.0"
-                    HEIGHT="261.0"
-                    WC="0.9999768733978271"></String>
+            <String CONTENT="+" HPOS="1296.0" VPOS="5703.0" WIDTH="1092.0" HEIGHT="261.0" WC="0.9999768733978271"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

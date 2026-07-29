@@ -1,0 +1,40 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_31-1-0279_jpg.rf.d9e23181850c4133dcccb5bec01c2dc2.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3707" HEIGHT="5924" PHYSICAL_IMG_NR="16" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3707" HEIGHT="5924">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_14a18420" BASELINE="2412 1183 3415 1153" HPOS="2402" VPOS="1051" WIDTH="1008" HEIGHT="173">
+            <Shape><Polygon POINTS="2407 1179 2407 1224 3237 1219 3410 1184 3410 1150 3400 1076 3232 1051 3227 1051 3044 1081 3010 1091 2402 1095 2407 1179"/></Shape>
+            <String CONTENT="Par arrêt de la cour d'appel de" HPOS="2402" VPOS="1051" WIDTH="1008" HEIGHT="173"/>
+          </TextLine>
+          <TextLine ID="eSc_line_e2e8cf12" BASELINE="2404 1280 3440 1242" HPOS="2397" VPOS="1150" WIDTH="1038" HEIGHT="173">
+            <Shape><Polygon POINTS="2402 1278 2402 1303 2693 1298 2698 1298 2777 1323 2782 1323 2787 1323 3435 1273 3435 1239 3420 1150 3252 1184 2397 1199 2402 1278"/></Shape>
+            <String CONTENT="Bastia du 8 Janvier 1919, la" HPOS="2397" VPOS="1150" WIDTH="1038" HEIGHT="173" WC="0.9779079662902015"/>
+          </TextLine>
+          <TextLine ID="eSc_line_a7ad5a41" BASELINE="2374 1365 3462 1314" HPOS="2367" VPOS="1253" WIDTH="1092" HEIGHT="168">
+            <Shape><Polygon POINTS="2664 1268 2614 1273 2604 1273 2441 1298 2367 1278 2372 1362 2377 1421 2486 1392 2728 1402 2911 1406 2916 1406 3459 1352 3459 1313 3445 1253 2718 1283 2683 1268 2664 1268"/></Shape>
+            <String CONTENT="réhabilitation a été prononcé." HPOS="2367" VPOS="1253" WIDTH="1092" HEIGHT="168"/>
+          </TextLine>
+          <TextLine ID="eSc_line_82a912a3" BASELINE="2615 1458 3229 1424" HPOS="2604" VPOS="1357" WIDTH="623" HEIGHT="153">
+            <Shape><Polygon POINTS="2614 1456 2614 1500 2782 1510 2787 1510 2921 1481 2970 1471 3005 1476 3133 1490 3138 1490 3143 1490 3227 1456 3227 1421 3212 1357 2604 1372 2614 1456"/></Shape>
+            <String CONTENT="le 20 fevrier 1919" HPOS="2604" VPOS="1357" WIDTH="623" HEIGHT="153" WC="0.957909494638443"/>
+          </TextLine>
+          <TextLine ID="eSc_line_21135e4c" BASELINE="2814 1547 3254 1509" HPOS="2802" VPOS="1441" WIDTH="450" HEIGHT="183">
+            <Shape><Polygon POINTS="2812 1545 2817 1624 3252 1545 3252 1505 3237 1441 2802 1476 2812 1545"/></Shape>
+            <String CONTENT="Le greffier." HPOS="2802" VPOS="1441" WIDTH="450" HEIGHT="183"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
